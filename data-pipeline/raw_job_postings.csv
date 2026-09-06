@@ -1,0 +1,1401 @@
+job_id,title,company,location,experience_band,salary_lpa,posted_date,skills_raw
+JOB00001,Data Scientist,Lumen Digital,Bengaluru,1-3,11.2,2026-03-26,Excel|GenAI Tools|Kubernetes|MLOps|Machine Learning|PyTorch|Python|Statistics
+JOB00002,Data Analyst,DataNest,Gurugram,3-5,14.4,2026-05-01,Excel|Looker|MLOps|Pandas|Power BI|SQL
+JOB00003,Product Analyst,Meridian Softworks,Remote,3-5,16.4,2026-07-07,A/B Testing|Kubernetes|Power BI|Python|Redux|SQL|TypeScript
+JOB00004,Data Scientist,DataNest,Mumbai,3-5,17.5,2026-04-14,Deep Learning|Excel|Kubernetes|Machine Learning|Pandas|Python|SQL|Scikit-learn|Statistics
+JOB00005,ML Engineer,PixelForge,Bengaluru,1-3,14.3,2026-06-11,AWS|Deep Learning|Jenkins|MLOps|Machine Learning|PyTorch|SQL|TypeScript
+JOB00006,DevOps Engineer,TrueNorth Data,Delhi NCR,5-8,25.4,2026-03-03,GCP|Jenkins|Kubernetes|Linux|Terraform
+JOB00007,Data Scientist,Corestack,Noida,5-8,23.6,2026-06-01,Deep Learning|Excel|GenAI Tools|Kubernetes|MLOps|SQL|Scikit-learn|Statistics
+JOB00008,Product Analyst,Northbridge Analytics,Remote,5-8,29.3,2026-07-27,A/B Testing|Excel|Kubernetes|MLOps|Power BI|Product Metrics|Statistics|TypeScript
+JOB00009,Backend Developer,Arclight IT,Hyderabad,3-5,13.1,2026-04-15,AWS|Excel|GenAI Tools|MLOps|Microservices|Node.js|System Design|TypeScript
+JOB00010,ML Engineer,PixelForge,Delhi NCR,5-8,32.2,2026-08-08,AWS|Excel|GenAI Tools|MLOps|Machine Learning|PyTorch|Python|SQL|TypeScript
+JOB00011,Data Scientist,CloudPeak Technologies,Delhi NCR,3-5,21.0,2026-03-26,GenAI Tools|Kubernetes|Pandas|Python|Scikit-learn|Statistics
+JOB00012,Data Engineer,Novara Systems,Hyderabad,1-3,8.1,2026-05-12,Airflow|Kafka|MLOps|SQL|Spark
+JOB00013,MERN Stack Developer,Quantify Labs,Delhi NCR,3-5,15.3,2026-06-07,AWS|Express.js|GenAI Tools|JWT|JavaScript|Kubernetes|MLOps|MongoDB|Redux
+JOB00014,Product Analyst,Ironclad Technologies,Mumbai,0-1,6.3,2026-06-28,A/B Testing|Excel|Kubernetes|MLOps|Power BI|Product Metrics|Python|Redux|Statistics|TypeScript
+JOB00015,Data Scientist,Arclight IT,Mumbai,1-3,13.3,2026-08-17,AWS|Deep Learning|MLOps|Machine Learning|Pandas|Scikit-learn|TypeScript
+JOB00016,Data Scientist,PixelForge,Remote,1-3,9.2,2026-08-09,Deep Learning|Jenkins|Kubernetes|MLOps|Pandas|SQL|Scikit-learn|TypeScript
+JOB00017,Data Analyst,PixelForge,Hyderabad,3-5,17.2,2026-04-17,A/B Testing|Excel|GenAI Tools|Kubernetes|Looker|Pandas|SQL|Statistics|TypeScript
+JOB00018,Business Analyst,Vertex Software,Chennai,1-3,6.2,2026-06-10,AWS|Excel|Jira|Power BI|SQL|Stakeholder Management|Statistics|Tableau
+JOB00019,Data Analyst,BrightWave Solutions,Noida,1-3,7.7,2026-08-15,AWS|Excel|GenAI Tools|MLOps|Pandas|Power BI|SQL|Tableau|TypeScript
+JOB00020,Data Analyst,Lumen Digital,Bengaluru,1-3,10.0,2026-08-23,A/B Testing|Excel|GenAI Tools|MLOps|Pandas|Python|Redux|SQL|Statistics|TypeScript
+JOB00021,Business Analyst,Northbridge Analytics,Hyderabad,8+,35.4,2026-08-15,AWS|Excel|GenAI Tools|Kubernetes|MLOps|Power BI|Requirements Gathering|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB00022,MERN Stack Developer,Innotech Systems,Hyderabad,1-3,10.6,2026-04-08,AWS|Excel|Express.js|GenAI Tools|JavaScript|Kubernetes|REST API|Redux|TypeScript
+JOB00023,Business Analyst,BrightWave Solutions,Chennai,5-8,25.4,2026-03-27,Jenkins|Jira|Requirements Gathering|SQL|Stakeholder Management
+JOB00024,Data Scientist,BrightWave Solutions,Gurugram,1-3,10.7,2026-08-22,GenAI Tools|MLOps|Machine Learning|Pandas|PyTorch|Python|Statistics
+JOB00025,DevOps Engineer,DataNest,Pune,5-8,28.0,2026-05-26,AWS|CI/CD|Docker|Excel|GCP|GenAI Tools|Jenkins|Kubernetes|MLOps|Python|Terraform|TypeScript
+JOB00026,Business Analyst,Skyline InfoTech,Bengaluru,1-3,9.3,2026-05-24,Jenkins|Jira|Stakeholder Management|Statistics|Tableau
+JOB00027,Full Stack Developer,TrueNorth Data,Mumbai,5-8,25.4,2026-08-11,AWS|JavaScript|Node.js|REST API|React|SQL|TypeScript
+JOB00028,Data Analyst,Skyline InfoTech,Bengaluru,0-1,5.4,2026-05-24,AWS|Excel|Kubernetes|Pandas|Statistics|Tableau
+JOB00029,Data Analyst,Meridian Softworks,Kolkata,1-3,6.8,2026-03-13,AWS|GenAI Tools|MLOps|Power BI|Redux|SQL|Statistics|TypeScript
+JOB00030,Product Analyst,Vertex Software,Kolkata,5-8,26.9,2026-03-30,A/B Testing|AWS|Excel|Jenkins|Power BI|SQL|Statistics|Tableau
+JOB00031,Product Analyst,Meridian Softworks,Gurugram,3-5,12.8,2026-06-29,A/B Testing|MLOps|Product Metrics|SQL|Tableau
+JOB00032,DevOps Engineer,GreenPath Analytics,Gurugram,1-3,11.5,2026-07-12,AWS|CI/CD|GenAI Tools|Jenkins|Kubernetes|Linux|MLOps|Python
+JOB00033,Backend Developer,Ironclad Technologies,Delhi NCR,5-8,20.5,2026-04-20,Docker|Excel|Node.js|Redis|SQL
+JOB00034,Business Analyst,Pinnacle Cloud,Delhi NCR,1-3,6.6,2026-06-09,AWS|GenAI Tools|Jira|Power BI|Requirements Gathering|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB00035,ML Engineer,Pinnacle Cloud,Delhi NCR,8+,52.1,2026-06-04,AWS|Deep Learning|GenAI Tools|Kubernetes|MLOps|Machine Learning|PyTorch|SQL|TypeScript
+JOB00036,Data Scientist,Pinnacle Cloud,Noida,1-3,13.7,2026-05-27,GenAI Tools|Pandas|PyTorch|Python|Redux|SQL|Scikit-learn|Statistics|TypeScript
+JOB00037,Data Scientist,Skyline InfoTech,Mumbai,3-5,14.6,2026-07-22,GenAI Tools|Pandas|PyTorch|SQL|Statistics|TypeScript
+JOB00038,Data Scientist,DataNest,Bengaluru,3-5,16.8,2026-03-29,GenAI Tools|MLOps|Machine Learning|PyTorch|Python|SQL|Scikit-learn
+JOB00039,DevOps Engineer,PixelForge,Delhi NCR,8+,41.2,2026-07-29,AWS|GenAI Tools|Jenkins|Kubernetes|Python
+JOB00040,ML Engineer,Quantify Labs,Bengaluru,5-8,23.6,2026-07-12,AWS|Docker|GenAI Tools|Kubernetes|Machine Learning|Python|SQL|TypeScript
+JOB00041,Product Analyst,Novara Systems,Hyderabad,8+,46.6,2026-05-25,A/B Testing|AWS|Excel|Power BI|Product Metrics|Python|SQL|Tableau
+JOB00042,Full Stack Developer,Innotech Systems,Noida,3-5,16.5,2026-06-07,AWS|Docker|Excel|GenAI Tools|JavaScript|Kubernetes|MongoDB|React|SQL|TypeScript
+JOB00043,Business Analyst,Corestack,Gurugram,3-5,13.1,2026-06-09,GenAI Tools|Jira|SQL|Stakeholder Management|Statistics|TypeScript
+JOB00044,ML Engineer,ByteBloom,Mumbai,1-3,8.8,2026-06-18,Deep Learning|Docker|GenAI Tools|Kubernetes|MLOps|Machine Learning|PyTorch
+JOB00045,DevOps Engineer,Fintara,Pune,3-5,17.5,2026-06-07,AWS|CI/CD|Docker|GCP|Linux|Python|Terraform|TypeScript
+JOB00046,Data Engineer,Quantify Labs,Pune,0-1,6.1,2026-08-23,AWS|Airflow|Data Warehousing|GCP|GenAI Tools|Kubernetes|Python|SQL
+JOB00047,Backend Developer,TrueNorth Data,Noida,1-3,6.9,2026-04-27,AWS|MongoDB|Node.js|REST API|Redis|SQL|System Design|TypeScript
+JOB00048,Data Analyst,Meridian Softworks,Delhi NCR,1-3,10.0,2026-04-14,AWS|Excel|GenAI Tools|Jenkins|Kubernetes|Looker|Power BI|Python|Redux|SQL|Tableau
+JOB00049,MERN Stack Developer,DataNest,Chennai,0-1,5.9,2026-08-20,AWS|Excel|Express.js|GenAI Tools|JWT|JavaScript|Kubernetes|React|Redux|TypeScript
+JOB00050,Full Stack Developer,Pinnacle Cloud,Delhi NCR,5-8,25.9,2026-07-20,AWS|Docker|Node.js|TypeScript
+JOB00051,Data Analyst,GreenPath Analytics,Delhi NCR,0-1,5.6,2026-05-06,A/B Testing|AWS|Excel|MLOps|Pandas|Power BI|Tableau
+JOB00052,ML Engineer,Corestack,Kolkata,5-8,29.2,2026-05-01,Excel|GenAI Tools|Machine Learning|PyTorch|SQL
+JOB00053,ML Engineer,Lumen Digital,Hyderabad,3-5,22.8,2026-07-28,AWS|Deep Learning|Docker|Excel|GenAI Tools|MLOps|Machine Learning|Python|TypeScript
+JOB00054,MERN Stack Developer,Vertex Software,Kolkata,0-1,6.1,2026-08-09,AWS|JWT|REST API|Redux|TypeScript
+JOB00055,MERN Stack Developer,Meridian Softworks,Bengaluru,1-3,9.4,2026-05-20,AWS|Express.js|JavaScript|Kubernetes|REST API|Redux|TypeScript
+JOB00056,Data Analyst,Fintara,Bengaluru,1-3,8.7,2026-03-23,Excel|GenAI Tools|Looker|Power BI|Redux|Tableau
+JOB00057,Data Engineer,Innotech Systems,Bengaluru,0-1,5.7,2026-05-05,ETL|Excel|GCP|MLOps|Python|SQL|Spark
+JOB00058,Product Analyst,Arclight IT,Bengaluru,1-3,9.6,2026-06-26,A/B Testing|GenAI Tools|Jenkins|Kubernetes|Product Metrics|Python|SQL
+JOB00059,DevOps Engineer,ByteBloom,Gurugram,8+,37.4,2026-06-05,AWS|CI/CD|Docker|GCP|Jenkins|Linux|Python|Redux|TypeScript
+JOB00060,Data Engineer,Novara Systems,Chennai,0-1,5.5,2026-07-30,AWS|ETL|GCP|Kafka|MLOps|Python
+JOB00061,Data Analyst,Ironclad Technologies,Kolkata,1-3,9.1,2026-03-19,A/B Testing|Power BI|Python|SQL|Statistics|TypeScript
+JOB00062,DevOps Engineer,Lumen Digital,Bengaluru,0-1,4.9,2026-04-19,AWS|CI/CD|Docker|Excel|GCP|Kubernetes|Linux|MLOps|Python
+JOB00063,Backend Developer,Pinnacle Cloud,Gurugram,3-5,17.0,2026-08-08,AWS|Excel|GenAI Tools|Kubernetes|MLOps|MongoDB|Node.js|REST API|Redis|System Design
+JOB00064,Product Analyst,Corestack,Pune,0-1,4.3,2026-05-11,Excel|Jenkins|Kubernetes|Power BI|Python|SQL|TypeScript
+JOB00065,DevOps Engineer,Meridian Softworks,Noida,0-1,6.3,2026-08-04,AWS|CI/CD|GenAI Tools|Jenkins|Python|Redux
+JOB00066,Product Analyst,Meridian Softworks,Pune,0-1,6.1,2026-08-01,A/B Testing|AWS|GenAI Tools|Jenkins|Kubernetes|MLOps|Python|SQL|Statistics|Tableau|TypeScript
+JOB00067,Backend Developer,PixelForge,Hyderabad,1-3,10.1,2026-03-27,MLOps|Microservices|Node.js|REST API|Redis|System Design
+JOB00068,Product Analyst,Fintara,Delhi NCR,1-3,9.0,2026-03-13,A/B Testing|Excel|GenAI Tools|Power BI|Python|SQL|Statistics|Tableau|TypeScript
+JOB00069,ML Engineer,Quantify Labs,Mumbai,1-3,14.2,2026-07-26,AWS|Docker|GenAI Tools|Jenkins|MLOps|Machine Learning|Python
+JOB00070,DevOps Engineer,DataNest,Pune,1-3,7.4,2026-08-15,AWS|GCP|Jenkins|Kubernetes|Linux|MLOps|Python|Terraform|TypeScript
+JOB00071,Data Engineer,Corestack,Remote,8+,38.7,2026-07-06,AWS|Airflow|Data Warehousing|Docker|GCP|Python|Spark
+JOB00072,Data Engineer,Fintara,Kolkata,8+,33.7,2026-05-28,Docker|GCP|Python|SQL|Spark
+JOB00073,Data Engineer,Ironclad Technologies,Noida,5-8,22.0,2026-03-31,Airflow|Data Warehousing|Docker|ETL|Kafka|Python|SQL
+JOB00074,Product Analyst,GreenPath Analytics,Kolkata,5-8,20.2,2026-07-20,A/B Testing|Excel|Kubernetes|Power BI|Product Metrics|Python|SQL|Statistics
+JOB00075,DevOps Engineer,Skyline InfoTech,Bengaluru,0-1,4.1,2026-08-13,AWS|CI/CD|GCP|GenAI Tools|Jenkins|Kubernetes|Linux|MLOps|Python|TypeScript
+JOB00076,ML Engineer,PixelForge,Chennai,5-8,27.3,2026-05-25,Deep Learning|Excel|GenAI Tools|Machine Learning|Python|SQL
+JOB00077,Product Analyst,Vertex Software,Pune,5-8,23.4,2026-05-30,A/B Testing|Excel|Power BI|Product Metrics|Redux|TypeScript
+JOB00078,DevOps Engineer,Arclight IT,Gurugram,3-5,19.0,2026-05-11,AWS|GCP|Jenkins|Kubernetes|Linux|Python|Terraform
+JOB00079,Data Engineer,GreenPath Analytics,Noida,8+,30.9,2026-05-27,Data Warehousing|GCP|GenAI Tools|Kubernetes|MLOps|Python|SQL|Spark
+JOB00080,Business Analyst,Quantify Labs,Delhi NCR,5-8,23.5,2026-04-30,Jira|Stakeholder Management|Statistics|Tableau
+JOB00081,Data Scientist,DataNest,Hyderabad,3-5,15.2,2026-04-28,Deep Learning|GenAI Tools|Pandas|PyTorch|Scikit-learn
+JOB00082,Data Analyst,ByteBloom,Bengaluru,1-3,7.9,2026-07-24,A/B Testing|Excel|Kubernetes|Looker|MLOps|Python|SQL|TypeScript
+JOB00083,Data Scientist,Arclight IT,Mumbai,1-3,13.7,2026-04-27,Deep Learning|MLOps|Machine Learning|Pandas|PyTorch|Python|Redux|TypeScript
+JOB00084,Business Analyst,Northbridge Analytics,Bengaluru,3-5,11.2,2026-08-11,AWS|Excel|Kubernetes|MLOps|Power BI|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB00085,Business Analyst,BrightWave Solutions,Noida,5-8,22.5,2026-03-05,Excel|Jenkins|Jira|Requirements Gathering|SQL|Stakeholder Management|Statistics
+JOB00086,ML Engineer,Arclight IT,Pune,1-3,8.3,2026-08-07,AWS|Deep Learning|Docker|GenAI Tools|MLOps|PyTorch|Python|TypeScript
+JOB00087,Business Analyst,TrueNorth Data,Chennai,1-3,10.2,2026-06-22,Excel|Kubernetes|MLOps|Power BI|Redux|Requirements Gathering|Statistics
+JOB00088,Product Analyst,CloudPeak Technologies,Delhi NCR,5-8,22.0,2026-05-15,AWS|Excel|Power BI|Product Metrics|Statistics|Tableau|TypeScript
+JOB00089,ML Engineer,Ironclad Technologies,Delhi NCR,0-1,5.4,2026-08-04,AWS|Deep Learning|Docker|GenAI Tools|Kubernetes|MLOps|Machine Learning|PyTorch|Python|TypeScript
+JOB00090,Data Engineer,Pinnacle Cloud,Noida,5-8,27.8,2026-04-04,AWS|Airflow|Data Warehousing|Docker|Excel|GCP|Jenkins|Spark
+JOB00091,ML Engineer,Innotech Systems,Delhi NCR,5-8,31.4,2026-05-18,AWS|Deep Learning|Kubernetes|MLOps|PyTorch|Python|SQL
+JOB00092,Data Scientist,Vertex Software,Bengaluru,1-3,8.4,2026-07-23,AWS|Deep Learning|Jenkins|MLOps|Machine Learning|PyTorch|SQL|Scikit-learn|TypeScript
+JOB00093,Product Analyst,ByteBloom,Delhi NCR,8+,44.6,2026-07-13,A/B Testing|AWS|GenAI Tools|Kubernetes|Power BI|Product Metrics|Python|Statistics|Tableau|TypeScript
+JOB00094,Data Analyst,Lumen Digital,Mumbai,8+,33.8,2026-07-21,A/B Testing|GenAI Tools|Pandas|Python|SQL|Tableau|TypeScript
+JOB00095,Full Stack Developer,CloudPeak Technologies,Bengaluru,1-3,10.3,2026-07-20,AWS|Docker|Kubernetes|MLOps|MongoDB|Node.js|React|SQL|TypeScript
+JOB00096,MERN Stack Developer,CloudPeak Technologies,Mumbai,8+,46.8,2026-04-20,AWS|Express.js|GenAI Tools|JavaScript|Node.js|REST API|Redux|TypeScript
+JOB00097,Backend Developer,PixelForge,Kolkata,1-3,7.9,2026-04-22,AWS|Jenkins|Kubernetes|MongoDB|REST API|Redis|Redux|System Design
+JOB00098,Data Analyst,Arclight IT,Chennai,1-3,9.3,2026-04-12,A/B Testing|AWS|GenAI Tools|Pandas|SQL|Statistics
+JOB00099,MERN Stack Developer,Quantify Labs,Delhi NCR,8+,27.0,2026-03-17,AWS|Excel|Express.js|GenAI Tools|MongoDB|Node.js|React|TypeScript
+JOB00100,MERN Stack Developer,Vertex Software,Mumbai,8+,38.2,2026-04-30,AWS|Express.js|GenAI Tools|JavaScript|MLOps|Node.js|React|Redux|TypeScript
+JOB00101,Business Analyst,ByteBloom,Delhi NCR,5-8,21.8,2026-06-02,Excel|Kubernetes|SQL|Statistics|Tableau
+JOB00102,Product Analyst,Meridian Softworks,Bengaluru,3-5,12.4,2026-03-12,A/B Testing|Excel|Power BI|Tableau
+JOB00103,Data Engineer,GreenPath Analytics,Pune,5-8,26.9,2026-06-19,AWS|Airflow|Data Warehousing|Docker|Excel|GenAI Tools|Kafka|Python|SQL|TypeScript
+JOB00104,Data Engineer,Arclight IT,Delhi NCR,1-3,11.7,2026-07-02,Airflow|Data Warehousing|Docker|GCP|Kafka|Python|SQL|TypeScript
+JOB00105,Product Analyst,Skyline InfoTech,Bengaluru,1-3,10.9,2026-03-12,A/B Testing|Excel|Power BI|SQL
+JOB00106,Full Stack Developer,TrueNorth Data,Hyderabad,0-1,6.1,2026-08-04,AWS|GenAI Tools|Kubernetes|MongoDB|Node.js|TypeScript
+JOB00107,Business Analyst,PixelForge,Pune,1-3,9.8,2026-08-18,GenAI Tools|Kubernetes|SQL|Stakeholder Management|Statistics|Tableau
+JOB00108,Business Analyst,ByteBloom,Gurugram,1-3,8.8,2026-06-07,Excel|Jira|Power BI|Requirements Gathering|TypeScript
+JOB00109,Business Analyst,Lumen Digital,Hyderabad,0-1,4.4,2026-08-20,GenAI Tools|Kubernetes|Power BI|Requirements Gathering|SQL|Stakeholder Management|Statistics
+JOB00110,Business Analyst,PixelForge,Delhi NCR,5-8,22.9,2026-08-14,Excel|GenAI Tools|Jira|MLOps|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB00111,Product Analyst,Northbridge Analytics,Bengaluru,1-3,8.4,2026-07-17,AWS|Excel|MLOps|Power BI|Product Metrics|SQL|Tableau
+JOB00112,Business Analyst,Corestack,Mumbai,1-3,6.8,2026-06-06,Excel|Jira|MLOps|Power BI|Requirements Gathering|Stakeholder Management|Statistics
+JOB00113,Data Engineer,TrueNorth Data,Bengaluru,8+,34.0,2026-06-14,AWS|Airflow|Data Warehousing|Docker|ETL|Kubernetes|Python|Spark
+JOB00114,Backend Developer,TrueNorth Data,Delhi NCR,3-5,15.5,2026-08-14,Excel|Kubernetes|Microservices|MongoDB|Node.js|Redis
+JOB00115,Backend Developer,Ironclad Technologies,Bengaluru,8+,29.9,2026-06-28,AWS|Kubernetes|Microservices|MongoDB|Node.js|Redis
+JOB00116,Data Scientist,BrightWave Solutions,Pune,1-3,8.1,2026-06-04,Deep Learning|Machine Learning|Pandas|SQL|Scikit-learn|Statistics|TypeScript
+JOB00117,Full Stack Developer,Novara Systems,Hyderabad,0-1,5.2,2026-03-02,Docker|GenAI Tools|MongoDB|Node.js|Redux|SQL|TypeScript
+JOB00118,Data Analyst,Lumen Digital,Remote,5-8,20.7,2026-06-11,Excel|GenAI Tools|Kubernetes|Pandas|Python|Redux|SQL
+JOB00119,DevOps Engineer,PixelForge,Delhi NCR,5-8,22.2,2026-07-04,AWS|Excel|GCP|Jenkins|Linux|MLOps|TypeScript
+JOB00120,ML Engineer,Meridian Softworks,Pune,3-5,14.1,2026-05-08,Deep Learning|Docker|Kubernetes|Machine Learning|PyTorch|SQL|TypeScript
+JOB00121,Data Analyst,GreenPath Analytics,Remote,1-3,7.5,2026-04-19,Excel|GenAI Tools|Power BI|Python|Statistics|Tableau|TypeScript
+JOB00122,Full Stack Developer,TrueNorth Data,Gurugram,8+,43.4,2026-08-26,AWS|Docker|GenAI Tools|JavaScript|Kubernetes|MLOps|MongoDB|Node.js|TypeScript
+JOB00123,ML Engineer,CloudPeak Technologies,Mumbai,3-5,19.3,2026-03-25,AWS|Docker|Excel|PyTorch|SQL
+JOB00124,Business Analyst,DataNest,Pune,8+,41.9,2026-08-24,AWS|Excel|Jira|Kubernetes|Power BI|Requirements Gathering|Stakeholder Management|Tableau|TypeScript
+JOB00125,ML Engineer,CloudPeak Technologies,Remote,1-3,11.3,2026-04-23,AWS|GenAI Tools|Machine Learning|PyTorch|TypeScript
+JOB00126,Full Stack Developer,Meridian Softworks,Mumbai,5-8,23.3,2026-07-26,JavaScript|MLOps|Node.js|SQL|TypeScript
+JOB00127,Data Analyst,BrightWave Solutions,Bengaluru,3-5,17.5,2026-06-03,A/B Testing|Excel|GenAI Tools|Kubernetes|Pandas|Power BI|Statistics|TypeScript
+JOB00128,Data Engineer,Fintara,Hyderabad,3-5,19.1,2026-04-07,AWS|Airflow|Data Warehousing|ETL|GCP|Kafka|Kubernetes|MLOps|Python|Redux|Spark
+JOB00129,DevOps Engineer,DataNest,Delhi NCR,1-3,11.6,2026-05-17,CI/CD|Docker|GCP|Jenkins|Linux|MLOps|Python|Terraform|TypeScript
+JOB00130,Data Scientist,TrueNorth Data,Mumbai,1-3,11.3,2026-04-29,Deep Learning|Excel|GenAI Tools|Machine Learning|Pandas|PyTorch|SQL|Scikit-learn
+JOB00131,Data Scientist,Fintara,Chennai,0-1,5.9,2026-04-25,Deep Learning|MLOps|Pandas|SQL|Scikit-learn|Statistics|TypeScript
+JOB00132,Data Engineer,GreenPath Analytics,Delhi NCR,3-5,17.4,2026-08-05,Airflow|Data Warehousing|GenAI Tools|Kafka|Kubernetes|MLOps|Spark
+JOB00133,Business Analyst,Lumen Digital,Delhi NCR,1-3,6.9,2026-04-22,Excel|GenAI Tools|Jira|Power BI|Requirements Gathering|SQL|Statistics|Tableau
+JOB00134,Data Analyst,Meridian Softworks,Pune,5-8,19.4,2026-03-16,Excel|Jenkins|Kubernetes|Looker|Pandas|Power BI|Redux|Statistics|TypeScript
+JOB00135,DevOps Engineer,Corestack,Delhi NCR,1-3,9.7,2026-04-18,AWS|GCP|Jenkins|Kubernetes
+JOB00136,Product Analyst,Skyline InfoTech,Chennai,1-3,11.4,2026-03-14,Excel|Power BI|Product Metrics|Python|Statistics
+JOB00137,Backend Developer,TrueNorth Data,Noida,1-3,11.2,2026-08-24,AWS|Jenkins|MLOps|Microservices|MongoDB|REST API|System Design
+JOB00138,Data Analyst,DataNest,Bengaluru,1-3,9.3,2026-03-01,Excel|GenAI Tools|Pandas|Power BI|Python|Redux|SQL|Tableau
+JOB00139,Data Scientist,Novara Systems,Bengaluru,0-1,6.9,2026-06-17,AWS|Deep Learning|GenAI Tools|MLOps|Machine Learning|Pandas|PyTorch|Python|Statistics|TypeScript
+JOB00140,Data Engineer,PixelForge,Chennai,0-1,5.4,2026-06-11,Airflow|Data Warehousing|Docker|ETL|GenAI Tools|Kafka|MLOps|Redux
+JOB00141,Full Stack Developer,PixelForge,Delhi NCR,1-3,11.5,2026-06-26,AWS|Excel|JavaScript|REST API|React|TypeScript
+JOB00142,Business Analyst,Vertex Software,Pune,1-3,8.5,2026-06-25,Excel|GenAI Tools|MLOps|Power BI|SQL|Statistics|TypeScript
+JOB00143,Data Analyst,Quantify Labs,Delhi NCR,8+,31.5,2026-08-20,A/B Testing|AWS|GenAI Tools|Kubernetes|Pandas|Power BI|SQL|Statistics|Tableau|TypeScript
+JOB00144,Product Analyst,Northbridge Analytics,Chennai,1-3,7.2,2026-05-19,A/B Testing|Excel|Product Metrics|Redux|SQL|Tableau|TypeScript
+JOB00145,Backend Developer,Lumen Digital,Pune,1-3,7.5,2026-03-24,Docker|Excel|Microservices|MongoDB|Node.js|REST API|Redux|SQL
+JOB00146,Data Scientist,Vertex Software,Remote,1-3,8.9,2026-06-01,GenAI Tools|MLOps|Pandas|PyTorch|Python|TypeScript
+JOB00147,Business Analyst,Fintara,Hyderabad,1-3,8.3,2026-03-15,Excel|Jira|Kubernetes|Redux|Requirements Gathering|SQL|Statistics|Tableau
+JOB00148,Data Analyst,Corestack,Hyderabad,3-5,15.5,2026-04-25,A/B Testing|Excel|Kubernetes|Looker|Pandas|Redux|Statistics
+JOB00149,Data Analyst,Innotech Systems,Kolkata,5-8,21.5,2026-05-08,A/B Testing|AWS|Excel|GenAI Tools|Kubernetes|Power BI|SQL|Statistics|TypeScript
+JOB00150,Data Scientist,Arclight IT,Mumbai,0-1,5.2,2026-07-28,AWS|Deep Learning|Kubernetes|MLOps|Python|Statistics|TypeScript
+JOB00151,Data Scientist,PixelForge,Remote,5-8,30.3,2026-06-15,Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Machine Learning|Pandas|PyTorch|SQL
+JOB00152,Product Analyst,Fintara,Bengaluru,0-1,3.7,2026-07-08,AWS|Excel|GenAI Tools|MLOps|Power BI|Product Metrics|Python|SQL|Statistics|Tableau|TypeScript
+JOB00153,Business Analyst,ByteBloom,Bengaluru,1-3,10.2,2026-06-23,AWS|Excel|GenAI Tools|Requirements Gathering|SQL|Statistics|Tableau
+JOB00154,Data Analyst,Pinnacle Cloud,Delhi NCR,1-3,8.4,2026-07-10,A/B Testing|AWS|Excel|GenAI Tools|MLOps|Python|SQL|Statistics|Tableau|TypeScript
+JOB00155,Data Scientist,PixelForge,Delhi NCR,1-3,8.9,2026-06-25,Deep Learning|GenAI Tools|Jenkins|MLOps|PyTorch|Python|Statistics
+JOB00156,MERN Stack Developer,Novara Systems,Bengaluru,3-5,13.5,2026-07-18,Express.js|Kubernetes|MLOps|Node.js|REST API|React|TypeScript
+JOB00157,Data Engineer,Pinnacle Cloud,Delhi NCR,1-3,8.6,2026-07-13,AWS|ETL|Excel|GCP|Kafka|Python|SQL
+JOB00158,Business Analyst,Novara Systems,Bengaluru,0-1,5.0,2026-08-15,AWS|Excel|GenAI Tools|Jira|Kubernetes|MLOps|Power BI|Statistics|Tableau
+JOB00159,Full Stack Developer,Fintara,Mumbai,1-3,10.6,2026-03-25,Docker|JavaScript|MongoDB|Node.js|TypeScript
+JOB00160,MERN Stack Developer,Innotech Systems,Bengaluru,8+,46.5,2026-08-20,AWS|Express.js|GenAI Tools|JWT|JavaScript|Kubernetes|MongoDB|React|Redux|TypeScript
+JOB00161,Backend Developer,Lumen Digital,Pune,1-3,10.9,2026-07-05,AWS|Docker|Kubernetes|MLOps|Microservices|Node.js|SQL|System Design|TypeScript
+JOB00162,Product Analyst,BrightWave Solutions,Chennai,1-3,9.4,2026-03-14,AWS|Excel|Power BI|Product Metrics|SQL|Statistics|TypeScript
+JOB00163,Product Analyst,Innotech Systems,Remote,1-3,10.7,2026-06-27,A/B Testing|Excel|GenAI Tools|Jenkins|Kubernetes|Power BI|Product Metrics|Python|SQL|Tableau
+JOB00164,Data Engineer,Innotech Systems,Bengaluru,1-3,9.4,2026-04-23,AWS|Airflow|Data Warehousing|Docker|Kafka|Python|Redux|SQL|Spark
+JOB00165,Full Stack Developer,GreenPath Analytics,Hyderabad,0-1,5.0,2026-05-20,AWS|Docker|JavaScript|MLOps|Node.js|React|SQL
+JOB00166,DevOps Engineer,Novara Systems,Chennai,3-5,20.6,2026-04-12,AWS|Docker|GCP|Jenkins|Linux|MLOps|Python|TypeScript
+JOB00167,Full Stack Developer,PixelForge,Delhi NCR,5-8,19.1,2026-04-16,AWS|GenAI Tools|Node.js|SQL|TypeScript
+JOB00168,Data Engineer,Pinnacle Cloud,Bengaluru,3-5,13.4,2026-08-23,AWS|GCP|GenAI Tools|Jenkins|Kafka|Kubernetes|MLOps|Python|TypeScript
+JOB00169,Product Analyst,ByteBloom,Chennai,0-1,4.0,2026-08-09,A/B Testing|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Power BI|Product Metrics|SQL|Tableau|TypeScript
+JOB00170,ML Engineer,Fintara,Gurugram,1-3,8.7,2026-05-15,GenAI Tools|MLOps|Machine Learning|Redux|SQL
+JOB00171,DevOps Engineer,Innotech Systems,Remote,1-3,9.0,2026-08-07,AWS|CI/CD|Excel|GCP|GenAI Tools|Jenkins|Python|TypeScript
+JOB00172,Product Analyst,Novara Systems,Pune,3-5,16.0,2026-05-03,AWS|Excel|GenAI Tools|Jenkins|MLOps|Power BI|Product Metrics|Python|Redux|SQL|Statistics
+JOB00173,DevOps Engineer,Innotech Systems,Bengaluru,3-5,16.3,2026-03-25,AWS|CI/CD|Excel|Jenkins|Kubernetes|Terraform
+JOB00174,Product Analyst,Vertex Software,Hyderabad,0-1,5.0,2026-08-29,A/B Testing|AWS|Kubernetes|MLOps|Power BI|Product Metrics|SQL|Statistics|Tableau|TypeScript
+JOB00175,Business Analyst,Ironclad Technologies,Remote,1-3,9.0,2026-04-28,Power BI|Requirements Gathering|SQL|Stakeholder Management|Tableau
+JOB00176,ML Engineer,Meridian Softworks,Remote,3-5,22.1,2026-08-01,Deep Learning|Docker|GenAI Tools|MLOps|Machine Learning
+JOB00177,Full Stack Developer,Fintara,Gurugram,1-3,7.7,2026-06-15,AWS|Docker|Excel|GenAI Tools|JavaScript|Kubernetes|Node.js|REST API|React|Redux|TypeScript
+JOB00178,Full Stack Developer,GreenPath Analytics,Kolkata,0-1,6.0,2026-08-04,AWS|Docker|JavaScript|Kubernetes|MLOps|MongoDB|Node.js|REST API|TypeScript
+JOB00179,Data Engineer,Skyline InfoTech,Mumbai,1-3,7.8,2026-08-23,AWS|Airflow|Docker|ETL|GCP|Kafka|Kubernetes|SQL|Spark|TypeScript
+JOB00180,DevOps Engineer,DataNest,Mumbai,0-1,6.9,2026-03-09,CI/CD|Docker|Excel|GCP|Jenkins|Kubernetes|Linux|Python
+JOB00181,Business Analyst,Pinnacle Cloud,Gurugram,3-5,10.4,2026-03-23,Jenkins|Kubernetes|Power BI|Redux|Requirements Gathering|Statistics|Tableau|TypeScript
+JOB00182,MERN Stack Developer,PixelForge,Pune,1-3,10.4,2026-07-03,Express.js|JWT|JavaScript|Kubernetes|REST API
+JOB00183,ML Engineer,CloudPeak Technologies,Delhi NCR,5-8,29.8,2026-07-30,AWS|Deep Learning|Excel|GenAI Tools|Jenkins|Kubernetes|Machine Learning|PyTorch|Python|Redux
+JOB00184,ML Engineer,Northbridge Analytics,Bengaluru,5-8,22.6,2026-03-14,AWS|Deep Learning|Docker|GenAI Tools|MLOps|Redux
+JOB00185,Data Analyst,PixelForge,Bengaluru,3-5,11.3,2026-04-01,A/B Testing|Excel|Looker|MLOps|Python|Statistics|Tableau
+JOB00186,Data Engineer,Quantify Labs,Chennai,8+,41.7,2026-08-01,Data Warehousing|Docker|Kafka|Python
+JOB00187,Full Stack Developer,Northbridge Analytics,Pune,1-3,11.7,2026-04-27,Docker|Excel|JavaScript|Kubernetes|Node.js|REST API|SQL
+JOB00188,DevOps Engineer,Novara Systems,Noida,5-8,20.0,2026-03-14,AWS|CI/CD|Docker|GCP|Jenkins|Kubernetes|Linux
+JOB00189,ML Engineer,Innotech Systems,Gurugram,0-1,6.6,2026-05-15,Docker|GenAI Tools|MLOps|Machine Learning|PyTorch|Redux
+JOB00190,ML Engineer,Meridian Softworks,Gurugram,5-8,24.8,2026-03-21,AWS|Deep Learning|GenAI Tools|PyTorch|Python|TypeScript
+JOB00191,Business Analyst,ByteBloom,Delhi NCR,1-3,10.1,2026-07-29,AWS|Excel|GenAI Tools|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB00192,Product Analyst,Arclight IT,Pune,5-8,22.5,2026-08-13,A/B Testing|AWS|MLOps|Power BI|SQL|Statistics|Tableau
+JOB00193,Data Engineer,Ironclad Technologies,Bengaluru,5-8,28.4,2026-07-15,AWS|Airflow|Docker|ETL|Kafka|Kubernetes|Python
+JOB00194,Data Scientist,TrueNorth Data,Gurugram,3-5,20.9,2026-06-12,AWS|Deep Learning|GenAI Tools|Kubernetes|MLOps|PyTorch|Python|Redux|Scikit-learn|Statistics
+JOB00195,MERN Stack Developer,TrueNorth Data,Delhi NCR,0-1,4.8,2026-07-27,AWS|Jenkins|Node.js|REST API|TypeScript
+JOB00196,Backend Developer,Quantify Labs,Kolkata,0-1,5.0,2026-04-15,AWS|Docker|GenAI Tools|Microservices|MongoDB|REST API|Redux|SQL|System Design|TypeScript
+JOB00197,DevOps Engineer,DataNest,Delhi NCR,3-5,16.3,2026-04-16,AWS|Docker|GCP|Jenkins|Kubernetes|Python
+JOB00198,Data Engineer,Arclight IT,Pune,1-3,11.2,2026-06-07,AWS|Airflow|Docker|ETL|Excel|GCP|MLOps|Python|Spark
+JOB00199,ML Engineer,Ironclad Technologies,Delhi NCR,8+,33.6,2026-04-14,AWS|GenAI Tools|PyTorch|Python
+JOB00200,Business Analyst,Northbridge Analytics,Delhi NCR,8+,41.6,2026-03-31,Excel|Jira|Statistics|Tableau|TypeScript
+JOB00201,Data Engineer,Fintara,Bengaluru,0-1,6.4,2026-03-14,AWS|Data Warehousing|Docker|Excel|GCP|Jenkins|Python
+JOB00202,Data Scientist,Pinnacle Cloud,Gurugram,0-1,6.7,2026-08-02,AWS|Deep Learning|Kubernetes|Machine Learning|PyTorch|Redux|SQL|Scikit-learn|Statistics
+JOB00203,DevOps Engineer,PixelForge,Delhi NCR,1-3,9.8,2026-08-09,AWS|CI/CD|GCP|Jenkins|Kubernetes|Linux|MLOps|TypeScript
+JOB00204,Data Engineer,Ironclad Technologies,Delhi NCR,5-8,22.6,2026-04-05,AWS|Data Warehousing|ETL|GCP|Kubernetes|MLOps|SQL
+JOB00205,MERN Stack Developer,CloudPeak Technologies,Mumbai,1-3,8.0,2026-05-22,AWS|JWT|MLOps|Node.js|REST API|React|TypeScript
+JOB00206,ML Engineer,Meridian Softworks,Pune,5-8,28.7,2026-05-28,AWS|Deep Learning|Excel|Jenkins|Kubernetes|Machine Learning|PyTorch|Redux|SQL
+JOB00207,Data Analyst,Pinnacle Cloud,Noida,1-3,8.0,2026-06-16,A/B Testing|AWS|GenAI Tools|Pandas|Tableau|TypeScript
+JOB00208,DevOps Engineer,BrightWave Solutions,Bengaluru,5-8,21.6,2026-07-25,CI/CD|Docker|GCP|Jenkins|Kubernetes|Linux
+JOB00209,MERN Stack Developer,Quantify Labs,Hyderabad,3-5,13.7,2026-06-03,AWS|JWT|Kubernetes|MLOps|MongoDB|React|Redux|TypeScript
+JOB00210,Product Analyst,Northbridge Analytics,Chennai,3-5,11.8,2026-05-08,A/B Testing|AWS|Excel|GenAI Tools|Jenkins|Power BI|Python|Statistics|Tableau
+JOB00211,Product Analyst,Vertex Software,Gurugram,3-5,18.0,2026-05-15,A/B Testing|Excel|GenAI Tools|Jenkins|Kubernetes|Product Metrics|Python|SQL|Statistics
+JOB00212,Data Engineer,Lumen Digital,Bengaluru,8+,36.3,2026-06-03,AWS|Airflow|Data Warehousing|Docker|GCP|Jenkins|Python|SQL
+JOB00213,Backend Developer,Ironclad Technologies,Remote,3-5,16.8,2026-04-11,AWS|Docker|Excel|Microservices|MongoDB|Node.js|REST API|SQL
+JOB00214,Product Analyst,Innotech Systems,Mumbai,5-8,22.8,2026-07-20,A/B Testing|AWS|Excel|Jenkins|Power BI|Product Metrics|Python|SQL|Statistics
+JOB00215,Business Analyst,Northbridge Analytics,Remote,1-3,8.2,2026-08-07,AWS|Excel|GenAI Tools|Jira|Kubernetes|MLOps|Power BI|Requirements Gathering|SQL|Stakeholder Management|Tableau
+JOB00216,Product Analyst,Lumen Digital,Hyderabad,8+,40.1,2026-05-12,A/B Testing|Excel|Kubernetes|Python|Statistics|Tableau|TypeScript
+JOB00217,Business Analyst,DataNest,Pune,0-1,4.3,2026-06-01,Excel|GenAI Tools|Jira|Kubernetes|Requirements Gathering|SQL|Stakeholder Management|Tableau|TypeScript
+JOB00218,DevOps Engineer,Ironclad Technologies,Delhi NCR,0-1,4.0,2026-07-19,AWS|Docker|GCP|GenAI Tools|Jenkins|MLOps|Python|Terraform
+JOB00219,Data Engineer,Lumen Digital,Bengaluru,5-8,25.7,2026-05-04,AWS|Airflow|Data Warehousing|ETL|GCP|Jenkins|Kafka|SQL
+JOB00220,Full Stack Developer,Lumen Digital,Mumbai,1-3,10.8,2026-06-01,AWS|MongoDB|REST API|React
+JOB00221,Backend Developer,GreenPath Analytics,Kolkata,3-5,17.2,2026-08-11,MLOps|MongoDB|Node.js|REST API|SQL|TypeScript
+JOB00222,MERN Stack Developer,Northbridge Analytics,Delhi NCR,1-3,7.6,2026-07-15,Express.js|MLOps|Node.js|REST API|React|Redux|TypeScript
+JOB00223,MERN Stack Developer,CloudPeak Technologies,Delhi NCR,5-8,28.1,2026-07-31,Express.js|GenAI Tools|Kubernetes|MongoDB|Node.js|REST API|React|TypeScript
+JOB00224,MERN Stack Developer,Arclight IT,Pune,1-3,6.3,2026-04-10,Excel|JWT|JavaScript|MLOps|MongoDB|Node.js|Redux|TypeScript
+JOB00225,Business Analyst,Vertex Software,Hyderabad,1-3,7.8,2026-06-20,AWS|Excel|GenAI Tools|Jira|Kubernetes|Power BI|Requirements Gathering|Statistics|Tableau|TypeScript
+JOB00226,Product Analyst,Pinnacle Cloud,Bengaluru,3-5,15.0,2026-07-27,A/B Testing|Excel|GenAI Tools|Kubernetes|Product Metrics|Redux|SQL|Statistics|Tableau|TypeScript
+JOB00227,Backend Developer,Corestack,Gurugram,1-3,11.7,2026-08-04,GenAI Tools|MLOps|Microservices|MongoDB|SQL|System Design|TypeScript
+JOB00228,MERN Stack Developer,Skyline InfoTech,Hyderabad,0-1,4.1,2026-08-05,AWS|JWT|MLOps|React|Redux|TypeScript
+JOB00229,Data Engineer,Fintara,Chennai,1-3,10.3,2026-06-20,AWS|Data Warehousing|Docker|GCP|Kafka|Kubernetes|Python|Spark
+JOB00230,ML Engineer,DataNest,Hyderabad,5-8,24.9,2026-03-23,AWS|Docker|Excel|GenAI Tools|MLOps|Machine Learning|PyTorch
+JOB00231,Data Engineer,ByteBloom,Bengaluru,1-3,8.0,2026-04-15,AWS|Data Warehousing|Docker|MLOps|Python|SQL|Spark
+JOB00232,DevOps Engineer,Ironclad Technologies,Delhi NCR,3-5,15.8,2026-07-15,AWS|CI/CD|Docker|GCP|GenAI Tools|Kubernetes|MLOps|Python|Terraform|TypeScript
+JOB00233,Data Analyst,Novara Systems,Chennai,8+,32.6,2026-05-26,Looker|MLOps|Power BI|Redux|Statistics|Tableau
+JOB00234,MERN Stack Developer,BrightWave Solutions,Bengaluru,3-5,10.9,2026-07-24,AWS|Excel|Express.js|GenAI Tools|JavaScript|MLOps|MongoDB|Node.js|TypeScript
+JOB00235,DevOps Engineer,Vertex Software,Bengaluru,1-3,12.4,2026-03-23,AWS|CI/CD|Docker|GCP|Jenkins|Python|Terraform
+JOB00236,Data Analyst,ByteBloom,Delhi NCR,0-1,6.0,2026-05-25,A/B Testing|GenAI Tools|MLOps|Pandas|SQL|Statistics|Tableau
+JOB00237,ML Engineer,Corestack,Hyderabad,8+,36.9,2026-03-29,AWS|Deep Learning|Excel|GenAI Tools|MLOps|Machine Learning|Redux|SQL
+JOB00238,MERN Stack Developer,ByteBloom,Mumbai,5-8,21.3,2026-03-02,AWS|Excel|React|Redux|TypeScript
+JOB00239,Data Engineer,Vertex Software,Chennai,0-1,5.8,2026-04-12,AWS|Airflow|Data Warehousing|Docker|ETL|SQL|Spark|TypeScript
+JOB00240,Backend Developer,Lumen Digital,Gurugram,5-8,25.8,2026-06-17,Docker|MongoDB|REST API|SQL|System Design
+JOB00241,Backend Developer,TrueNorth Data,Gurugram,5-8,20.1,2026-04-04,AWS|Docker|Excel|Jenkins|Kubernetes|Microservices|MongoDB|REST API|Redis|Redux|System Design
+JOB00242,Data Analyst,ByteBloom,Mumbai,3-5,15.9,2026-06-04,GenAI Tools|Looker|MLOps|Pandas|Power BI|SQL|Tableau
+JOB00243,Full Stack Developer,Quantify Labs,Noida,5-8,20.0,2026-04-18,AWS|GenAI Tools|Jenkins|Node.js|REST API|React
+JOB00244,DevOps Engineer,Vertex Software,Hyderabad,5-8,23.5,2026-06-13,AWS|CI/CD|Docker|GCP|GenAI Tools|Jenkins|Kubernetes|MLOps|Python|Terraform
+JOB00245,Full Stack Developer,Fintara,Noida,3-5,19.7,2026-06-11,AWS|Excel|GenAI Tools|JavaScript|Kubernetes|MongoDB|Redux|SQL|TypeScript
+JOB00246,Business Analyst,Innotech Systems,Noida,5-8,23.6,2026-08-19,AWS|Jira|Kubernetes|MLOps|Power BI|Redux|SQL|Stakeholder Management|Statistics|Tableau
+JOB00247,Backend Developer,DataNest,Noida,3-5,17.8,2026-08-11,AWS|Excel|Kubernetes|MLOps|Node.js|Redis|System Design
+JOB00248,Product Analyst,ByteBloom,Remote,0-1,4.1,2026-06-04,Excel|Power BI|Product Metrics|Redux|SQL|Statistics|Tableau
+JOB00249,Backend Developer,Pinnacle Cloud,Bengaluru,5-8,21.1,2026-06-08,AWS|Docker|Microservices|MongoDB|Redis|SQL
+JOB00250,Full Stack Developer,Pinnacle Cloud,Delhi NCR,0-1,5.7,2026-07-01,AWS|Docker|JavaScript|MLOps|MongoDB|Node.js|REST API|React|TypeScript
+JOB00251,Data Engineer,Northbridge Analytics,Gurugram,0-1,6.1,2026-03-10,AWS|Data Warehousing|Docker|ETL|SQL
+JOB00252,Data Engineer,Innotech Systems,Chennai,1-3,12.7,2026-08-12,AWS|Docker|Kubernetes|MLOps|Redux|SQL|Spark|TypeScript
+JOB00253,Backend Developer,Innotech Systems,Noida,1-3,9.5,2026-08-08,AWS|Docker|GenAI Tools|Jenkins|Kubernetes|Microservices|Node.js|REST API|SQL|System Design|TypeScript
+JOB00254,Backend Developer,DataNest,Pune,0-1,5.7,2026-07-03,AWS|Docker|Jenkins|Kubernetes|Node.js|REST API|Redis|System Design
+JOB00255,Data Scientist,Arclight IT,Gurugram,8+,39.0,2026-06-20,AWS|GenAI Tools|Kubernetes|Pandas|PyTorch|SQL|Statistics
+JOB00256,DevOps Engineer,Skyline InfoTech,Remote,8+,38.2,2026-08-25,AWS|Kubernetes|Linux|Python|Terraform|TypeScript
+JOB00257,ML Engineer,Lumen Digital,Gurugram,1-3,11.1,2026-04-04,AWS|Deep Learning|Docker|Kubernetes|PyTorch|Python|TypeScript
+JOB00258,Product Analyst,Meridian Softworks,Pune,1-3,8.6,2026-05-10,A/B Testing|Excel|GenAI Tools|Jenkins|Power BI|Product Metrics|Python|Redux|SQL|Statistics|TypeScript
+JOB00259,Product Analyst,Fintara,Pune,5-8,22.6,2026-08-09,A/B Testing|Excel|Jenkins|Kubernetes|MLOps|Power BI|Python|SQL|Statistics|Tableau
+JOB00260,Data Analyst,BrightWave Solutions,Remote,3-5,14.1,2026-05-12,Excel|GenAI Tools|MLOps|SQL|Statistics|TypeScript
+JOB00261,Data Engineer,GreenPath Analytics,Pune,0-1,6.1,2026-05-31,AWS|Airflow|Docker|GCP|Jenkins|Kafka|MLOps|Spark
+JOB00262,Data Engineer,Vertex Software,Gurugram,0-1,6.8,2026-07-07,AWS|Data Warehousing|Docker|ETL|Excel|Kafka|Python|TypeScript
+JOB00263,Data Engineer,Quantify Labs,Gurugram,1-3,9.9,2026-04-26,AWS|Data Warehousing|Docker|Jenkins|Kafka|MLOps|Python|SQL|Spark
+JOB00264,ML Engineer,Ironclad Technologies,Bengaluru,0-1,5.9,2026-08-08,AWS|Excel|MLOps|Machine Learning|PyTorch|Python|SQL
+JOB00265,Data Engineer,Corestack,Delhi NCR,3-5,20.3,2026-07-04,Data Warehousing|ETL|Excel|GCP|MLOps|Redux|SQL|Spark
+JOB00266,Backend Developer,Arclight IT,Mumbai,1-3,8.5,2026-04-08,Docker|Redis|Redux|SQL|System Design
+JOB00267,Data Engineer,Novara Systems,Mumbai,3-5,19.7,2026-06-23,AWS|Airflow|Data Warehousing|ETL|Jenkins|Kubernetes|Python|SQL|Spark
+JOB00268,Business Analyst,CloudPeak Technologies,Bengaluru,3-5,12.0,2026-04-16,AWS|Excel|Jenkins|Jira|Power BI|Requirements Gathering|Tableau
+JOB00269,Backend Developer,Novara Systems,Remote,8+,39.7,2026-07-24,AWS|Docker|GenAI Tools|MongoDB|REST API|System Design
+JOB00270,Data Analyst,Fintara,Delhi NCR,5-8,24.5,2026-08-09,Excel|GenAI Tools|Python|SQL|Statistics|Tableau
+JOB00271,Backend Developer,Lumen Digital,Gurugram,1-3,11.6,2026-05-30,AWS|GenAI Tools|Kubernetes|Microservices|MongoDB|REST API|Redux|SQL|System Design
+JOB00272,Data Engineer,Novara Systems,Delhi NCR,5-8,25.9,2026-06-04,Docker|ETL|Excel|GCP|Kubernetes|Python|SQL|Spark
+JOB00273,Data Analyst,Corestack,Bengaluru,0-1,3.8,2026-07-17,GenAI Tools|Kubernetes|Pandas|Power BI|Python|Redux|Statistics
+JOB00274,DevOps Engineer,Fintara,Hyderabad,1-3,11.0,2026-08-19,AWS|CI/CD|GenAI Tools|Jenkins|Kubernetes|Linux|MLOps|Python|Terraform|TypeScript
+JOB00275,Product Analyst,GreenPath Analytics,Mumbai,3-5,18.5,2026-04-26,A/B Testing|Excel|Kubernetes|MLOps|Python|Statistics|Tableau
+JOB00276,Data Engineer,Ironclad Technologies,Noida,1-3,9.6,2026-05-06,AWS|Airflow|Data Warehousing|ETL|GCP|GenAI Tools|MLOps|SQL
+JOB00277,Data Scientist,Northbridge Analytics,Delhi NCR,5-8,28.2,2026-06-05,AWS|Deep Learning|MLOps|Machine Learning|Pandas|PyTorch|Scikit-learn|Statistics|TypeScript
+JOB00278,Business Analyst,Northbridge Analytics,Delhi NCR,5-8,20.8,2026-07-08,AWS|Excel|GenAI Tools|Kubernetes|Power BI|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB00279,Data Analyst,PixelForge,Bengaluru,5-8,27.0,2026-08-12,A/B Testing|Kubernetes|Looker|MLOps|Python|Tableau|TypeScript
+JOB00280,Full Stack Developer,Meridian Softworks,Gurugram,8+,34.5,2026-06-15,AWS|Docker|MongoDB|REST API|React|SQL|TypeScript
+JOB00281,Full Stack Developer,Skyline InfoTech,Hyderabad,3-5,19.6,2026-06-29,AWS|Docker|JavaScript|Kubernetes|MLOps|MongoDB|REST API|React|Redux|SQL|TypeScript
+JOB00282,Data Engineer,Skyline InfoTech,Bengaluru,5-8,32.5,2026-08-10,AWS|Airflow|Data Warehousing|ETL|GCP|GenAI Tools|Kafka|Kubernetes|MLOps|Spark|TypeScript
+JOB00283,Product Analyst,Quantify Labs,Hyderabad,3-5,12.6,2026-07-07,Excel|GenAI Tools|Product Metrics|SQL|Tableau
+JOB00284,Data Scientist,TrueNorth Data,Chennai,5-8,30.4,2026-04-26,Deep Learning|Excel|Jenkins|Pandas|PyTorch|Python
+JOB00285,Product Analyst,Pinnacle Cloud,Gurugram,1-3,6.4,2026-06-23,AWS|GenAI Tools|MLOps|Power BI|Product Metrics|Redux|SQL|Statistics|Tableau
+JOB00286,Data Scientist,Pinnacle Cloud,Mumbai,5-8,31.6,2026-06-28,AWS|GenAI Tools|Kubernetes|Machine Learning|Pandas|PyTorch|Redux|SQL|Scikit-learn|TypeScript
+JOB00287,Business Analyst,DataNest,Chennai,1-3,6.9,2026-07-12,AWS|Jira|MLOps|Power BI|Requirements Gathering|SQL|Stakeholder Management|Tableau|TypeScript
+JOB00288,DevOps Engineer,Innotech Systems,Noida,1-3,11.2,2026-07-24,AWS|CI/CD|GCP|GenAI Tools|Kubernetes|Linux|Python|Terraform|TypeScript
+JOB00289,Product Analyst,Arclight IT,Gurugram,1-3,6.8,2026-07-04,AWS|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Product Metrics|Python|SQL|Statistics|Tableau|TypeScript
+JOB00290,Product Analyst,CloudPeak Technologies,Chennai,8+,40.1,2026-06-25,Excel|GenAI Tools|Jenkins|MLOps|Python|Redux|Statistics|Tableau
+JOB00291,Data Scientist,Lumen Digital,Chennai,5-8,25.9,2026-07-04,GenAI Tools|MLOps|Machine Learning|Pandas|PyTorch|Python|Redux|SQL|Scikit-learn|TypeScript
+JOB00292,ML Engineer,TrueNorth Data,Bengaluru,5-8,31.2,2026-04-09,Docker|GenAI Tools|MLOps|PyTorch|Python|Redux
+JOB00293,MERN Stack Developer,Fintara,Bengaluru,8+,34.7,2026-06-13,AWS|Express.js|JWT|MLOps|MongoDB|REST API|Redux|TypeScript
+JOB00294,Data Scientist,Fintara,Hyderabad,0-1,4.5,2026-05-23,Deep Learning|Excel|MLOps|Machine Learning|Pandas|Python|SQL|TypeScript
+JOB00295,Data Analyst,Pinnacle Cloud,Gurugram,1-3,10.4,2026-05-10,A/B Testing|GenAI Tools|Kubernetes|Looker|MLOps|Python|SQL|Statistics|TypeScript
+JOB00296,Data Engineer,BrightWave Solutions,Gurugram,8+,50.0,2026-03-07,AWS|Data Warehousing|Docker|GCP|Jenkins|SQL|TypeScript
+JOB00297,Data Scientist,Vertex Software,Noida,0-1,6.2,2026-06-17,AWS|Deep Learning|GenAI Tools|Machine Learning|Pandas|SQL|Statistics
+JOB00298,Backend Developer,Lumen Digital,Bengaluru,0-1,6.4,2026-05-15,AWS|Docker|Excel|GenAI Tools|Jenkins|MLOps|Node.js|REST API|Redis|SQL
+JOB00299,Product Analyst,Skyline InfoTech,Remote,3-5,13.4,2026-07-23,A/B Testing|Excel|GenAI Tools|Kubernetes|Power BI|Product Metrics|Python|SQL|Tableau|TypeScript
+JOB00300,Data Analyst,CloudPeak Technologies,Mumbai,0-1,3.9,2026-06-05,A/B Testing|Kubernetes|Looker|Pandas|Power BI|TypeScript
+JOB00301,Data Analyst,Meridian Softworks,Bengaluru,1-3,7.6,2026-05-19,A/B Testing|AWS|GenAI Tools|Looker|Pandas|SQL|Statistics
+JOB00302,Business Analyst,Fintara,Gurugram,1-3,7.5,2026-03-21,Excel|Jira|Redux|Stakeholder Management|Statistics|Tableau
+JOB00303,Data Engineer,CloudPeak Technologies,Pune,3-5,19.6,2026-08-25,AWS|ETL|GCP|GenAI Tools|Kubernetes|MLOps|SQL|Spark
+JOB00304,Product Analyst,Pinnacle Cloud,Remote,8+,35.4,2026-08-03,A/B Testing|AWS|GenAI Tools|Kubernetes|Python|Statistics|Tableau|TypeScript
+JOB00305,Business Analyst,Pinnacle Cloud,Remote,8+,25.3,2026-08-14,AWS|Jenkins|Jira|Kubernetes|SQL|Stakeholder Management|Statistics|TypeScript
+JOB00306,Data Analyst,Skyline InfoTech,Chennai,8+,28.7,2026-03-25,Excel|Jenkins|Looker|MLOps|Pandas|Power BI|Python|SQL
+JOB00307,Backend Developer,Innotech Systems,Mumbai,5-8,19.1,2026-03-13,AWS|Docker|GenAI Tools|Microservices|Node.js|REST API|Redis|SQL
+JOB00308,Backend Developer,Quantify Labs,Pune,1-3,7.8,2026-04-01,AWS|Docker|Jenkins|REST API|Redis|SQL
+JOB00309,Backend Developer,Arclight IT,Remote,3-5,16.9,2026-04-20,Docker|Microservices|Redis|System Design
+JOB00310,Data Scientist,GreenPath Analytics,Delhi NCR,0-1,7.3,2026-05-11,AWS|GenAI Tools|Kubernetes|MLOps|Machine Learning|PyTorch|Redux|SQL|Scikit-learn|TypeScript
+JOB00311,ML Engineer,GreenPath Analytics,Hyderabad,5-8,27.7,2026-03-04,Docker|Machine Learning|PyTorch|Python|SQL
+JOB00312,MERN Stack Developer,Corestack,Mumbai,1-3,10.5,2026-04-17,AWS|Express.js|GenAI Tools|JavaScript|MongoDB|Node.js|REST API|React|Redux|TypeScript
+JOB00313,Data Engineer,Quantify Labs,Delhi NCR,8+,48.4,2026-06-13,AWS|Data Warehousing|ETL|GCP|Jenkins|Python|Redux|SQL|Spark
+JOB00314,ML Engineer,PixelForge,Remote,0-1,5.3,2026-07-13,AWS|Deep Learning|Docker|GenAI Tools|Jenkins|Kubernetes|MLOps|Machine Learning|Redux|SQL|TypeScript
+JOB00315,Backend Developer,Quantify Labs,Bengaluru,3-5,11.5,2026-04-05,AWS|Docker|Microservices|Node.js|Redis
+JOB00316,Backend Developer,Skyline InfoTech,Hyderabad,1-3,10.6,2026-05-07,AWS|Docker|MLOps|Node.js|REST API|Redis|Redux|System Design
+JOB00317,Full Stack Developer,Pinnacle Cloud,Bengaluru,3-5,18.3,2026-03-27,AWS|Docker|Excel|JavaScript|Kubernetes|MLOps|React|SQL|TypeScript
+JOB00318,MERN Stack Developer,Quantify Labs,Mumbai,5-8,28.2,2026-04-24,AWS|Excel|Express.js|GenAI Tools|Jenkins|MLOps|MongoDB|REST API|Redux|TypeScript
+JOB00319,Business Analyst,Lumen Digital,Bengaluru,3-5,14.8,2026-08-24,AWS|GenAI Tools|Jira|Kubernetes|Power BI|Requirements Gathering|Stakeholder Management|Statistics|Tableau
+JOB00320,Backend Developer,Lumen Digital,Delhi NCR,1-3,8.3,2026-06-24,AWS|MongoDB|Node.js|REST API|Redis|SQL|TypeScript
+JOB00321,Backend Developer,Pinnacle Cloud,Bengaluru,1-3,11.2,2026-03-27,AWS|Docker|Kubernetes|REST API|Redis|Redux|System Design|TypeScript
+JOB00322,DevOps Engineer,TrueNorth Data,Noida,5-8,18.8,2026-07-25,AWS|CI/CD|Docker|GCP|Jenkins|Linux|MLOps|Python
+JOB00323,Data Scientist,PixelForge,Delhi NCR,3-5,13.7,2026-04-25,Deep Learning|Excel|GenAI Tools|Kubernetes|MLOps|Machine Learning|Python|SQL|Statistics
+JOB00324,MERN Stack Developer,Corestack,Bengaluru,3-5,17.1,2026-07-16,AWS|Express.js|GenAI Tools|Node.js|TypeScript
+JOB00325,Product Analyst,Pinnacle Cloud,Delhi NCR,0-1,5.5,2026-07-28,A/B Testing|Excel|MLOps|Power BI|Product Metrics|TypeScript
+JOB00326,Data Engineer,Vertex Software,Pune,1-3,9.5,2026-05-04,Airflow|Data Warehousing|Docker|ETL|GenAI Tools|Jenkins|Kafka|SQL|Spark
+JOB00327,ML Engineer,Corestack,Mumbai,3-5,17.1,2026-08-01,Deep Learning|GenAI Tools|MLOps|Machine Learning|PyTorch|Redux|SQL
+JOB00328,DevOps Engineer,Northbridge Analytics,Chennai,0-1,5.7,2026-05-11,Docker|GCP|Jenkins|Kubernetes|Python
+JOB00329,MERN Stack Developer,ByteBloom,Gurugram,1-3,11.4,2026-06-30,AWS|Express.js|GenAI Tools|JavaScript|Jenkins|Kubernetes|MLOps|MongoDB|Node.js|Redux|TypeScript
+JOB00330,Full Stack Developer,Fintara,Mumbai,1-3,6.8,2026-06-22,Docker|GenAI Tools|Kubernetes|MLOps|Node.js|SQL|TypeScript
+JOB00331,Full Stack Developer,Vertex Software,Remote,1-3,9.6,2026-04-27,Docker|MLOps|MongoDB|Node.js|REST API|React|SQL|TypeScript
+JOB00332,ML Engineer,DataNest,Pune,3-5,17.5,2026-05-11,AWS|Deep Learning|GenAI Tools|MLOps|PyTorch|Python|SQL
+JOB00333,Backend Developer,Quantify Labs,Hyderabad,3-5,15.1,2026-04-15,Excel|MLOps|Microservices|Node.js|REST API|Redis|SQL|System Design|TypeScript
+JOB00334,Data Analyst,ByteBloom,Kolkata,3-5,17.8,2026-04-28,A/B Testing|Excel|Jenkins|Kubernetes|Power BI|Python
+JOB00335,Data Scientist,TrueNorth Data,Noida,1-3,8.0,2026-04-18,Deep Learning|MLOps|Pandas|Python|Scikit-learn|Statistics
+JOB00336,MERN Stack Developer,Corestack,Pune,1-3,11.4,2026-06-07,AWS|Excel|JWT|JavaScript|Kubernetes|Redux|TypeScript
+JOB00337,ML Engineer,TrueNorth Data,Delhi NCR,5-8,25.0,2026-08-03,Deep Learning|Docker|GenAI Tools|Kubernetes|MLOps|Machine Learning|Python|SQL
+JOB00338,MERN Stack Developer,Lumen Digital,Chennai,3-5,10.7,2026-04-12,AWS|Excel|Express.js|Jenkins|MongoDB|Node.js|React
+JOB00339,MERN Stack Developer,DataNest,Chennai,3-5,11.4,2026-03-08,AWS|Excel|Express.js|GenAI Tools|JWT|JavaScript|MongoDB|React|TypeScript
+JOB00340,DevOps Engineer,Arclight IT,Remote,3-5,20.4,2026-06-14,AWS|Docker|Excel|GCP|GenAI Tools|Jenkins|Kubernetes|MLOps|Python|Terraform|TypeScript
+JOB00341,ML Engineer,Pinnacle Cloud,Hyderabad,0-1,7.5,2026-06-06,AWS|Kubernetes|MLOps|PyTorch|SQL
+JOB00342,Data Analyst,Quantify Labs,Noida,3-5,13.1,2026-07-22,AWS|GenAI Tools|Kubernetes|Pandas|Python|Statistics|Tableau
+JOB00343,MERN Stack Developer,BrightWave Solutions,Delhi NCR,1-3,11.1,2026-08-04,AWS|JWT|Kubernetes|MLOps|MongoDB|REST API|Redux
+JOB00344,Data Scientist,Lumen Digital,Noida,3-5,17.7,2026-05-04,Deep Learning|Excel|GenAI Tools|Jenkins|Machine Learning|PyTorch|Python|Statistics|TypeScript
+JOB00345,Data Engineer,Skyline InfoTech,Noida,5-8,32.5,2026-04-28,AWS|Data Warehousing|Docker|ETL|GCP|Jenkins|Kafka|MLOps|Spark|TypeScript
+JOB00346,Product Analyst,Northbridge Analytics,Mumbai,8+,43.6,2026-04-06,A/B Testing|GenAI Tools|MLOps|Power BI|Python|SQL|Statistics|TypeScript
+JOB00347,ML Engineer,CloudPeak Technologies,Bengaluru,1-3,9.5,2026-08-04,AWS|Docker|GenAI Tools|MLOps|Machine Learning|PyTorch|TypeScript
+JOB00348,Product Analyst,BrightWave Solutions,Pune,1-3,7.5,2026-07-03,A/B Testing|Excel|GenAI Tools|Jenkins|Power BI|Product Metrics|Redux|SQL|Statistics|Tableau
+JOB00349,Backend Developer,Ironclad Technologies,Kolkata,5-8,23.8,2026-07-26,AWS|Docker|GenAI Tools|Kubernetes|Microservices|REST API
+JOB00350,Data Scientist,Arclight IT,Delhi NCR,1-3,9.5,2026-04-17,Deep Learning|GenAI Tools|Jenkins|PyTorch|Python|Redux|SQL|Statistics
+JOB00351,ML Engineer,PixelForge,Gurugram,3-5,18.8,2026-08-15,AWS|Docker|Kubernetes|MLOps|Machine Learning|PyTorch|Python|SQL|TypeScript
+JOB00352,ML Engineer,PixelForge,Pune,0-1,7.4,2026-03-18,AWS|Deep Learning|Docker|GenAI Tools|Machine Learning|Redux|SQL
+JOB00353,Data Analyst,Vertex Software,Delhi NCR,1-3,9.1,2026-06-16,A/B Testing|Excel|GenAI Tools|Pandas|Python|SQL
+JOB00354,ML Engineer,Pinnacle Cloud,Delhi NCR,0-1,5.9,2026-08-05,AWS|Docker|GenAI Tools|MLOps|Python|Redux|SQL|TypeScript
+JOB00355,Data Engineer,Novara Systems,Bengaluru,5-8,28.0,2026-07-12,Data Warehousing|Docker|ETL|GCP|Kubernetes|SQL|Spark
+JOB00356,Full Stack Developer,Northbridge Analytics,Mumbai,0-1,5.0,2026-05-02,AWS|Excel|JavaScript|Kubernetes|MongoDB|Node.js|REST API|React|SQL
+JOB00357,Product Analyst,Northbridge Analytics,Bengaluru,8+,35.0,2026-06-02,A/B Testing|Excel|Power BI|Product Metrics|Python|SQL|Statistics|TypeScript
+JOB00358,MERN Stack Developer,GreenPath Analytics,Delhi NCR,5-8,21.9,2026-05-21,Express.js|JavaScript|Kubernetes|MLOps|MongoDB|Node.js|REST API|React|Redux
+JOB00359,Product Analyst,Corestack,Gurugram,3-5,14.2,2026-08-25,AWS|Excel|MLOps|Power BI|Python|SQL|Statistics|Tableau|TypeScript
+JOB00360,DevOps Engineer,Corestack,Delhi NCR,5-8,30.1,2026-03-27,AWS|CI/CD|Docker|Excel|Jenkins|Linux|MLOps|Python|Terraform
+JOB00361,Full Stack Developer,Novara Systems,Kolkata,5-8,19.1,2026-06-17,AWS|Docker|JavaScript|MLOps|React|SQL|TypeScript
+JOB00362,Product Analyst,Meridian Softworks,Remote,1-3,10.9,2026-05-19,A/B Testing|Excel|Power BI|Product Metrics|Statistics
+JOB00363,Full Stack Developer,Meridian Softworks,Kolkata,5-8,20.4,2026-07-24,AWS|GenAI Tools|JavaScript|React|SQL|TypeScript
+JOB00364,Data Analyst,Meridian Softworks,Kolkata,5-8,25.2,2026-05-04,A/B Testing|AWS|GenAI Tools|Python|SQL|Statistics|TypeScript
+JOB00365,DevOps Engineer,PixelForge,Delhi NCR,5-8,25.4,2026-08-07,AWS|CI/CD|Jenkins|Python
+JOB00366,Data Engineer,CloudPeak Technologies,Mumbai,8+,49.4,2026-03-29,Data Warehousing|Docker|ETL|Excel|GCP|Python|SQL|TypeScript
+JOB00367,Backend Developer,DataNest,Delhi NCR,0-1,4.3,2026-05-07,AWS|Docker|Excel|Microservices|MongoDB|Node.js|SQL|System Design
+JOB00368,Data Analyst,Arclight IT,Gurugram,8+,30.9,2026-03-16,A/B Testing|Kubernetes|Looker|Power BI|Python|SQL|Statistics
+JOB00369,Full Stack Developer,TrueNorth Data,Remote,5-8,27.9,2026-07-10,AWS|JavaScript|MongoDB|Node.js|React|TypeScript
+JOB00370,Full Stack Developer,Corestack,Gurugram,0-1,5.0,2026-06-06,AWS|Docker|MLOps|MongoDB|Node.js|REST API|React|SQL|TypeScript
+JOB00371,DevOps Engineer,Quantify Labs,Bengaluru,5-8,27.1,2026-04-17,AWS|CI/CD|Docker|Jenkins|Linux|Python
+JOB00372,DevOps Engineer,BrightWave Solutions,Noida,1-3,12.0,2026-04-21,AWS|CI/CD|Excel|Jenkins|Kubernetes|Terraform
+JOB00373,ML Engineer,Northbridge Analytics,Delhi NCR,1-3,8.6,2026-06-04,AWS|Deep Learning|Docker|GenAI Tools|Kubernetes|MLOps|PyTorch|Redux|SQL|TypeScript
+JOB00374,Business Analyst,Quantify Labs,Pune,5-8,16.8,2026-08-19,AWS|Excel|Jira|Kubernetes|MLOps|Requirements Gathering|SQL|Stakeholder Management|Statistics|TypeScript
+JOB00375,Product Analyst,Corestack,Hyderabad,5-8,18.5,2026-04-09,A/B Testing|Excel|Power BI|Python|SQL|Statistics|Tableau
+JOB00376,ML Engineer,GreenPath Analytics,Gurugram,0-1,6.6,2026-07-11,AWS|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Machine Learning|PyTorch|Redux|SQL
+JOB00377,MERN Stack Developer,Vertex Software,Mumbai,3-5,16.4,2026-03-16,AWS|Excel|GenAI Tools|JWT|Node.js|Redux|TypeScript
+JOB00378,Product Analyst,TrueNorth Data,Pune,3-5,11.7,2026-05-13,Excel|GenAI Tools|Jenkins|Kubernetes|Power BI|Python|Redux|SQL|Tableau
+JOB00379,MERN Stack Developer,PixelForge,Gurugram,1-3,7.4,2026-05-14,AWS|Excel|GenAI Tools|MLOps|MongoDB|REST API|React|TypeScript
+JOB00380,Product Analyst,Novara Systems,Mumbai,3-5,11.4,2026-05-31,A/B Testing|AWS|Power BI|Redux|SQL|Statistics|TypeScript
+JOB00381,DevOps Engineer,PixelForge,Chennai,1-3,9.6,2026-05-14,CI/CD|Docker|Excel|GCP|Jenkins
+JOB00382,Product Analyst,DataNest,Delhi NCR,0-1,4.0,2026-08-17,A/B Testing|AWS|GenAI Tools|Power BI|Product Metrics|Python|SQL|Statistics|Tableau|TypeScript
+JOB00383,DevOps Engineer,Skyline InfoTech,Kolkata,1-3,6.9,2026-05-31,CI/CD|GCP|Jenkins|Kubernetes|Linux|MLOps|Redux|Terraform|TypeScript
+JOB00384,ML Engineer,Innotech Systems,Bengaluru,3-5,23.2,2026-05-15,AWS|Deep Learning|Docker|Machine Learning|PyTorch|Python|SQL
+JOB00385,Data Scientist,CloudPeak Technologies,Pune,1-3,11.9,2026-04-10,Deep Learning|Jenkins|Kubernetes|Pandas|Python|Scikit-learn
+JOB00386,Product Analyst,CloudPeak Technologies,Delhi NCR,8+,28.9,2026-06-25,A/B Testing|AWS|MLOps|Python|Redux|Statistics|Tableau
+JOB00387,Product Analyst,Arclight IT,Noida,5-8,18.3,2026-04-19,A/B Testing|MLOps|Product Metrics|Statistics|Tableau
+JOB00388,DevOps Engineer,Meridian Softworks,Pune,3-5,20.3,2026-03-08,AWS|CI/CD|Jenkins|Python|Terraform
+JOB00389,Business Analyst,Fintara,Delhi NCR,1-3,7.3,2026-06-22,Excel|GenAI Tools|Jira|Kubernetes|SQL|Stakeholder Management|Statistics|TypeScript
+JOB00390,Business Analyst,Ironclad Technologies,Remote,3-5,9.9,2026-07-18,AWS|Excel|Jenkins|Jira|Kubernetes|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB00391,Full Stack Developer,Ironclad Technologies,Hyderabad,5-8,19.0,2026-04-12,Docker|Excel|Jenkins|REST API|SQL|TypeScript
+JOB00392,Product Analyst,Pinnacle Cloud,Gurugram,5-8,24.2,2026-04-05,A/B Testing|AWS|Kubernetes|MLOps|Power BI|Product Metrics|Statistics|Tableau|TypeScript
+JOB00393,DevOps Engineer,PixelForge,Gurugram,3-5,12.1,2026-06-18,AWS|Docker|Excel|GenAI Tools|Jenkins|Kubernetes|Linux|MLOps|Python|Terraform
+JOB00394,Business Analyst,GreenPath Analytics,Chennai,3-5,13.2,2026-04-30,Excel|Jira|Power BI|Requirements Gathering|SQL|Stakeholder Management
+JOB00395,Backend Developer,ByteBloom,Noida,1-3,7.7,2026-04-03,AWS|Excel|Jenkins|Kubernetes|MLOps|MongoDB|Node.js|REST API|System Design
+JOB00396,Data Engineer,Lumen Digital,Delhi NCR,5-8,22.7,2026-05-01,AWS|Airflow|GCP|Python|Redux|SQL|Spark
+JOB00397,Backend Developer,Arclight IT,Chennai,8+,39.3,2026-08-29,AWS|GenAI Tools|MLOps|Microservices|MongoDB|REST API|Redis|Redux|SQL|System Design
+JOB00398,Data Engineer,Quantify Labs,Delhi NCR,3-5,17.0,2026-04-20,Airflow|Data Warehousing|Docker|ETL|Kubernetes|SQL
+JOB00399,Data Engineer,Meridian Softworks,Delhi NCR,3-5,15.6,2026-05-27,AWS|Data Warehousing|Docker|ETL|GenAI Tools|Kafka|MLOps|Python|SQL
+JOB00400,DevOps Engineer,Northbridge Analytics,Bengaluru,1-3,10.6,2026-06-03,AWS|Excel|GenAI Tools|Jenkins|Kubernetes|Python|Terraform
+JOB00401,Backend Developer,Corestack,Remote,5-8,21.2,2026-06-02,AWS|Docker|GenAI Tools|Kubernetes|MLOps|Microservices|Node.js|TypeScript
+JOB00402,Product Analyst,TrueNorth Data,Kolkata,8+,30.7,2026-03-02,A/B Testing|AWS|Jenkins|Power BI|Product Metrics|Python|Statistics|Tableau
+JOB00403,Business Analyst,TrueNorth Data,Pune,5-8,24.4,2026-07-10,AWS|Excel|Kubernetes|MLOps|Power BI|Redux|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB00404,Backend Developer,Skyline InfoTech,Hyderabad,1-3,11.8,2026-07-15,AWS|Microservices|MongoDB|Node.js|SQL|System Design
+JOB00405,Data Scientist,CloudPeak Technologies,Mumbai,3-5,19.1,2026-04-29,Deep Learning|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Machine Learning|PyTorch|Python|SQL|Scikit-learn
+JOB00406,Data Scientist,Meridian Softworks,Pune,3-5,14.1,2026-04-01,Deep Learning|GenAI Tools|Kubernetes|Machine Learning|Pandas|Redux|SQL|Scikit-learn|Statistics
+JOB00407,Product Analyst,Pinnacle Cloud,Remote,1-3,9.7,2026-07-09,A/B Testing|AWS|Excel|Jenkins|Product Metrics|Python|SQL|Statistics|Tableau|TypeScript
+JOB00408,ML Engineer,Corestack,Hyderabad,1-3,9.6,2026-07-28,Docker|GenAI Tools|MLOps|Machine Learning|PyTorch|TypeScript
+JOB00409,DevOps Engineer,Northbridge Analytics,Delhi NCR,3-5,15.8,2026-07-10,AWS|GCP|GenAI Tools|Jenkins|Python|Terraform|TypeScript
+JOB00410,Data Scientist,GreenPath Analytics,Chennai,1-3,10.2,2026-07-14,AWS|GenAI Tools|Kubernetes|PyTorch|Python|Redux|SQL|Statistics
+JOB00411,ML Engineer,DataNest,Noida,1-3,13.6,2026-03-04,Deep Learning|Docker|GenAI Tools|Jenkins|Kubernetes|Python
+JOB00412,DevOps Engineer,Quantify Labs,Delhi NCR,5-8,18.8,2026-07-26,AWS|CI/CD|Excel|GenAI Tools|Jenkins|Kubernetes|Terraform|TypeScript
+JOB00413,Data Analyst,CloudPeak Technologies,Hyderabad,3-5,11.9,2026-03-12,Looker|Power BI|Python|SQL
+JOB00414,Data Scientist,DataNest,Hyderabad,0-1,7.4,2026-06-28,GenAI Tools|Kubernetes|MLOps|Machine Learning|Pandas|Statistics
+JOB00415,Data Scientist,Pinnacle Cloud,Gurugram,1-3,10.6,2026-08-22,Deep Learning|GenAI Tools|Kubernetes|Machine Learning|PyTorch|SQL|Statistics|TypeScript
+JOB00416,Data Analyst,Ironclad Technologies,Delhi NCR,5-8,24.9,2026-03-23,A/B Testing|Excel|GenAI Tools|Kubernetes|Power BI|SQL|Statistics|TypeScript
+JOB00417,Backend Developer,Fintara,Bengaluru,3-5,15.6,2026-07-17,AWS|MLOps|MongoDB|Node.js|REST API|Redis|SQL|System Design
+JOB00418,Data Engineer,Innotech Systems,Pune,0-1,4.8,2026-05-29,Airflow|Excel|GCP|Kubernetes|MLOps|Python|SQL|Spark
+JOB00419,Full Stack Developer,BrightWave Solutions,Delhi NCR,1-3,10.8,2026-06-13,AWS|Docker|MLOps|MongoDB|React|Redux|SQL
+JOB00420,Full Stack Developer,Corestack,Noida,3-5,18.6,2026-03-28,AWS|Docker|Excel|MongoDB|Redux|SQL|TypeScript
+JOB00421,Backend Developer,Skyline InfoTech,Pune,8+,47.6,2026-08-24,AWS|GenAI Tools|Kubernetes|MLOps|Microservices|MongoDB|Node.js|REST API|System Design
+JOB00422,Backend Developer,Novara Systems,Pune,3-5,15.0,2026-05-07,AWS|Excel|MLOps|Microservices|Redis|SQL|System Design
+JOB00423,Data Engineer,Ironclad Technologies,Delhi NCR,3-5,14.4,2026-06-29,AWS|Docker|ETL|Kafka|Python|Redux|SQL
+JOB00424,MERN Stack Developer,TrueNorth Data,Pune,3-5,11.3,2026-05-09,AWS|Express.js|JWT|JavaScript|Jenkins|REST API|React|Redux|TypeScript
+JOB00425,Full Stack Developer,Corestack,Pune,5-8,23.0,2026-04-01,GenAI Tools|Jenkins|Kubernetes|MongoDB|Node.js|REST API|React|SQL|TypeScript
+JOB00426,Product Analyst,DataNest,Bengaluru,0-1,6.3,2026-03-16,GenAI Tools|Jenkins|Kubernetes|Power BI|Python|SQL|Statistics
+JOB00427,Data Scientist,Innotech Systems,Delhi NCR,1-3,9.7,2026-06-03,Deep Learning|Excel|GenAI Tools|MLOps|Pandas|SQL|Scikit-learn
+JOB00428,Backend Developer,Innotech Systems,Noida,3-5,11.0,2026-07-06,AWS|Kubernetes|Microservices|Node.js|REST API|SQL|TypeScript
+JOB00429,Backend Developer,Meridian Softworks,Bengaluru,5-8,25.6,2026-08-24,AWS|Docker|Jenkins|Kubernetes|MLOps|MongoDB|Node.js|Redis|System Design
+JOB00430,Data Engineer,Pinnacle Cloud,Noida,5-8,22.7,2026-07-09,Data Warehousing|GCP|Kubernetes|Python|Spark
+JOB00431,Data Engineer,Northbridge Analytics,Gurugram,0-1,5.7,2026-08-28,Data Warehousing|ETL|Kafka|MLOps|Spark
+JOB00432,Backend Developer,Pinnacle Cloud,Noida,5-8,19.1,2026-06-18,AWS|Docker|GenAI Tools|Kubernetes|Microservices|MongoDB|Redis|System Design|TypeScript
+JOB00433,Backend Developer,Fintara,Bengaluru,8+,40.5,2026-06-13,AWS|Jenkins|MLOps|Microservices|Node.js|Redis
+JOB00434,Data Scientist,TrueNorth Data,Hyderabad,5-8,35.0,2026-04-27,Excel|GenAI Tools|MLOps|Machine Learning|Pandas|PyTorch|SQL|Scikit-learn
+JOB00435,Product Analyst,CloudPeak Technologies,Pune,3-5,17.6,2026-07-07,AWS|Excel|Kubernetes|Power BI|Product Metrics|Python|SQL|Statistics|Tableau
+JOB00436,Data Analyst,Fintara,Mumbai,1-3,6.3,2026-05-26,Excel|GenAI Tools|Looker|MLOps|Pandas|Python|Statistics|Tableau
+JOB00437,MERN Stack Developer,DataNest,Pune,3-5,11.9,2026-05-20,Express.js|JWT|JavaScript|MongoDB|Node.js|REST API|React|TypeScript
+JOB00438,Data Analyst,Novara Systems,Bengaluru,1-3,11.0,2026-03-10,AWS|GenAI Tools|Looker|Pandas|Power BI|Python|Redux|Statistics
+JOB00439,Data Scientist,ByteBloom,Gurugram,1-3,11.2,2026-06-27,Excel|MLOps|Machine Learning|Pandas|PyTorch|Python|Statistics|TypeScript
+JOB00440,Full Stack Developer,Skyline InfoTech,Pune,1-3,7.3,2026-03-23,JavaScript|MongoDB|Node.js|React|SQL|TypeScript
+JOB00441,Business Analyst,Vertex Software,Kolkata,1-3,7.1,2026-06-18,Excel|GenAI Tools|Jenkins|Jira|Kubernetes|MLOps|Power BI|Requirements Gathering|SQL|Stakeholder Management
+JOB00442,DevOps Engineer,Innotech Systems,Delhi NCR,1-3,8.0,2026-03-09,CI/CD|Docker|Excel|GCP|Kubernetes|Python|Redux|Terraform
+JOB00443,MERN Stack Developer,CloudPeak Technologies,Noida,8+,35.2,2026-06-18,AWS|Express.js|JavaScript|Jenkins|Kubernetes|REST API|TypeScript
+JOB00444,Data Engineer,Northbridge Analytics,Mumbai,3-5,15.9,2026-04-19,Airflow|Docker|ETL|GenAI Tools|Python|Redux|Spark
+JOB00445,Backend Developer,Meridian Softworks,Chennai,8+,45.2,2026-07-20,AWS|Docker|GenAI Tools|Microservices|Node.js|Redis
+JOB00446,Data Scientist,Pinnacle Cloud,Mumbai,5-8,21.9,2026-06-09,AWS|Deep Learning|MLOps|Python|SQL|Statistics
+JOB00447,Data Analyst,PixelForge,Chennai,3-5,17.1,2026-03-26,A/B Testing|AWS|GenAI Tools|Pandas|Power BI|Redux|SQL|Tableau
+JOB00448,Business Analyst,Northbridge Analytics,Delhi NCR,8+,33.4,2026-05-13,AWS|Excel|Jira|MLOps|Requirements Gathering|SQL|Statistics|Tableau
+JOB00449,Data Engineer,Arclight IT,Pune,3-5,20.5,2026-07-02,Airflow|GCP|GenAI Tools|Kafka|SQL
+JOB00450,DevOps Engineer,Quantify Labs,Chennai,3-5,19.3,2026-08-23,AWS|Docker|GCP|Kubernetes|MLOps|Python|Terraform|TypeScript
+JOB00451,Data Scientist,Novara Systems,Delhi NCR,1-3,8.1,2026-04-08,GenAI Tools|Jenkins|MLOps|Pandas|PyTorch|Python|Scikit-learn|Statistics
+JOB00452,ML Engineer,Arclight IT,Delhi NCR,3-5,19.8,2026-03-28,AWS|GenAI Tools|Jenkins|Machine Learning|Python
+JOB00453,ML Engineer,Meridian Softworks,Delhi NCR,5-8,27.4,2026-03-02,Deep Learning|Excel|MLOps|Machine Learning|Python|SQL
+JOB00454,DevOps Engineer,PixelForge,Pune,1-3,9.4,2026-07-18,AWS|CI/CD|Docker|GCP|Jenkins|Kubernetes|Linux|MLOps|Terraform
+JOB00455,MERN Stack Developer,Northbridge Analytics,Delhi NCR,5-8,23.1,2026-04-15,AWS|GenAI Tools|MongoDB|Node.js|React|TypeScript
+JOB00456,Data Engineer,Pinnacle Cloud,Delhi NCR,3-5,18.1,2026-03-28,Excel|GCP|GenAI Tools|Kafka|Redux|SQL|Spark
+JOB00457,Business Analyst,Skyline InfoTech,Delhi NCR,3-5,11.1,2026-06-01,AWS|GenAI Tools|Jenkins|Kubernetes|MLOps|Power BI|Redux|Requirements Gathering|SQL|Tableau
+JOB00458,ML Engineer,Ironclad Technologies,Delhi NCR,0-1,6.7,2026-04-03,AWS|Deep Learning|Docker|GenAI Tools|PyTorch|Python|SQL
+JOB00459,Business Analyst,Northbridge Analytics,Mumbai,5-8,21.3,2026-03-24,Excel|MLOps|Redux|Requirements Gathering|SQL|Tableau|TypeScript
+JOB00460,Data Engineer,CloudPeak Technologies,Bengaluru,1-3,10.6,2026-07-08,Airflow|Data Warehousing|ETL|Excel|Jenkins|Kafka|Kubernetes|MLOps|Python|SQL
+JOB00461,Business Analyst,ByteBloom,Gurugram,3-5,16.6,2026-06-05,Excel|GenAI Tools|Kubernetes|Power BI|Requirements Gathering|Stakeholder Management|Statistics
+JOB00462,DevOps Engineer,Arclight IT,Pune,1-3,12.6,2026-08-03,AWS|Docker|GenAI Tools|Jenkins|Kubernetes|Linux|MLOps|Python|Terraform
+JOB00463,Business Analyst,Innotech Systems,Mumbai,3-5,11.6,2026-06-24,Jira|MLOps|Power BI|Redux|Requirements Gathering|SQL|Stakeholder Management|Tableau|TypeScript
+JOB00464,MERN Stack Developer,TrueNorth Data,Kolkata,3-5,14.1,2026-08-05,AWS|JWT|JavaScript|MLOps|Node.js|TypeScript
+JOB00465,Data Engineer,Northbridge Analytics,Remote,3-5,20.7,2026-05-23,AWS|Airflow|Data Warehousing|Docker|ETL|Excel|Jenkins|MLOps|Redux|Spark|TypeScript
+JOB00466,Full Stack Developer,Arclight IT,Bengaluru,0-1,5.5,2026-07-15,AWS|GenAI Tools|MLOps|Node.js|React|SQL|TypeScript
+JOB00467,Data Analyst,Vertex Software,Kolkata,3-5,11.0,2026-07-27,A/B Testing|AWS|GenAI Tools|Kubernetes|Power BI|Python|Redux|Statistics|TypeScript
+JOB00468,Data Analyst,Corestack,Bengaluru,0-1,3.9,2026-08-09,A/B Testing|Excel|GenAI Tools|MLOps|Power BI|Python|SQL|Tableau|TypeScript
+JOB00469,Data Scientist,Corestack,Delhi NCR,1-3,9.3,2026-06-21,Deep Learning|GenAI Tools|Kubernetes|MLOps|Machine Learning|Python|Scikit-learn|TypeScript
+JOB00470,Data Scientist,Novara Systems,Delhi NCR,3-5,13.9,2026-08-17,AWS|GenAI Tools|MLOps|PyTorch|Python|Redux|SQL
+JOB00471,Backend Developer,DataNest,Kolkata,5-8,22.7,2026-05-04,AWS|Docker|Microservices|MongoDB|Node.js|REST API|System Design|TypeScript
+JOB00472,Product Analyst,Arclight IT,Gurugram,3-5,17.8,2026-07-05,AWS|Excel|Power BI|Python|Redux|SQL|Tableau
+JOB00473,Data Engineer,PixelForge,Delhi NCR,5-8,20.3,2026-06-09,Airflow|Docker|ETL|GCP|Kafka|Kubernetes|Python|SQL|TypeScript
+JOB00474,Product Analyst,Innotech Systems,Noida,0-1,5.4,2026-03-26,A/B Testing|Excel|SQL|Statistics|Tableau|TypeScript
+JOB00475,Data Analyst,PixelForge,Delhi NCR,0-1,3.9,2026-06-25,GenAI Tools|Power BI|Python|SQL|Statistics
+JOB00476,Data Scientist,PixelForge,Pune,5-8,22.5,2026-05-12,Pandas|PyTorch|SQL|Statistics
+JOB00477,Backend Developer,CloudPeak Technologies,Chennai,1-3,12.0,2026-03-20,Excel|Jenkins|MLOps|Microservices|MongoDB|Node.js|REST API|SQL|System Design
+JOB00478,Product Analyst,Novara Systems,Bengaluru,0-1,5.8,2026-04-27,A/B Testing|Excel|GenAI Tools|Power BI|Python|SQL|Statistics
+JOB00479,Data Engineer,ByteBloom,Bengaluru,3-5,13.5,2026-08-06,AWS|Docker|ETL|MLOps|Spark|TypeScript
+JOB00480,DevOps Engineer,Ironclad Technologies,Pune,3-5,20.6,2026-08-17,CI/CD|GCP|Jenkins|Kubernetes|Linux|MLOps|Python
+JOB00481,Data Scientist,PixelForge,Noida,5-8,34.8,2026-04-26,GenAI Tools|MLOps|Machine Learning|Redux|SQL|TypeScript
+JOB00482,MERN Stack Developer,GreenPath Analytics,Gurugram,3-5,13.6,2026-03-26,AWS|GenAI Tools|MongoDB|React|Redux
+JOB00483,Full Stack Developer,Lumen Digital,Pune,5-8,18.8,2026-08-28,AWS|GenAI Tools|JavaScript|Kubernetes|MLOps|React|Redux|SQL|TypeScript
+JOB00484,ML Engineer,TrueNorth Data,Pune,8+,33.5,2026-05-24,AWS|Deep Learning|MLOps|Machine Learning|PyTorch|TypeScript
+JOB00485,Data Engineer,PixelForge,Kolkata,3-5,18.1,2026-04-28,Docker|Excel|GCP|Kafka|Kubernetes|SQL
+JOB00486,Data Scientist,Lumen Digital,Bengaluru,1-3,11.8,2026-04-24,Deep Learning|GenAI Tools|MLOps|Machine Learning|Pandas|PyTorch|Python|SQL|Statistics
+JOB00487,Data Engineer,Skyline InfoTech,Kolkata,1-3,8.1,2026-07-05,AWS|Airflow|Docker|ETL|GCP|Jenkins|MLOps|Python|SQL
+JOB00488,Backend Developer,Skyline InfoTech,Bengaluru,1-3,10.3,2026-07-10,AWS|Docker|Microservices|MongoDB|Node.js|REST API|System Design
+JOB00489,Data Analyst,Meridian Softworks,Hyderabad,0-1,4.9,2026-08-11,A/B Testing|GenAI Tools|Looker|MLOps|Power BI|Statistics|TypeScript
+JOB00490,Data Engineer,ByteBloom,Mumbai,1-3,7.4,2026-06-29,AWS|Docker|ETL|GCP|Kafka|Python|Redux|SQL
+JOB00491,MERN Stack Developer,CloudPeak Technologies,Noida,1-3,9.8,2026-05-22,Express.js|JavaScript|MongoDB|Node.js|React|Redux|TypeScript
+JOB00492,MERN Stack Developer,Skyline InfoTech,Noida,3-5,17.2,2026-03-01,AWS|Express.js|JavaScript|MongoDB|REST API|React|Redux|TypeScript
+JOB00493,Product Analyst,ByteBloom,Hyderabad,8+,28.2,2026-04-01,A/B Testing|Excel|Jenkins|MLOps|Power BI|Product Metrics|SQL|Tableau
+JOB00494,Data Analyst,Pinnacle Cloud,Hyderabad,1-3,10.2,2026-06-21,Excel|GenAI Tools|Looker|Pandas|SQL|Statistics
+JOB00495,Full Stack Developer,Quantify Labs,Gurugram,1-3,7.2,2026-08-18,AWS|GenAI Tools|Kubernetes|MLOps|Node.js|REST API|SQL|TypeScript
+JOB00496,Data Analyst,Novara Systems,Hyderabad,8+,37.3,2026-03-14,A/B Testing|AWS|Excel|GenAI Tools|Looker|MLOps|Pandas|Python|Statistics
+JOB00497,DevOps Engineer,Arclight IT,Bengaluru,5-8,22.2,2026-08-16,AWS|Docker|GCP|GenAI Tools|Jenkins|Kubernetes|MLOps|Redux|Terraform
+JOB00498,Business Analyst,Meridian Softworks,Kolkata,5-8,17.5,2026-06-27,Excel|GenAI Tools|Jira|MLOps|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB00499,ML Engineer,GreenPath Analytics,Hyderabad,1-3,13.2,2026-07-14,Deep Learning|Docker|GenAI Tools|Kubernetes|MLOps|Machine Learning|PyTorch|SQL|TypeScript
+JOB00500,DevOps Engineer,Innotech Systems,Hyderabad,0-1,4.7,2026-07-26,AWS|Docker|GCP|Jenkins|Kubernetes|Linux|MLOps|Terraform|TypeScript
+JOB00501,Data Scientist,Ironclad Technologies,Hyderabad,1-3,11.3,2026-04-09,AWS|Deep Learning|GenAI Tools|Jenkins|MLOps|Machine Learning|Pandas|Redux|SQL|Statistics|TypeScript
+JOB00502,Product Analyst,Pinnacle Cloud,Hyderabad,0-1,4.5,2026-03-04,A/B Testing|Excel|GenAI Tools|MLOps|Power BI|Tableau
+JOB00503,Backend Developer,ByteBloom,Gurugram,0-1,4.7,2026-07-19,AWS|Docker|Excel|GenAI Tools|Jenkins|Microservices|MongoDB|Node.js|REST API|Redux|System Design|TypeScript
+JOB00504,Full Stack Developer,Northbridge Analytics,Delhi NCR,1-3,7.4,2026-08-12,Docker|JavaScript|Kubernetes|MLOps|MongoDB|REST API|React|TypeScript
+JOB00505,ML Engineer,Fintara,Bengaluru,5-8,33.8,2026-07-16,AWS|Deep Learning|Docker|GenAI Tools|Kubernetes|MLOps|Machine Learning|PyTorch|SQL
+JOB00506,Business Analyst,CloudPeak Technologies,Chennai,3-5,14.5,2026-03-14,Excel|Jira|Redux|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB00507,DevOps Engineer,PixelForge,Bengaluru,1-3,7.0,2026-05-06,AWS|CI/CD|Docker|Excel|GCP|GenAI Tools|Jenkins|Python|Terraform
+JOB00508,ML Engineer,Innotech Systems,Delhi NCR,3-5,22.7,2026-06-05,Deep Learning|Docker|Jenkins|Kubernetes|MLOps|Machine Learning|Python|SQL
+JOB00509,Business Analyst,ByteBloom,Delhi NCR,1-3,7.6,2026-04-20,Excel|Jira|Kubernetes|MLOps|Power BI|Redux|Requirements Gathering|SQL|Statistics|Tableau
+JOB00510,Full Stack Developer,Lumen Digital,Bengaluru,3-5,13.8,2026-04-01,AWS|Docker|Excel|JavaScript|MongoDB|REST API|Redux
+JOB00511,Data Scientist,Fintara,Delhi NCR,5-8,27.3,2026-03-26,Deep Learning|GenAI Tools|MLOps|Python|Statistics|TypeScript
+JOB00512,Business Analyst,Quantify Labs,Pune,5-8,20.4,2026-06-12,Excel|GenAI Tools|MLOps|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB00513,Backend Developer,Fintara,Delhi NCR,5-8,27.4,2026-07-19,AWS|Docker|GenAI Tools|MongoDB|Node.js|Redis|SQL|System Design|TypeScript
+JOB00514,Business Analyst,ByteBloom,Remote,3-5,13.8,2026-08-23,AWS|Excel|Jira|Kubernetes|Power BI|Requirements Gathering|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB00515,Backend Developer,Innotech Systems,Delhi NCR,3-5,14.8,2026-07-03,AWS|GenAI Tools|Jenkins|Kubernetes|MLOps|Microservices|MongoDB|REST API|Redis|SQL|System Design|TypeScript
+JOB00516,Data Analyst,PixelForge,Bengaluru,1-3,8.0,2026-04-21,Excel|Kubernetes|Looker|Pandas|Python|Redux|Tableau
+JOB00517,Data Scientist,Corestack,Remote,3-5,13.9,2026-04-01,AWS|Deep Learning|GenAI Tools|MLOps|Machine Learning|Pandas|PyTorch|SQL
+JOB00518,ML Engineer,Arclight IT,Chennai,8+,42.2,2026-07-08,AWS|Docker|GenAI Tools|Kubernetes|MLOps|PyTorch|Python|SQL
+JOB00519,Product Analyst,Pinnacle Cloud,Mumbai,5-8,25.5,2026-03-10,A/B Testing|AWS|Excel|GenAI Tools|Power BI|Product Metrics|Python|SQL|Tableau
+JOB00520,Data Analyst,Pinnacle Cloud,Bengaluru,3-5,10.1,2026-07-13,GenAI Tools|Power BI|Python|Tableau|TypeScript
+JOB00521,ML Engineer,CloudPeak Technologies,Mumbai,0-1,5.3,2026-03-01,AWS|Excel|GenAI Tools|MLOps|Machine Learning|PyTorch|Redux|SQL
+JOB00522,DevOps Engineer,Ironclad Technologies,Delhi NCR,3-5,17.6,2026-08-04,AWS|Jenkins|Kubernetes|Linux|MLOps
+JOB00523,Product Analyst,Lumen Digital,Pune,1-3,6.5,2026-07-05,A/B Testing|AWS|Excel|GenAI Tools|Kubernetes|MLOps|Python|Tableau
+JOB00524,Backend Developer,GreenPath Analytics,Kolkata,5-8,23.7,2026-05-23,AWS|GenAI Tools|MLOps|Microservices|REST API|Redux|System Design
+JOB00525,Data Engineer,Corestack,Delhi NCR,8+,33.8,2026-03-13,AWS|Data Warehousing|Docker|ETL|GCP|Jenkins|Kafka|MLOps|Spark
+JOB00526,Data Scientist,Novara Systems,Chennai,8+,46.4,2026-05-26,Deep Learning|GenAI Tools|Jenkins|MLOps|Machine Learning|Pandas|SQL|TypeScript
+JOB00527,Data Analyst,Fintara,Remote,0-1,3.6,2026-05-21,Excel|GenAI Tools|Looker|Power BI|Python|TypeScript
+JOB00528,Data Scientist,PixelForge,Delhi NCR,5-8,26.6,2026-05-05,AWS|GenAI Tools|MLOps|Machine Learning|Pandas|PyTorch|SQL|Scikit-learn
+JOB00529,Full Stack Developer,Pinnacle Cloud,Noida,0-1,4.6,2026-07-21,Docker|Excel|GenAI Tools|MLOps|MongoDB|Node.js|REST API|React|SQL|TypeScript
+JOB00530,DevOps Engineer,Arclight IT,Mumbai,8+,44.0,2026-05-31,AWS|CI/CD|Docker|GCP|GenAI Tools|Kubernetes|Linux|MLOps|Terraform|TypeScript
+JOB00531,Data Analyst,Northbridge Analytics,Delhi NCR,5-8,18.7,2026-06-11,Excel|GenAI Tools|Jenkins|Pandas|Statistics|Tableau
+JOB00532,Backend Developer,Corestack,Hyderabad,5-8,26.9,2026-08-07,AWS|Excel|GenAI Tools|Kubernetes|MongoDB|Node.js|Redis|SQL
+JOB00533,DevOps Engineer,GreenPath Analytics,Bengaluru,0-1,4.1,2026-06-21,AWS|CI/CD|Docker|Kubernetes|Linux|MLOps|Python|TypeScript
+JOB00534,Business Analyst,Northbridge Analytics,Noida,0-1,5.3,2026-05-19,Excel|GenAI Tools|Jenkins|MLOps|Power BI|Requirements Gathering|SQL|Stakeholder Management|Statistics
+JOB00535,Business Analyst,Corestack,Pune,8+,29.5,2026-07-20,AWS|GenAI Tools|Jira|Kubernetes|MLOps|Power BI|Requirements Gathering|SQL|Stakeholder Management|Tableau
+JOB00536,DevOps Engineer,Meridian Softworks,Delhi NCR,5-8,30.2,2026-07-22,AWS|CI/CD|Excel|GCP|Kubernetes|Linux|Python
+JOB00537,Full Stack Developer,ByteBloom,Pune,1-3,11.6,2026-03-09,AWS|GenAI Tools|JavaScript|MLOps|MongoDB|SQL|TypeScript
+JOB00538,Product Analyst,Innotech Systems,Delhi NCR,1-3,7.7,2026-07-29,Excel|Power BI|Product Metrics|Python|SQL|Statistics|Tableau|TypeScript
+JOB00539,Full Stack Developer,BrightWave Solutions,Pune,0-1,4.7,2026-03-03,AWS|Excel|JavaScript|MongoDB|Node.js|SQL|TypeScript
+JOB00540,Backend Developer,DataNest,Noida,1-3,9.0,2026-03-04,Docker|GenAI Tools|MongoDB|Node.js|REST API
+JOB00541,MERN Stack Developer,Lumen Digital,Gurugram,1-3,11.5,2026-05-30,AWS|Express.js|GenAI Tools|Jenkins|MongoDB|React|Redux
+JOB00542,MERN Stack Developer,Meridian Softworks,Bengaluru,3-5,12.9,2026-03-09,AWS|Express.js|JavaScript|Jenkins|MLOps|Node.js|REST API|TypeScript
+JOB00543,Data Analyst,Meridian Softworks,Delhi NCR,1-3,9.9,2026-05-14,A/B Testing|AWS|Excel|GenAI Tools|Kubernetes|Looker|MLOps|Python|SQL|Tableau
+JOB00544,Backend Developer,ByteBloom,Remote,5-8,23.8,2026-03-06,AWS|Excel|Microservices|MongoDB|Node.js|SQL
+JOB00545,DevOps Engineer,Fintara,Pune,1-3,7.3,2026-07-31,CI/CD|Docker|GCP|Jenkins|Kubernetes|Linux|MLOps
+JOB00546,Backend Developer,Ironclad Technologies,Chennai,1-3,9.3,2026-07-22,AWS|Docker|Excel|GenAI Tools|Kubernetes|Microservices|MongoDB|REST API
+JOB00547,Business Analyst,GreenPath Analytics,Remote,0-1,5.0,2026-03-22,AWS|Excel|Jira|MLOps|Requirements Gathering|SQL|Statistics|Tableau|TypeScript
+JOB00548,Business Analyst,Vertex Software,Gurugram,1-3,8.5,2026-07-29,Excel|Jira|Kubernetes|Power BI|SQL|Statistics|Tableau
+JOB00549,DevOps Engineer,Innotech Systems,Bengaluru,3-5,15.0,2026-05-07,AWS|CI/CD|Docker|Excel|Jenkins|Kubernetes|Linux|MLOps|Terraform|TypeScript
+JOB00550,Data Engineer,Quantify Labs,Kolkata,5-8,22.9,2026-07-12,AWS|Data Warehousing|Docker|GCP|Jenkins|Kafka|Kubernetes|MLOps|TypeScript
+JOB00551,Product Analyst,BrightWave Solutions,Gurugram,3-5,17.5,2026-03-26,Excel|Kubernetes|MLOps|Power BI|Python|SQL|Statistics|TypeScript
+JOB00552,MERN Stack Developer,Vertex Software,Remote,1-3,10.2,2026-05-18,Express.js|GenAI Tools|JWT|JavaScript|Kubernetes|MongoDB|REST API|React|Redux
+JOB00553,Data Scientist,Fintara,Gurugram,5-8,23.3,2026-03-07,Deep Learning|Pandas|PyTorch|Redux|Statistics
+JOB00554,Business Analyst,PixelForge,Delhi NCR,3-5,14.3,2026-04-04,Excel|Jira|Kubernetes|MLOps|Redux|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB00555,ML Engineer,DataNest,Mumbai,5-8,24.7,2026-08-01,AWS|Deep Learning|GenAI Tools|MLOps|PyTorch|SQL|TypeScript
+JOB00556,Full Stack Developer,GreenPath Analytics,Bengaluru,8+,42.3,2026-06-29,AWS|JavaScript|Kubernetes|MongoDB|REST API|SQL|TypeScript
+JOB00557,Full Stack Developer,GreenPath Analytics,Hyderabad,1-3,11.8,2026-04-17,AWS|Docker|JavaScript|Jenkins|Node.js|Redux
+JOB00558,Product Analyst,PixelForge,Mumbai,3-5,15.0,2026-03-04,Excel|Jenkins|Power BI|Product Metrics|Python|Redux|SQL
+JOB00559,Business Analyst,DataNest,Delhi NCR,8+,38.0,2026-04-30,Excel|GenAI Tools|Kubernetes|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB00560,Full Stack Developer,PixelForge,Chennai,5-8,22.8,2026-08-07,AWS|GenAI Tools|JavaScript|Jenkins|Node.js|REST API|TypeScript
+JOB00561,Product Analyst,Fintara,Noida,1-3,9.0,2026-07-14,A/B Testing|AWS|Excel|GenAI Tools|Kubernetes|Power BI|Python|SQL|Statistics|TypeScript
+JOB00562,Full Stack Developer,Novara Systems,Bengaluru,5-8,18.9,2026-08-21,AWS|Docker|Kubernetes|MLOps|React|SQL|TypeScript
+JOB00563,Data Engineer,Novara Systems,Delhi NCR,3-5,19.2,2026-03-16,Airflow|Data Warehousing|Docker|ETL|GCP|Jenkins|SQL|Spark|TypeScript
+JOB00564,ML Engineer,Fintara,Mumbai,8+,36.9,2026-04-12,AWS|Docker|GenAI Tools|Jenkins|Kubernetes|MLOps|Machine Learning|PyTorch|Python
+JOB00565,DevOps Engineer,TrueNorth Data,Pune,1-3,12.4,2026-03-02,GCP|Jenkins|Linux|Redux|Terraform
+JOB00566,Backend Developer,Lumen Digital,Pune,3-5,15.0,2026-04-08,AWS|Docker|Excel|GenAI Tools|Jenkins|Node.js|REST API|Redis|System Design
+JOB00567,Data Scientist,GreenPath Analytics,Bengaluru,3-5,19.1,2026-03-13,Deep Learning|Jenkins|Pandas|Python|SQL|Statistics
+JOB00568,Data Scientist,Vertex Software,Mumbai,5-8,33.6,2026-04-20,Deep Learning|MLOps|Machine Learning|SQL|Scikit-learn|Statistics
+JOB00569,Business Analyst,BrightWave Solutions,Delhi NCR,8+,28.3,2026-03-17,Excel|Jenkins|Jira|MLOps|Power BI|SQL|Stakeholder Management|TypeScript
+JOB00570,Full Stack Developer,ByteBloom,Hyderabad,5-8,22.2,2026-05-04,AWS|Docker|JavaScript|MongoDB|Node.js|REST API
+JOB00571,Data Analyst,GreenPath Analytics,Noida,5-8,16.2,2026-05-02,A/B Testing|Excel|GenAI Tools|Looker|MLOps|Power BI|Python|SQL|TypeScript
+JOB00572,MERN Stack Developer,Lumen Digital,Bengaluru,3-5,10.7,2026-05-12,Excel|JWT|JavaScript|MongoDB|Node.js|REST API|TypeScript
+JOB00573,Data Engineer,DataNest,Gurugram,5-8,23.8,2026-03-24,Data Warehousing|Docker|ETL|Kafka|Kubernetes|MLOps|Python|Redux|SQL|Spark
+JOB00574,Data Engineer,Pinnacle Cloud,Remote,5-8,25.1,2026-05-06,Data Warehousing|GCP|GenAI Tools|Kafka|Kubernetes|MLOps|Redux|SQL|TypeScript
+JOB00575,Data Analyst,TrueNorth Data,Delhi NCR,1-3,9.2,2026-05-02,A/B Testing|AWS|Excel|Jenkins|Looker|Redux|SQL|TypeScript
+JOB00576,ML Engineer,BrightWave Solutions,Bengaluru,1-3,12.3,2026-07-02,AWS|Deep Learning|Docker|GenAI Tools|Jenkins|Kubernetes|MLOps|Python|SQL|TypeScript
+JOB00577,MERN Stack Developer,Meridian Softworks,Bengaluru,3-5,16.7,2026-05-03,Express.js|GenAI Tools|JWT|JavaScript|MongoDB|REST API|React|Redux
+JOB00578,MERN Stack Developer,CloudPeak Technologies,Bengaluru,1-3,10.9,2026-05-25,Express.js|MLOps|Node.js|React|Redux|TypeScript
+JOB00579,Data Analyst,Novara Systems,Delhi NCR,1-3,10.2,2026-06-26,AWS|Excel|Pandas|Python|Tableau|TypeScript
+JOB00580,MERN Stack Developer,Ironclad Technologies,Gurugram,1-3,7.3,2026-07-02,AWS|Express.js|JWT|MongoDB|Node.js|React|TypeScript
+JOB00581,Product Analyst,PixelForge,Gurugram,3-5,12.2,2026-07-22,AWS|Excel|Jenkins|Kubernetes|MLOps|Power BI|Python|Tableau|TypeScript
+JOB00582,Data Scientist,PixelForge,Gurugram,3-5,16.4,2026-08-01,AWS|GenAI Tools|Kubernetes|MLOps|Pandas|PyTorch|Python|SQL|TypeScript
+JOB00583,Backend Developer,PixelForge,Gurugram,1-3,6.6,2026-04-29,AWS|Docker|GenAI Tools|Microservices|Node.js|REST API|Redis|Redux|TypeScript
+JOB00584,Product Analyst,Northbridge Analytics,Gurugram,3-5,14.0,2026-03-26,A/B Testing|Excel|Jenkins|Power BI|SQL|Tableau
+JOB00585,Data Engineer,Arclight IT,Hyderabad,5-8,25.3,2026-05-24,AWS|Data Warehousing|ETL|Kafka|Python|Redux|TypeScript
+JOB00586,Data Analyst,Lumen Digital,Delhi NCR,5-8,24.5,2026-03-22,A/B Testing|AWS|GenAI Tools|Jenkins|Looker|MLOps|Pandas|Python|Redux|Statistics|Tableau
+JOB00587,MERN Stack Developer,Ironclad Technologies,Delhi NCR,5-8,17.1,2026-05-22,AWS|JavaScript|MongoDB|Redux|TypeScript
+JOB00588,MERN Stack Developer,Meridian Softworks,Delhi NCR,1-3,11.4,2026-05-21,AWS|Express.js|JavaScript|Kubernetes|MongoDB|REST API|Redux|TypeScript
+JOB00589,Product Analyst,Arclight IT,Delhi NCR,3-5,16.6,2026-03-08,Excel|Jenkins|Product Metrics|Python|SQL|Statistics|Tableau
+JOB00590,Data Scientist,Skyline InfoTech,Noida,8+,41.2,2026-07-23,AWS|Deep Learning|Excel|Kubernetes|Pandas|PyTorch|Python|SQL|Scikit-learn
+JOB00591,Data Engineer,Lumen Digital,Chennai,0-1,6.1,2026-04-07,AWS|Airflow|Data Warehousing|Docker|GCP|Kubernetes|MLOps|SQL|Spark
+JOB00592,Backend Developer,Novara Systems,Mumbai,8+,29.2,2026-03-03,Docker|Microservices|MongoDB|Redis|SQL|System Design
+JOB00593,ML Engineer,Meridian Softworks,Mumbai,0-1,6.4,2026-07-15,Deep Learning|Docker|GenAI Tools|Jenkins|Kubernetes|MLOps|PyTorch|SQL|TypeScript
+JOB00594,ML Engineer,ByteBloom,Kolkata,8+,52.0,2026-03-24,GenAI Tools|Kubernetes|Machine Learning|PyTorch|SQL|TypeScript
+JOB00595,Full Stack Developer,Lumen Digital,Remote,1-3,8.4,2026-05-06,JavaScript|Jenkins|Node.js|Redux|SQL|TypeScript
+JOB00596,ML Engineer,Vertex Software,Chennai,1-3,11.9,2026-06-27,AWS|Docker|Excel|GenAI Tools|MLOps|Machine Learning|PyTorch|Python|Redux|SQL|TypeScript
+JOB00597,Data Scientist,Innotech Systems,Kolkata,5-8,28.7,2026-08-08,AWS|Excel|GenAI Tools|Jenkins|MLOps|Machine Learning|Pandas|PyTorch|Redux|SQL|Statistics|TypeScript
+JOB00598,ML Engineer,Ironclad Technologies,Delhi NCR,1-3,11.2,2026-04-14,Deep Learning|Docker|GenAI Tools|Machine Learning|PyTorch|TypeScript
+JOB00599,ML Engineer,Northbridge Analytics,Noida,5-8,30.6,2026-08-22,AWS|MLOps|PyTorch|Python|Redux|SQL
+JOB00600,ML Engineer,Vertex Software,Hyderabad,0-1,6.1,2026-08-02,AWS|Deep Learning|GenAI Tools|Jenkins|Kubernetes|MLOps
+JOB00601,Business Analyst,Fintara,Gurugram,1-3,7.1,2026-05-20,AWS|Jira|Power BI|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB00602,ML Engineer,PixelForge,Chennai,5-8,27.1,2026-07-05,AWS|Deep Learning|Docker|GenAI Tools|MLOps|Machine Learning|PyTorch|TypeScript
+JOB00603,Product Analyst,Meridian Softworks,Remote,3-5,16.6,2026-06-15,A/B Testing|AWS|Excel|GenAI Tools|Jenkins|Kubernetes|Product Metrics|Python|Redux|SQL|Tableau
+JOB00604,Data Scientist,Meridian Softworks,Chennai,3-5,21.2,2026-06-12,AWS|GenAI Tools|Kubernetes|MLOps|Pandas|PyTorch|SQL|TypeScript
+JOB00605,Data Analyst,Arclight IT,Pune,1-3,7.5,2026-04-16,A/B Testing|Excel|Looker|Power BI|SQL
+JOB00606,Business Analyst,Pinnacle Cloud,Delhi NCR,5-8,21.8,2026-05-26,AWS|Jira|Kubernetes|MLOps|Power BI|Redux|SQL|Tableau|TypeScript
+JOB00607,Data Scientist,GreenPath Analytics,Gurugram,5-8,27.5,2026-04-05,Jenkins|Machine Learning|Pandas|PyTorch|Python|SQL|Scikit-learn|Statistics
+JOB00608,ML Engineer,DataNest,Bengaluru,3-5,18.2,2026-04-28,AWS|Deep Learning|Excel|GenAI Tools|MLOps|Machine Learning|Python|SQL
+JOB00609,Backend Developer,Novara Systems,Gurugram,0-1,6.0,2026-04-24,Docker|Kubernetes|Microservices|REST API|SQL|System Design
+JOB00610,MERN Stack Developer,Lumen Digital,Delhi NCR,3-5,13.9,2026-08-03,AWS|Excel|JWT|JavaScript|REST API|React|Redux|TypeScript
+JOB00611,Data Engineer,Lumen Digital,Kolkata,0-1,4.4,2026-07-07,AWS|ETL|GCP|MLOps|SQL|Spark
+JOB00612,Data Engineer,Novara Systems,Delhi NCR,8+,41.3,2026-06-16,Airflow|Data Warehousing|GenAI Tools|Kafka|Kubernetes|Spark|TypeScript
+JOB00613,Data Scientist,Skyline InfoTech,Delhi NCR,5-8,31.8,2026-08-07,Excel|GenAI Tools|Kubernetes|MLOps|Machine Learning|Pandas|PyTorch|Redux|SQL|TypeScript
+JOB00614,Backend Developer,Meridian Softworks,Kolkata,8+,36.9,2026-05-21,AWS|Docker|Jenkins|Kubernetes|Microservices|REST API|SQL|System Design
+JOB00615,ML Engineer,Arclight IT,Noida,0-1,6.2,2026-08-28,AWS|Deep Learning|Docker|GenAI Tools|Kubernetes|MLOps|PyTorch|Python|SQL|TypeScript
+JOB00616,Data Scientist,GreenPath Analytics,Mumbai,3-5,19.9,2026-08-28,GenAI Tools|Kubernetes|Pandas|Scikit-learn|Statistics|TypeScript
+JOB00617,Full Stack Developer,ByteBloom,Remote,3-5,18.9,2026-03-02,AWS|MongoDB|Node.js|REST API|React|Redux|SQL|TypeScript
+JOB00618,Product Analyst,PixelForge,Bengaluru,1-3,7.5,2026-04-03,AWS|Excel|Jenkins|Python|Redux|SQL|Statistics
+JOB00619,Business Analyst,Innotech Systems,Gurugram,0-1,5.5,2026-08-11,AWS|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Power BI|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB00620,DevOps Engineer,CloudPeak Technologies,Bengaluru,0-1,5.1,2026-05-29,AWS|Docker|Excel|Jenkins|Kubernetes|Linux|Python
+JOB00621,MERN Stack Developer,Skyline InfoTech,Noida,8+,36.1,2026-06-27,Excel|Express.js|GenAI Tools|JWT|MongoDB|React|Redux|TypeScript
+JOB00622,Data Analyst,CloudPeak Technologies,Bengaluru,5-8,22.0,2026-06-29,Excel|GenAI Tools|Jenkins|Looker|Pandas|Power BI|Python|Statistics
+JOB00623,MERN Stack Developer,Meridian Softworks,Hyderabad,8+,33.6,2026-04-18,AWS|Excel|JWT|Jenkins|MongoDB|Node.js|REST API|TypeScript
+JOB00624,Business Analyst,Northbridge Analytics,Bengaluru,0-1,5.3,2026-05-26,AWS|Excel|Jenkins|Jira|Power BI|Requirements Gathering|SQL|Stakeholder Management|Statistics|TypeScript
+JOB00625,Product Analyst,BrightWave Solutions,Delhi NCR,3-5,15.5,2026-07-25,A/B Testing|Kubernetes|MLOps|Product Metrics|Python|SQL|Tableau|TypeScript
+JOB00626,DevOps Engineer,Lumen Digital,Mumbai,5-8,26.3,2026-03-24,AWS|CI/CD|Excel|GCP|GenAI Tools|Jenkins|Kubernetes|Linux|MLOps|Python|Terraform|TypeScript
+JOB00627,ML Engineer,CloudPeak Technologies,Noida,3-5,21.0,2026-07-27,Deep Learning|Docker|GenAI Tools|Kubernetes|MLOps|PyTorch|Python|SQL|TypeScript
+JOB00628,ML Engineer,Fintara,Chennai,5-8,35.5,2026-04-17,AWS|Docker|GenAI Tools|Machine Learning|PyTorch|Python|TypeScript
+JOB00629,DevOps Engineer,Arclight IT,Delhi NCR,1-3,12.6,2026-07-31,AWS|CI/CD|GenAI Tools|Jenkins|Kubernetes|Linux|MLOps
+JOB00630,Data Engineer,Vertex Software,Hyderabad,3-5,13.3,2026-06-24,Data Warehousing|Docker|Kafka|Kubernetes|MLOps|Python|Spark
+JOB00631,MERN Stack Developer,Lumen Digital,Bengaluru,5-8,22.1,2026-06-30,AWS|Excel|Express.js|JWT|MLOps|MongoDB|Node.js|TypeScript
+JOB00632,Product Analyst,Meridian Softworks,Delhi NCR,0-1,4.9,2026-08-23,A/B Testing|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Power BI|Product Metrics|SQL|Statistics
+JOB00633,ML Engineer,Vertex Software,Delhi NCR,3-5,16.0,2026-06-20,AWS|Deep Learning|GenAI Tools|MLOps|Machine Learning|Python
+JOB00634,DevOps Engineer,Ironclad Technologies,Bengaluru,8+,51.4,2026-08-05,AWS|CI/CD|GenAI Tools|Jenkins|Kubernetes|Linux|Python
+JOB00635,Data Scientist,Novara Systems,Bengaluru,1-3,8.1,2026-05-30,Deep Learning|Excel|GenAI Tools|Kubernetes|MLOps|Machine Learning|Pandas|Scikit-learn|Statistics
+JOB00636,Business Analyst,Ironclad Technologies,Hyderabad,1-3,8.4,2026-05-11,Excel|Jira|Stakeholder Management|Statistics|Tableau
+JOB00637,Data Analyst,Fintara,Mumbai,0-1,5.4,2026-08-15,A/B Testing|AWS|Kubernetes|Pandas|Statistics|Tableau
+JOB00638,Data Engineer,TrueNorth Data,Delhi NCR,3-5,18.0,2026-07-13,AWS|Data Warehousing|GCP|GenAI Tools|Jenkins|Kafka|Kubernetes|Python|Spark
+JOB00639,Data Engineer,CloudPeak Technologies,Gurugram,1-3,9.6,2026-07-07,AWS|Data Warehousing|Docker|ETL|GCP|Kafka|MLOps|Python
+JOB00640,Data Scientist,Northbridge Analytics,Delhi NCR,5-8,35.0,2026-08-14,AWS|Deep Learning|Excel|MLOps|Machine Learning|Pandas|PyTorch|SQL|Scikit-learn
+JOB00641,ML Engineer,BrightWave Solutions,Noida,3-5,17.6,2026-06-30,AWS|Docker|GenAI Tools|Kubernetes|Machine Learning|PyTorch|Python
+JOB00642,DevOps Engineer,Pinnacle Cloud,Mumbai,1-3,10.9,2026-04-03,CI/CD|Docker|GCP|GenAI Tools|Jenkins|Kubernetes|Linux|Terraform
+JOB00643,DevOps Engineer,Vertex Software,Mumbai,8+,42.3,2026-07-21,AWS|CI/CD|Docker|GCP|GenAI Tools|Kubernetes|Linux|Terraform
+JOB00644,Data Scientist,DataNest,Kolkata,0-1,6.6,2026-05-21,AWS|Deep Learning|GenAI Tools|Python|SQL
+JOB00645,Data Engineer,CloudPeak Technologies,Kolkata,3-5,17.1,2026-04-26,AWS|Airflow|ETL|GCP|Kafka|Python|Redux
+JOB00646,Data Engineer,BrightWave Solutions,Gurugram,8+,50.3,2026-07-19,AWS|Data Warehousing|Docker|ETL|MLOps|SQL|Spark|TypeScript
+JOB00647,Data Engineer,Meridian Softworks,Bengaluru,1-3,13.1,2026-05-18,Airflow|Data Warehousing|Docker|GCP|Jenkins|Kubernetes|MLOps|Python|Spark
+JOB00648,Data Analyst,Vertex Software,Chennai,1-3,7.1,2026-08-23,MLOps|Pandas|Python|SQL|Statistics|TypeScript
+JOB00649,Backend Developer,PixelForge,Bengaluru,3-5,12.5,2026-06-13,AWS|Docker|Microservices|MongoDB|Node.js|REST API|Redis|Redux|TypeScript
+JOB00650,Data Scientist,Ironclad Technologies,Pune,1-3,7.9,2026-06-20,AWS|Excel|GenAI Tools|Kubernetes|MLOps|Pandas|PyTorch|Python|Statistics|TypeScript
+JOB00651,ML Engineer,Pinnacle Cloud,Noida,0-1,4.9,2026-06-03,Deep Learning|Docker|Excel|GenAI Tools|Jenkins|MLOps|Machine Learning|PyTorch|SQL|TypeScript
+JOB00652,DevOps Engineer,ByteBloom,Pune,1-3,11.6,2026-08-28,AWS|Docker|Excel|GCP|GenAI Tools|Jenkins|Kubernetes|Python|TypeScript
+JOB00653,Full Stack Developer,Arclight IT,Gurugram,5-8,20.3,2026-06-01,Docker|GenAI Tools|Jenkins|Kubernetes|Node.js|REST API|SQL|TypeScript
+JOB00654,Data Scientist,Innotech Systems,Remote,8+,39.0,2026-06-29,GenAI Tools|Kubernetes|MLOps|Pandas|Python|SQL|Statistics
+JOB00655,MERN Stack Developer,Innotech Systems,Hyderabad,1-3,6.6,2026-05-15,AWS|GenAI Tools|JavaScript|Jenkins|MLOps|MongoDB|Node.js|Redux|TypeScript
+JOB00656,DevOps Engineer,Lumen Digital,Delhi NCR,8+,39.8,2026-07-09,AWS|CI/CD|Excel|GCP|Jenkins|Kubernetes|MLOps|Python|Terraform|TypeScript
+JOB00657,Data Scientist,ByteBloom,Delhi NCR,1-3,7.8,2026-07-17,AWS|Deep Learning|MLOps|Pandas|Statistics
+JOB00658,Data Analyst,Fintara,Kolkata,5-8,26.5,2026-04-15,A/B Testing|AWS|GenAI Tools|Kubernetes|Looker|Pandas|Power BI|Redux|SQL
+JOB00659,Data Scientist,Ironclad Technologies,Noida,3-5,19.3,2026-06-10,Deep Learning|GenAI Tools|Jenkins|MLOps|PyTorch|Python|TypeScript
+JOB00660,Data Analyst,Pinnacle Cloud,Hyderabad,0-1,5.2,2026-05-10,Excel|GenAI Tools|Power BI|SQL
+JOB00661,Product Analyst,GreenPath Analytics,Delhi NCR,3-5,12.4,2026-08-11,A/B Testing|AWS|Excel|GenAI Tools|Power BI|Product Metrics|Python|Statistics|Tableau|TypeScript
+JOB00662,Full Stack Developer,Meridian Softworks,Bengaluru,1-3,10.2,2026-05-13,Docker|GenAI Tools|JavaScript|Jenkins|Kubernetes|MLOps|MongoDB|Node.js|REST API|Redux|SQL|TypeScript
+JOB00663,Product Analyst,GreenPath Analytics,Hyderabad,3-5,15.1,2026-07-18,A/B Testing|Excel|Jenkins|MLOps|Power BI|Product Metrics|SQL|Statistics|Tableau|TypeScript
+JOB00664,Data Engineer,Arclight IT,Chennai,1-3,8.7,2026-08-19,Airflow|Data Warehousing|Kafka|Spark
+JOB00665,Data Engineer,Novara Systems,Gurugram,1-3,8.5,2026-08-17,Docker|GCP|GenAI Tools|MLOps|Python|SQL|TypeScript
+JOB00666,Data Scientist,Fintara,Hyderabad,3-5,22.3,2026-07-29,AWS|Deep Learning|GenAI Tools|Machine Learning|PyTorch|Python|SQL|Scikit-learn|TypeScript
+JOB00667,Business Analyst,PixelForge,Kolkata,8+,24.1,2026-03-18,Power BI|Stakeholder Management|Statistics|Tableau
+JOB00668,ML Engineer,Pinnacle Cloud,Remote,1-3,9.7,2026-05-01,AWS|GenAI Tools|Jenkins|Kubernetes|Machine Learning|PyTorch
+JOB00669,Data Scientist,Novara Systems,Hyderabad,0-1,6.7,2026-08-10,Deep Learning|Excel|GenAI Tools|Kubernetes|MLOps|Machine Learning|Python|SQL|Scikit-learn|TypeScript
+JOB00670,ML Engineer,Fintara,Chennai,3-5,21.2,2026-03-24,Docker|MLOps|Machine Learning|Python|Redux|TypeScript
+JOB00671,Full Stack Developer,PixelForge,Gurugram,8+,29.9,2026-07-09,AWS|Docker|Kubernetes|MongoDB|React|Redux|SQL
+JOB00672,Data Scientist,Northbridge Analytics,Delhi NCR,1-3,12.4,2026-07-24,Deep Learning|Kubernetes|Machine Learning|PyTorch|Python
+JOB00673,Data Scientist,Quantify Labs,Mumbai,5-8,30.6,2026-04-06,Jenkins|Machine Learning|PyTorch|Python|SQL|TypeScript
+JOB00674,ML Engineer,DataNest,Mumbai,3-5,15.0,2026-07-12,Deep Learning|Docker|GenAI Tools|Jenkins|MLOps|Python|TypeScript
+JOB00675,Backend Developer,BrightWave Solutions,Gurugram,1-3,8.5,2026-06-24,AWS|Docker|Excel|GenAI Tools|Jenkins|Microservices|MongoDB|REST API|SQL
+JOB00676,Data Analyst,Skyline InfoTech,Mumbai,0-1,4.9,2026-07-18,Excel|Kubernetes|Looker|Pandas|Python|SQL|Statistics|Tableau|TypeScript
+JOB00677,Business Analyst,DataNest,Delhi NCR,0-1,4.3,2026-05-04,Excel|GenAI Tools|Jira|Kubernetes|MLOps|Power BI|Requirements Gathering|SQL|Stakeholder Management|Tableau
+JOB00678,Data Analyst,DataNest,Hyderabad,1-3,9.0,2026-08-20,AWS|Excel|Kubernetes|Looker|MLOps|Power BI|SQL|Statistics|TypeScript
+JOB00679,ML Engineer,DataNest,Hyderabad,3-5,16.2,2026-06-30,AWS|Deep Learning|Kubernetes|MLOps|Machine Learning|PyTorch|SQL
+JOB00680,Product Analyst,Vertex Software,Hyderabad,3-5,13.1,2026-06-05,A/B Testing|AWS|Excel|GenAI Tools|Jenkins|Power BI|Product Metrics|Python|Tableau
+JOB00681,ML Engineer,TrueNorth Data,Gurugram,1-3,11.1,2026-07-23,AWS|Deep Learning|Docker|Excel|GenAI Tools|Kubernetes|PyTorch
+JOB00682,Data Scientist,PixelForge,Hyderabad,3-5,18.1,2026-03-15,GenAI Tools|Jenkins|MLOps|Machine Learning|Pandas|Redux|SQL|Scikit-learn|Statistics
+JOB00683,MERN Stack Developer,Novara Systems,Kolkata,8+,31.7,2026-06-19,AWS|Excel|Express.js|JavaScript|Kubernetes|MongoDB|Node.js|REST API
+JOB00684,Data Engineer,Innotech Systems,Delhi NCR,3-5,16.4,2026-07-17,Airflow|Data Warehousing|ETL|GenAI Tools|Spark
+JOB00685,Data Engineer,Fintara,Mumbai,8+,43.6,2026-03-23,Airflow|Data Warehousing|Docker|ETL|Excel|Jenkins|Python|Spark
+JOB00686,Product Analyst,Arclight IT,Bengaluru,0-1,3.9,2026-07-09,AWS|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Python|SQL|Statistics|Tableau
+JOB00687,Full Stack Developer,Arclight IT,Mumbai,1-3,10.4,2026-07-22,Docker|GenAI Tools|Jenkins|Kubernetes|MLOps|Node.js|REST API|SQL|TypeScript
+JOB00688,ML Engineer,BrightWave Solutions,Bengaluru,5-8,24.1,2026-08-20,AWS|Deep Learning|GenAI Tools|Jenkins|MLOps|SQL|TypeScript
+JOB00689,Product Analyst,Meridian Softworks,Pune,5-8,20.9,2026-06-14,A/B Testing|AWS|Excel|GenAI Tools|Power BI|Product Metrics|Redux|SQL|Tableau
+JOB00690,MERN Stack Developer,Corestack,Hyderabad,3-5,11.0,2026-05-21,AWS|Express.js|JWT|MLOps|MongoDB|Node.js|React|Redux
+JOB00691,Business Analyst,Lumen Digital,Mumbai,1-3,8.4,2026-03-05,Excel|Jenkins|Power BI|Stakeholder Management|Statistics
+JOB00692,MERN Stack Developer,BrightWave Solutions,Noida,0-1,4.8,2026-03-20,AWS|Excel|GenAI Tools|Jenkins|MongoDB|React|Redux|TypeScript
+JOB00693,Backend Developer,Skyline InfoTech,Bengaluru,3-5,18.7,2026-04-24,AWS|GenAI Tools|REST API|Redis|SQL
+JOB00694,ML Engineer,Vertex Software,Delhi NCR,0-1,7.7,2026-04-12,AWS|Docker|GenAI Tools|MLOps|Python|SQL|TypeScript
+JOB00695,Product Analyst,Northbridge Analytics,Remote,8+,36.5,2026-08-07,AWS|Excel|MLOps|Power BI|Product Metrics|SQL|Statistics|Tableau|TypeScript
+JOB00696,Business Analyst,Quantify Labs,Gurugram,1-3,7.9,2026-03-17,Excel|Jenkins|Jira|Kubernetes|Redux|Requirements Gathering|Stakeholder Management|Statistics|Tableau
+JOB00697,Backend Developer,PixelForge,Gurugram,5-8,28.9,2026-07-15,AWS|Docker|Jenkins|MLOps|Microservices|MongoDB|Node.js|REST API|Redis|Redux|TypeScript
+JOB00698,Data Engineer,TrueNorth Data,Mumbai,3-5,19.1,2026-07-14,Airflow|Docker|GCP|Kafka|Python
+JOB00699,Backend Developer,Fintara,Pune,5-8,28.1,2026-07-24,AWS|Docker|Excel|Kubernetes|Microservices|REST API|Redis|SQL|System Design
+JOB00700,DevOps Engineer,Novara Systems,Noida,0-1,5.3,2026-03-14,AWS|CI/CD|Docker|Excel|Jenkins|Kubernetes|Terraform|TypeScript
+JOB00701,Data Scientist,Meridian Softworks,Hyderabad,3-5,15.1,2026-03-02,Deep Learning|Excel|MLOps|Machine Learning|Pandas|SQL|Statistics
+JOB00702,ML Engineer,ByteBloom,Noida,5-8,24.6,2026-07-19,AWS|Docker|GenAI Tools|MLOps|PyTorch|Python|SQL|TypeScript
+JOB00703,ML Engineer,Corestack,Bengaluru,3-5,19.1,2026-07-07,AWS|Deep Learning|Excel|GenAI Tools|MLOps|Machine Learning|PyTorch|Python|TypeScript
+JOB00704,DevOps Engineer,GreenPath Analytics,Pune,1-3,8.0,2026-03-30,AWS|Docker|Excel|GCP|Jenkins|Linux|MLOps|Python|TypeScript
+JOB00705,Backend Developer,Pinnacle Cloud,Noida,5-8,18.0,2026-04-11,AWS|Microservices|MongoDB|Node.js|Redis|SQL|System Design
+JOB00706,Full Stack Developer,Skyline InfoTech,Mumbai,0-1,6.5,2026-03-16,AWS|Docker|JavaScript|MLOps|Node.js|React|TypeScript
+JOB00707,Data Engineer,Vertex Software,Mumbai,3-5,20.8,2026-04-12,AWS|Docker|Excel|Kafka|MLOps|Redux|SQL|Spark|TypeScript
+JOB00708,ML Engineer,CloudPeak Technologies,Noida,3-5,13.8,2026-05-27,AWS|Deep Learning|Docker|GenAI Tools|MLOps|Machine Learning
+JOB00709,Data Engineer,Skyline InfoTech,Delhi NCR,5-8,22.4,2026-05-05,AWS|Airflow|Docker|Kafka|Kubernetes|MLOps|SQL
+JOB00710,Data Engineer,Arclight IT,Pune,5-8,24.9,2026-06-26,AWS|Airflow|Docker|GCP|Kubernetes|MLOps|Redux|SQL|TypeScript
+JOB00711,ML Engineer,Fintara,Chennai,1-3,9.6,2026-06-06,AWS|Docker|GenAI Tools|Kubernetes|MLOps|Machine Learning|SQL
+JOB00712,MERN Stack Developer,BrightWave Solutions,Mumbai,1-3,7.0,2026-08-12,AWS|Express.js|GenAI Tools|Kubernetes|Node.js|REST API|React|TypeScript
+JOB00713,MERN Stack Developer,Meridian Softworks,Delhi NCR,5-8,21.5,2026-06-09,AWS|MongoDB|REST API|React|Redux|TypeScript
+JOB00714,Full Stack Developer,Lumen Digital,Pune,8+,49.3,2026-05-23,AWS|Docker|GenAI Tools|JavaScript|Kubernetes|MongoDB|REST API|React
+JOB00715,Product Analyst,Arclight IT,Noida,3-5,11.1,2026-04-06,A/B Testing|Excel|GenAI Tools|Kubernetes|MLOps|Product Metrics|Python|Statistics
+JOB00716,Data Scientist,Lumen Digital,Mumbai,0-1,4.4,2026-03-18,Excel|GenAI Tools|Jenkins|Pandas|PyTorch|Python|SQL|Scikit-learn|Statistics
+JOB00717,Product Analyst,BrightWave Solutions,Delhi NCR,1-3,7.8,2026-08-23,A/B Testing|AWS|Excel|GenAI Tools|Kubernetes|Product Metrics|Python|SQL|Statistics|Tableau|TypeScript
+JOB00718,Data Analyst,Corestack,Delhi NCR,1-3,8.5,2026-08-04,A/B Testing|GenAI Tools|Looker|MLOps|Power BI|SQL|Statistics|Tableau|TypeScript
+JOB00719,DevOps Engineer,Innotech Systems,Hyderabad,3-5,15.8,2026-06-21,AWS|CI/CD|Docker|GCP|GenAI Tools|Kubernetes|Linux|Python|Terraform|TypeScript
+JOB00720,Data Analyst,Pinnacle Cloud,Chennai,1-3,6.8,2026-07-05,A/B Testing|AWS|GenAI Tools|Kubernetes|Looker|MLOps|Pandas|Power BI|Python|SQL|Statistics|TypeScript
+JOB00721,Business Analyst,Arclight IT,Noida,3-5,11.7,2026-07-26,Excel|GenAI Tools|MLOps|Power BI|Redux|SQL|Statistics|TypeScript
+JOB00722,Full Stack Developer,DataNest,Delhi NCR,1-3,7.5,2026-04-26,AWS|Node.js|React|Redux|SQL
+JOB00723,Data Analyst,CloudPeak Technologies,Noida,3-5,16.1,2026-03-15,Excel|Jenkins|Kubernetes|Python|Redux|Statistics|Tableau
+JOB00724,DevOps Engineer,Arclight IT,Noida,3-5,13.0,2026-03-11,AWS|CI/CD|Docker|Kubernetes|Linux
+JOB00725,Product Analyst,Northbridge Analytics,Gurugram,8+,45.9,2026-03-25,A/B Testing|Excel|Power BI|Product Metrics|Python|Statistics|Tableau
+JOB00726,Data Engineer,Novara Systems,Pune,0-1,6.1,2026-03-07,AWS|ETL|GCP|Jenkins|Redux|SQL
+JOB00727,Data Engineer,Pinnacle Cloud,Pune,5-8,21.3,2026-07-15,AWS|Airflow|Docker|GenAI Tools|Kafka|Kubernetes|MLOps|Python|Redux|SQL|Spark
+JOB00728,Data Scientist,Quantify Labs,Delhi NCR,1-3,8.1,2026-08-13,Deep Learning|Excel|GenAI Tools|Kubernetes|MLOps|Machine Learning|Pandas|PyTorch|Scikit-learn|Statistics
+JOB00729,DevOps Engineer,Innotech Systems,Delhi NCR,3-5,16.2,2026-06-23,AWS|CI/CD|Jenkins|Kubernetes|MLOps|Python|Terraform|TypeScript
+JOB00730,DevOps Engineer,Pinnacle Cloud,Gurugram,3-5,11.9,2026-08-29,CI/CD|GCP|GenAI Tools|Jenkins|Linux|Python|TypeScript
+JOB00731,Data Analyst,CloudPeak Technologies,Kolkata,1-3,9.4,2026-04-05,AWS|Excel|GenAI Tools|Redux|SQL|Statistics|Tableau|TypeScript
+JOB00732,Data Scientist,GreenPath Analytics,Bengaluru,5-8,32.2,2026-05-02,Deep Learning|Excel|GenAI Tools|MLOps|SQL|Scikit-learn|Statistics
+JOB00733,Full Stack Developer,Fintara,Pune,8+,36.6,2026-04-24,AWS|JavaScript|Kubernetes|MLOps|MongoDB|Node.js|REST API|React|TypeScript
+JOB00734,Full Stack Developer,Fintara,Hyderabad,1-3,8.8,2026-04-14,AWS|Docker|JavaScript|Node.js|React|SQL|TypeScript
+JOB00735,Business Analyst,BrightWave Solutions,Hyderabad,1-3,9.5,2026-06-20,AWS|Excel|GenAI Tools|Power BI|Requirements Gathering|Stakeholder Management|Tableau|TypeScript
+JOB00736,Data Engineer,Innotech Systems,Kolkata,3-5,15.8,2026-03-06,AWS|Data Warehousing|ETL|Excel|GCP|Jenkins|Python|SQL|Spark
+JOB00737,ML Engineer,Pinnacle Cloud,Bengaluru,1-3,13.3,2026-07-31,AWS|Deep Learning|Docker|Excel|GenAI Tools|MLOps|Python
+JOB00738,Data Engineer,GreenPath Analytics,Chennai,1-3,8.0,2026-06-01,Airflow|Docker|ETL|GCP|GenAI Tools|Jenkins|Kafka|Kubernetes|MLOps|Spark
+JOB00739,Data Scientist,Fintara,Delhi NCR,3-5,21.0,2026-06-14,AWS|Deep Learning|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Machine Learning|PyTorch|Redux|SQL|Scikit-learn|Statistics
+JOB00740,MERN Stack Developer,Novara Systems,Hyderabad,3-5,11.3,2026-08-23,AWS|GenAI Tools|JWT|Node.js|REST API|React|Redux
+JOB00741,Backend Developer,PixelForge,Bengaluru,1-3,8.4,2026-06-18,Docker|Excel|Kubernetes|MongoDB|Node.js|REST API|Redis|System Design|TypeScript
+JOB00742,DevOps Engineer,ByteBloom,Delhi NCR,5-8,24.9,2026-08-28,AWS|CI/CD|GenAI Tools|Jenkins|Kubernetes|Linux|MLOps|Terraform
+JOB00743,Full Stack Developer,Ironclad Technologies,Remote,3-5,13.1,2026-08-16,AWS|Docker|GenAI Tools|JavaScript|Kubernetes|MongoDB|React
+JOB00744,Data Analyst,Northbridge Analytics,Hyderabad,5-8,19.9,2026-04-19,A/B Testing|AWS|GenAI Tools|Looker|Power BI|Redux|SQL|Statistics|Tableau
+JOB00745,DevOps Engineer,Innotech Systems,Chennai,3-5,14.2,2026-03-15,AWS|Docker|GCP|Jenkins|Kubernetes|MLOps|Python
+JOB00746,DevOps Engineer,Northbridge Analytics,Chennai,0-1,5.9,2026-03-29,AWS|CI/CD|Excel|GCP|Kubernetes
+JOB00747,MERN Stack Developer,Meridian Softworks,Gurugram,5-8,21.2,2026-05-04,AWS|JWT|JavaScript|MongoDB|Node.js|REST API|Redux|TypeScript
+JOB00748,Backend Developer,Skyline InfoTech,Noida,0-1,4.0,2026-06-02,AWS|Docker|Excel|MLOps|MongoDB|Node.js|REST API|Redis|SQL
+JOB00749,ML Engineer,Pinnacle Cloud,Delhi NCR,1-3,12.5,2026-08-27,AWS|Deep Learning|GenAI Tools|Kubernetes|MLOps|PyTorch|Python|SQL
+JOB00750,Backend Developer,Quantify Labs,Bengaluru,5-8,23.0,2026-06-25,AWS|GenAI Tools|Jenkins|Kubernetes|MLOps|Microservices|Node.js|REST API|System Design
+JOB00751,Data Scientist,Meridian Softworks,Kolkata,0-1,5.4,2026-04-26,Excel|Jenkins|MLOps|Machine Learning|PyTorch|Python|SQL|Statistics
+JOB00752,Data Scientist,CloudPeak Technologies,Delhi NCR,3-5,21.8,2026-03-15,Jenkins|MLOps|Machine Learning|Scikit-learn|Statistics
+JOB00753,MERN Stack Developer,Skyline InfoTech,Remote,0-1,6.0,2026-04-30,Express.js|JavaScript|Jenkins|MLOps|React|Redux|TypeScript
+JOB00754,Business Analyst,DataNest,Bengaluru,1-3,9.5,2026-08-15,Excel|Kubernetes|MLOps|Redux|SQL|Stakeholder Management|Tableau
+JOB00755,Business Analyst,BrightWave Solutions,Pune,0-1,4.8,2026-04-08,Excel|Power BI|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB00756,Data Analyst,ByteBloom,Kolkata,3-5,17.7,2026-07-14,A/B Testing|AWS|Excel|Jenkins|Looker|MLOps|Pandas|Python
+JOB00757,Product Analyst,CloudPeak Technologies,Bengaluru,5-8,20.3,2026-07-30,AWS|Excel|GenAI Tools|Kubernetes|MLOps|Power BI|Python|SQL
+JOB00758,Business Analyst,PixelForge,Noida,1-3,6.2,2026-05-04,Excel|Jira|MLOps|Power BI|SQL|Stakeholder Management|Statistics|TypeScript
+JOB00759,MERN Stack Developer,Lumen Digital,Bengaluru,1-3,10.4,2026-07-18,AWS|Excel|Express.js|GenAI Tools|JWT|MLOps|Node.js|React|Redux|TypeScript
+JOB00760,ML Engineer,TrueNorth Data,Hyderabad,3-5,15.5,2026-08-17,AWS|Deep Learning|Docker|Redux|SQL
+JOB00761,MERN Stack Developer,BrightWave Solutions,Delhi NCR,5-8,26.4,2026-06-30,AWS|Express.js|GenAI Tools|Jenkins|MLOps|MongoDB|Redux|TypeScript
+JOB00762,MERN Stack Developer,Lumen Digital,Chennai,3-5,16.3,2026-06-23,AWS|Express.js|JWT|JavaScript|MLOps|REST API|Redux|TypeScript
+JOB00763,Data Scientist,PixelForge,Mumbai,1-3,11.2,2026-08-05,Deep Learning|Excel|GenAI Tools|Jenkins|Kubernetes|Machine Learning|Python|Statistics
+JOB00764,Data Scientist,Pinnacle Cloud,Kolkata,5-8,29.9,2026-08-10,Deep Learning|Machine Learning|Pandas|Python|Redux|TypeScript
+JOB00765,Data Analyst,Novara Systems,Remote,5-8,22.9,2026-04-09,A/B Testing|Excel|GenAI Tools|MLOps|Pandas|Python|Redux|Statistics|Tableau
+JOB00766,MERN Stack Developer,DataNest,Delhi NCR,1-3,10.9,2026-03-09,AWS|Express.js|GenAI Tools|Jenkins|Kubernetes|Node.js|React|TypeScript
+JOB00767,MERN Stack Developer,Skyline InfoTech,Noida,1-3,8.6,2026-03-12,AWS|Express.js|GenAI Tools|JWT|Jenkins|MLOps|MongoDB|React|Redux
+JOB00768,Data Engineer,Arclight IT,Delhi NCR,5-8,25.0,2026-08-08,Airflow|Data Warehousing|Excel|GCP|GenAI Tools|Kafka|Kubernetes|Python|Spark|TypeScript
+JOB00769,Full Stack Developer,GreenPath Analytics,Gurugram,8+,38.9,2026-08-07,Excel|JavaScript|Kubernetes|MongoDB|Node.js|React|TypeScript
+JOB00770,DevOps Engineer,PixelForge,Noida,1-3,11.5,2026-03-10,CI/CD|Docker|Excel|Kubernetes|Terraform
+JOB00771,Business Analyst,Northbridge Analytics,Chennai,3-5,9.7,2026-06-22,Excel|Jenkins|Jira|MLOps|Requirements Gathering|Statistics|Tableau
+JOB00772,Data Analyst,Innotech Systems,Noida,0-1,6.0,2026-03-31,A/B Testing|Excel|MLOps|Power BI|Statistics
+JOB00773,Backend Developer,Vertex Software,Hyderabad,5-8,24.2,2026-05-31,AWS|Jenkins|Microservices|MongoDB|Node.js|Redis|Redux|SQL
+JOB00774,Data Analyst,Novara Systems,Delhi NCR,0-1,4.9,2026-05-19,AWS|GenAI Tools|Kubernetes|Looker|MLOps|Pandas|SQL
+JOB00775,Business Analyst,Lumen Digital,Hyderabad,3-5,14.2,2026-08-28,Excel|GenAI Tools|Kubernetes|MLOps|Power BI|SQL|Stakeholder Management|Statistics|Tableau
+JOB00776,Data Analyst,Arclight IT,Gurugram,1-3,8.4,2026-03-12,Excel|Looker|Python|SQL|Statistics|Tableau
+JOB00777,Business Analyst,ByteBloom,Pune,5-8,18.7,2026-04-04,AWS|Excel|Power BI|Statistics|Tableau
+JOB00778,MERN Stack Developer,BrightWave Solutions,Delhi NCR,5-8,21.3,2026-07-16,Express.js|JWT|MLOps|MongoDB|REST API|TypeScript
+JOB00779,Backend Developer,Quantify Labs,Gurugram,1-3,6.7,2026-07-22,AWS|MLOps|MongoDB|Node.js|REST API|SQL|System Design
+JOB00780,Business Analyst,Meridian Softworks,Gurugram,1-3,6.7,2026-07-05,Excel|GenAI Tools|Kubernetes|Power BI|Requirements Gathering|Stakeholder Management|Tableau
+JOB00781,Business Analyst,Meridian Softworks,Delhi NCR,1-3,6.8,2026-06-04,Excel|Jenkins|Jira|MLOps|Redux|Requirements Gathering|SQL|Stakeholder Management|Tableau
+JOB00782,Data Scientist,CloudPeak Technologies,Mumbai,3-5,17.5,2026-03-25,Deep Learning|GenAI Tools|Pandas|PyTorch|Python|Redux|Statistics
+JOB00783,Full Stack Developer,Arclight IT,Gurugram,5-8,23.8,2026-03-02,AWS|Docker|Excel|Jenkins|Kubernetes|MLOps|React|SQL|TypeScript
+JOB00784,ML Engineer,Corestack,Delhi NCR,5-8,25.4,2026-06-17,AWS|Deep Learning|Docker|Excel|GenAI Tools|MLOps|Python|SQL
+JOB00785,Business Analyst,Novara Systems,Hyderabad,1-3,9.0,2026-03-05,Excel|Jenkins|Jira|Requirements Gathering|Statistics|Tableau|TypeScript
+JOB00786,MERN Stack Developer,TrueNorth Data,Bengaluru,1-3,6.5,2026-07-14,Excel|GenAI Tools|JWT|MLOps|MongoDB|Node.js|REST API|Redux|TypeScript
+JOB00787,Business Analyst,Quantify Labs,Noida,3-5,12.8,2026-04-06,Excel|Jenkins|Jira|MLOps|Redux|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB00788,DevOps Engineer,Pinnacle Cloud,Delhi NCR,0-1,4.9,2026-06-23,AWS|Docker|Excel|GCP|GenAI Tools|Jenkins|Kubernetes|Linux|Python|Terraform|TypeScript
+JOB00789,ML Engineer,TrueNorth Data,Noida,5-8,21.8,2026-06-05,AWS|Deep Learning|GenAI Tools|Kubernetes|MLOps|Machine Learning|Python|SQL
+JOB00790,MERN Stack Developer,DataNest,Delhi NCR,8+,41.6,2026-07-09,AWS|GenAI Tools|JWT|JavaScript|Node.js|REST API|React|Redux|TypeScript
+JOB00791,ML Engineer,Arclight IT,Bengaluru,1-3,8.5,2026-06-06,Deep Learning|Docker|MLOps|Machine Learning|PyTorch|Python
+JOB00792,Business Analyst,PixelForge,Delhi NCR,5-8,23.7,2026-05-18,Jenkins|Kubernetes|Requirements Gathering|SQL|Statistics|Tableau
+JOB00793,MERN Stack Developer,BrightWave Solutions,Mumbai,3-5,16.3,2026-04-10,Excel|JavaScript|Jenkins|MongoDB|Node.js|REST API|React|TypeScript
+JOB00794,Product Analyst,Innotech Systems,Hyderabad,3-5,10.6,2026-08-02,AWS|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Power BI|Python|Statistics|Tableau
+JOB00795,ML Engineer,Vertex Software,Noida,3-5,19.5,2026-07-03,AWS|Deep Learning|Docker|GenAI Tools|MLOps|Python|TypeScript
+JOB00796,Data Analyst,DataNest,Noida,3-5,12.7,2026-04-10,AWS|GenAI Tools|Looker|MLOps|Power BI|Redux|Statistics
+JOB00797,Data Analyst,Northbridge Analytics,Bengaluru,1-3,6.7,2026-03-11,Excel|Looker|MLOps|Pandas|Python|Statistics|Tableau
+JOB00798,Backend Developer,Lumen Digital,Delhi NCR,1-3,9.3,2026-08-11,AWS|Docker|GenAI Tools|Kubernetes|Microservices|MongoDB|Node.js|Redis|Redux|SQL|TypeScript
+JOB00799,ML Engineer,Quantify Labs,Remote,8+,41.8,2026-06-11,AWS|Docker|Jenkins|Kubernetes|MLOps|Python|Redux|SQL
+JOB00800,Data Engineer,ByteBloom,Delhi NCR,0-1,6.7,2026-06-08,Airflow|Data Warehousing|GenAI Tools|Jenkins|Kafka|Kubernetes|SQL
+JOB00801,Backend Developer,Novara Systems,Bengaluru,3-5,19.6,2026-08-25,AWS|Docker|GenAI Tools|MLOps|Microservices|MongoDB|Node.js|REST API|Redis|SQL
+JOB00802,Data Scientist,Corestack,Hyderabad,8+,35.3,2026-04-13,AWS|Excel|Jenkins|MLOps|Machine Learning|Pandas|Redux|Scikit-learn|Statistics
+JOB00803,Data Scientist,Pinnacle Cloud,Remote,3-5,21.2,2026-04-03,MLOps|Machine Learning|PyTorch|Redux|Scikit-learn|Statistics
+JOB00804,DevOps Engineer,Vertex Software,Delhi NCR,5-8,24.7,2026-04-02,AWS|CI/CD|Docker|Jenkins|Kubernetes|Terraform
+JOB00805,Data Analyst,Novara Systems,Hyderabad,1-3,10.4,2026-05-13,Jenkins|Kubernetes|Looker|MLOps|Pandas|Power BI|SQL|Tableau|TypeScript
+JOB00806,Backend Developer,Fintara,Bengaluru,3-5,17.6,2026-05-21,AWS|Kubernetes|Microservices|Redis|Redux|SQL
+JOB00807,Data Analyst,TrueNorth Data,Mumbai,5-8,21.2,2026-04-18,A/B Testing|Excel|GenAI Tools|Jenkins|Looker|MLOps|SQL|Statistics|Tableau
+JOB00808,Product Analyst,Lumen Digital,Gurugram,3-5,14.2,2026-04-23,Power BI|Python|SQL|Statistics|Tableau
+JOB00809,Backend Developer,BrightWave Solutions,Remote,5-8,24.1,2026-05-13,AWS|Docker|MongoDB|Node.js|REST API|SQL|System Design|TypeScript
+JOB00810,DevOps Engineer,Ironclad Technologies,Bengaluru,3-5,13.7,2026-05-19,AWS|CI/CD|Docker|GCP|Jenkins|Kubernetes|Linux|Python|Terraform
+JOB00811,Data Analyst,Innotech Systems,Chennai,3-5,13.7,2026-08-05,A/B Testing|GenAI Tools|Looker|MLOps|Pandas|SQL|Statistics|Tableau|TypeScript
+JOB00812,Full Stack Developer,Meridian Softworks,Delhi NCR,5-8,19.0,2026-06-20,AWS|JavaScript|Kubernetes|MongoDB|SQL|TypeScript
+JOB00813,Full Stack Developer,Northbridge Analytics,Delhi NCR,3-5,15.7,2026-08-14,AWS|Docker|GenAI Tools|JavaScript|Node.js|REST API|SQL|TypeScript
+JOB00814,Backend Developer,Arclight IT,Bengaluru,0-1,4.5,2026-07-08,AWS|Docker|GenAI Tools|Kubernetes|Node.js|REST API|Redis|System Design
+JOB00815,Business Analyst,Ironclad Technologies,Delhi NCR,0-1,4.3,2026-07-01,AWS|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Requirements Gathering|Stakeholder Management|Statistics
+JOB00816,Data Scientist,GreenPath Analytics,Delhi NCR,0-1,4.5,2026-07-29,GenAI Tools|Machine Learning|Pandas|SQL|Scikit-learn|TypeScript
+JOB00817,Product Analyst,PixelForge,Delhi NCR,3-5,15.6,2026-06-26,AWS|Product Metrics|Python|SQL|Statistics|TypeScript
+JOB00818,Data Engineer,Innotech Systems,Gurugram,1-3,12.4,2026-03-24,AWS|Airflow|Data Warehousing|Docker|Excel|Kafka|Spark
+JOB00819,Data Engineer,Fintara,Pune,3-5,12.2,2026-08-26,AWS|Data Warehousing|Docker|ETL|GenAI Tools|Kafka|MLOps|Redux|Spark|TypeScript
+JOB00820,Data Analyst,Quantify Labs,Remote,1-3,8.4,2026-04-25,A/B Testing|Excel|Jenkins|Kubernetes|Looker|Power BI|Statistics
+JOB00821,DevOps Engineer,Skyline InfoTech,Delhi NCR,3-5,13.5,2026-04-03,GCP|Kubernetes|Python|Terraform
+JOB00822,ML Engineer,GreenPath Analytics,Remote,5-8,22.9,2026-04-23,Deep Learning|Docker|Excel|Kubernetes|MLOps|Machine Learning|PyTorch|Python|SQL|TypeScript
+JOB00823,Data Scientist,Ironclad Technologies,Bengaluru,0-1,6.0,2026-08-01,GenAI Tools|Kubernetes|Machine Learning|Pandas|Python|Scikit-learn|TypeScript
+JOB00824,ML Engineer,Northbridge Analytics,Hyderabad,3-5,19.4,2026-04-02,AWS|Deep Learning|Excel|GenAI Tools|MLOps|SQL
+JOB00825,DevOps Engineer,GreenPath Analytics,Noida,1-3,8.1,2026-06-28,AWS|Docker|GCP|Jenkins|Kubernetes|Terraform
+JOB00826,Product Analyst,DataNest,Chennai,8+,37.9,2026-08-16,AWS|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Power BI|Product Metrics|Python|Statistics|Tableau|TypeScript
+JOB00827,Data Engineer,DataNest,Delhi NCR,1-3,9.6,2026-05-06,AWS|Airflow|Docker|Excel|GCP|Spark|TypeScript
+JOB00828,Business Analyst,Pinnacle Cloud,Remote,1-3,9.1,2026-08-05,AWS|Excel|Jira|Kubernetes|Power BI|Requirements Gathering|SQL|Stakeholder Management|Tableau|TypeScript
+JOB00829,Business Analyst,Fintara,Pune,0-1,4.6,2026-08-21,AWS|Excel|GenAI Tools|Power BI|SQL|Statistics|Tableau
+JOB00830,Product Analyst,GreenPath Analytics,Noida,3-5,12.8,2026-06-01,A/B Testing|Excel|Power BI|Product Metrics|SQL|Statistics|Tableau|TypeScript
+JOB00831,MERN Stack Developer,ByteBloom,Delhi NCR,3-5,18.4,2026-07-27,AWS|Express.js|Kubernetes|REST API|React|Redux|TypeScript
+JOB00832,Backend Developer,Northbridge Analytics,Chennai,1-3,10.6,2026-05-26,AWS|Docker|MongoDB|Node.js|Redis|Redux
+JOB00833,Data Scientist,Vertex Software,Delhi NCR,5-8,25.1,2026-08-16,AWS|Deep Learning|GenAI Tools|Jenkins|MLOps|Python|SQL|Scikit-learn|Statistics|TypeScript
+JOB00834,DevOps Engineer,BrightWave Solutions,Gurugram,1-3,7.8,2026-06-22,AWS|CI/CD|Docker|Kubernetes|MLOps|Python|Terraform|TypeScript
+JOB00835,MERN Stack Developer,Northbridge Analytics,Delhi NCR,1-3,11.4,2026-07-22,AWS|JWT|JavaScript|Kubernetes|MongoDB|REST API|React|TypeScript
+JOB00836,Full Stack Developer,Northbridge Analytics,Noida,5-8,24.9,2026-07-12,Docker|GenAI Tools|JavaScript|Kubernetes|Node.js|Redux|SQL
+JOB00837,DevOps Engineer,Corestack,Hyderabad,5-8,19.2,2026-03-24,Docker|Jenkins|Linux|MLOps|Python|Redux|Terraform
+JOB00838,Product Analyst,GreenPath Analytics,Mumbai,5-8,25.4,2026-08-23,A/B Testing|AWS|GenAI Tools|MLOps|Power BI|Product Metrics|Python|SQL|Statistics|Tableau
+JOB00839,Data Analyst,Corestack,Delhi NCR,0-1,5.4,2026-03-11,Jenkins|Looker|Pandas|Power BI|Statistics
+JOB00840,Backend Developer,Skyline InfoTech,Hyderabad,5-8,27.3,2026-08-20,AWS|Docker|Kubernetes|MLOps|MongoDB|REST API|Redis|SQL|TypeScript
+JOB00841,Full Stack Developer,Vertex Software,Mumbai,1-3,7.2,2026-04-20,AWS|Docker|MLOps|MongoDB|Redux|SQL|TypeScript
+JOB00842,Backend Developer,GreenPath Analytics,Gurugram,0-1,4.3,2026-06-01,AWS|Docker|Kubernetes|MLOps|Microservices|MongoDB|Node.js|Redis|SQL
+JOB00843,Business Analyst,Pinnacle Cloud,Bengaluru,1-3,9.6,2026-05-03,AWS|Excel|Jenkins|Jira|Kubernetes|MLOps|Power BI|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB00844,ML Engineer,Skyline InfoTech,Remote,5-8,35.9,2026-05-19,AWS|Docker|Excel|GenAI Tools|Kubernetes|MLOps|Machine Learning|PyTorch|Python|Redux
+JOB00845,Product Analyst,Northbridge Analytics,Bengaluru,5-8,20.2,2026-03-10,Excel|Kubernetes|Power BI|Product Metrics|Python|SQL|Statistics|Tableau
+JOB00846,Data Analyst,Northbridge Analytics,Delhi NCR,1-3,6.3,2026-04-01,Excel|GenAI Tools|Looker|Python|SQL|Statistics|Tableau
+JOB00847,ML Engineer,Vertex Software,Mumbai,5-8,24.1,2026-05-09,Docker|GenAI Tools|MLOps|Machine Learning|PyTorch|Python|SQL
+JOB00848,DevOps Engineer,Ironclad Technologies,Chennai,1-3,9.5,2026-06-12,AWS|Excel|GCP|Jenkins|Linux|Python|Redux
+JOB00849,DevOps Engineer,Vertex Software,Noida,0-1,4.4,2026-03-10,AWS|GCP|Jenkins|Python|Terraform
+JOB00850,Data Scientist,GreenPath Analytics,Bengaluru,8+,45.5,2026-07-12,AWS|Kubernetes|MLOps|Machine Learning|Pandas|PyTorch|Python|SQL|Scikit-learn
+JOB00851,ML Engineer,Meridian Softworks,Kolkata,1-3,10.4,2026-03-03,Deep Learning|Docker|Excel|GenAI Tools|Python|Redux|SQL
+JOB00852,Data Scientist,Arclight IT,Remote,5-8,21.8,2026-07-01,Deep Learning|MLOps|Pandas|PyTorch|SQL|Statistics
+JOB00853,Data Scientist,Skyline InfoTech,Noida,0-1,4.9,2026-05-17,GenAI Tools|MLOps|Machine Learning|Pandas|PyTorch|SQL|Scikit-learn|TypeScript
+JOB00854,Data Analyst,Skyline InfoTech,Remote,5-8,27.8,2026-04-21,A/B Testing|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Pandas|Power BI|Python|Statistics|Tableau
+JOB00855,Backend Developer,BrightWave Solutions,Mumbai,5-8,27.5,2026-05-14,AWS|Docker|GenAI Tools|MongoDB|Node.js|REST API|Redux
+JOB00856,ML Engineer,Northbridge Analytics,Mumbai,1-3,8.9,2026-06-22,AWS|Docker|GenAI Tools|Machine Learning|Python|SQL
+JOB00857,Business Analyst,Vertex Software,Gurugram,1-3,7.1,2026-05-26,AWS|Excel|GenAI Tools|Jira|Power BI|Redux|Requirements Gathering|SQL|Statistics|Tableau|TypeScript
+JOB00858,Data Engineer,Ironclad Technologies,Delhi NCR,0-1,5.7,2026-04-27,AWS|Airflow|Docker|Excel|SQL
+JOB00859,MERN Stack Developer,Pinnacle Cloud,Mumbai,5-8,21.8,2026-06-23,Excel|GenAI Tools|JWT|MLOps|MongoDB|React|Redux|TypeScript
+JOB00860,Full Stack Developer,TrueNorth Data,Remote,1-3,7.3,2026-06-29,AWS|Docker|Excel|Kubernetes|MongoDB|SQL|TypeScript
+JOB00861,Data Engineer,DataNest,Gurugram,0-1,4.8,2026-07-04,AWS|Airflow|Data Warehousing|ETL|GCP|Kafka|Kubernetes|MLOps|SQL|Spark
+JOB00862,Backend Developer,PixelForge,Delhi NCR,0-1,6.4,2026-06-14,AWS|Docker|Excel|GenAI Tools|MLOps|Microservices|MongoDB|Node.js|System Design
+JOB00863,Full Stack Developer,Lumen Digital,Chennai,5-8,18.0,2026-07-13,Docker|Kubernetes|MLOps|MongoDB|Node.js|REST API|React|SQL|TypeScript
+JOB00864,ML Engineer,Corestack,Gurugram,5-8,31.7,2026-08-23,AWS|MLOps|Machine Learning|Python|SQL
+JOB00865,Data Analyst,Fintara,Bengaluru,3-5,13.8,2026-05-03,AWS|GenAI Tools|MLOps|Python|SQL|Statistics|TypeScript
+JOB00866,Full Stack Developer,Fintara,Bengaluru,3-5,19.7,2026-05-11,AWS|Docker|JavaScript|MongoDB|Node.js|Redux
+JOB00867,Data Analyst,TrueNorth Data,Gurugram,0-1,3.9,2026-05-26,A/B Testing|Excel|GenAI Tools|Looker|Python|SQL|Statistics|TypeScript
+JOB00868,Full Stack Developer,Vertex Software,Bengaluru,8+,49.1,2026-03-10,Docker|Excel|MongoDB|Node.js|REST API|Redux|SQL|TypeScript
+JOB00869,DevOps Engineer,PixelForge,Delhi NCR,0-1,4.6,2026-06-10,Excel|GCP|GenAI Tools|Jenkins|Kubernetes|Linux|MLOps|Python
+JOB00870,Data Scientist,CloudPeak Technologies,Bengaluru,1-3,7.7,2026-07-08,Deep Learning|GenAI Tools|Kubernetes|MLOps|Pandas|PyTorch|Python|Scikit-learn
+JOB00871,DevOps Engineer,DataNest,Mumbai,5-8,22.9,2026-08-11,AWS|CI/CD|GCP|GenAI Tools|Jenkins|Python|Terraform|TypeScript
+JOB00872,DevOps Engineer,PixelForge,Pune,1-3,8.4,2026-08-10,AWS|CI/CD|Jenkins|Kubernetes|Linux|Python|Terraform|TypeScript
+JOB00873,Backend Developer,Skyline InfoTech,Delhi NCR,0-1,5.5,2026-06-05,AWS|Docker|Excel|Microservices|MongoDB|Redis|SQL|TypeScript
+JOB00874,Data Engineer,Arclight IT,Mumbai,3-5,14.4,2026-04-16,AWS|Docker|ETL|GCP|Kafka|Redux|SQL|Spark
+JOB00875,Business Analyst,Northbridge Analytics,Bengaluru,5-8,20.9,2026-08-27,AWS|Excel|GenAI Tools|Jira|Kubernetes|MLOps|Power BI|Requirements Gathering|SQL|Statistics|Tableau|TypeScript
+JOB00876,Full Stack Developer,DataNest,Remote,8+,42.7,2026-06-12,AWS|Excel|GenAI Tools|JavaScript|REST API|React|Redux|TypeScript
+JOB00877,Full Stack Developer,ByteBloom,Pune,0-1,5.6,2026-08-13,AWS|GenAI Tools|JavaScript|MLOps|MongoDB|Node.js|REST API|React|TypeScript
+JOB00878,Data Scientist,Quantify Labs,Mumbai,5-8,33.7,2026-04-20,Deep Learning|GenAI Tools|Kubernetes|MLOps|Pandas|Scikit-learn|TypeScript
+JOB00879,Data Analyst,Lumen Digital,Hyderabad,8+,42.4,2026-08-21,A/B Testing|Excel|GenAI Tools|Kubernetes|Looker|MLOps|Pandas|Power BI|SQL|Statistics|TypeScript
+JOB00880,Data Scientist,BrightWave Solutions,Gurugram,8+,38.6,2026-03-01,Deep Learning|Kubernetes|MLOps|Machine Learning|Pandas|PyTorch|SQL|Scikit-learn
+JOB00881,Data Engineer,Pinnacle Cloud,Hyderabad,3-5,12.7,2026-05-13,AWS|Airflow|Data Warehousing|GCP|Kafka|Kubernetes|Python|SQL
+JOB00882,Data Analyst,Pinnacle Cloud,Hyderabad,1-3,10.8,2026-05-06,A/B Testing|AWS|Kubernetes|Looker|SQL|Statistics|TypeScript
+JOB00883,DevOps Engineer,DataNest,Mumbai,1-3,9.5,2026-04-25,AWS|GCP|Jenkins|Terraform|TypeScript
+JOB00884,Data Scientist,PixelForge,Chennai,3-5,18.4,2026-05-10,GenAI Tools|MLOps|Machine Learning|Python|Redux|SQL
+JOB00885,ML Engineer,Lumen Digital,Bengaluru,5-8,26.5,2026-05-06,AWS|Deep Learning|GenAI Tools|Jenkins|Machine Learning|PyTorch
+JOB00886,Data Analyst,Innotech Systems,Gurugram,8+,39.4,2026-03-10,AWS|Excel|Looker|Pandas|Power BI|Python|Redux|SQL|Statistics
+JOB00887,MERN Stack Developer,Northbridge Analytics,Bengaluru,3-5,11.0,2026-06-27,AWS|Express.js|JavaScript|MLOps|MongoDB|React|Redux|TypeScript
+JOB00888,Backend Developer,Quantify Labs,Remote,0-1,6.2,2026-06-13,Microservices|MongoDB|Node.js|REST API|Redux|TypeScript
+JOB00889,ML Engineer,Pinnacle Cloud,Bengaluru,0-1,5.5,2026-03-08,Deep Learning|Docker|Excel|GenAI Tools|Kubernetes|Machine Learning|PyTorch|Python|SQL
+JOB00890,Data Engineer,Arclight IT,Noida,3-5,21.4,2026-06-16,AWS|Data Warehousing|ETL|GenAI Tools|Kafka|MLOps|Spark|TypeScript
+JOB00891,Business Analyst,TrueNorth Data,Noida,0-1,5.4,2026-08-12,Jira|Kubernetes|MLOps|Power BI|Redux|SQL|Statistics
+JOB00892,Backend Developer,Arclight IT,Hyderabad,5-8,21.6,2026-07-28,AWS|Docker|Kubernetes|Microservices|Node.js|REST API|Redis
+JOB00893,DevOps Engineer,TrueNorth Data,Pune,1-3,8.9,2026-04-02,CI/CD|Docker|Jenkins|MLOps|Python|Redux|Terraform
+JOB00894,Backend Developer,DataNest,Kolkata,1-3,7.1,2026-04-03,Excel|MLOps|Microservices|Node.js|REST API|System Design
+JOB00895,Data Scientist,Arclight IT,Pune,8+,37.1,2026-03-18,Deep Learning|Excel|GenAI Tools|PyTorch|Redux|SQL|Scikit-learn|TypeScript
+JOB00896,MERN Stack Developer,Northbridge Analytics,Chennai,3-5,10.9,2026-08-29,AWS|GenAI Tools|React|Redux|TypeScript
+JOB00897,Backend Developer,CloudPeak Technologies,Bengaluru,5-8,18.3,2026-08-17,AWS|GenAI Tools|Kubernetes|MLOps|MongoDB|Node.js|REST API|Redis|System Design
+JOB00898,Backend Developer,Pinnacle Cloud,Gurugram,3-5,14.1,2026-06-26,Docker|Excel|GenAI Tools|MongoDB|Node.js|REST API|SQL
+JOB00899,Data Analyst,Skyline InfoTech,Remote,0-1,4.1,2026-06-20,A/B Testing|Excel|Looker|Pandas|SQL|Tableau|TypeScript
+JOB00900,Backend Developer,Fintara,Chennai,0-1,5.4,2026-05-05,Docker|Excel|Microservices|Node.js|Redis
+JOB00901,ML Engineer,Quantify Labs,Pune,5-8,28.0,2026-08-10,AWS|Deep Learning|Docker|GenAI Tools|Jenkins|MLOps|Machine Learning|PyTorch|SQL|TypeScript
+JOB00902,Data Engineer,Innotech Systems,Hyderabad,1-3,11.2,2026-06-24,AWS|Airflow|Data Warehousing|Docker|Kubernetes|MLOps|Python|TypeScript
+JOB00903,Product Analyst,PixelForge,Gurugram,1-3,9.0,2026-04-10,Excel|GenAI Tools|Power BI|Product Metrics|Python|SQL|Statistics
+JOB00904,Business Analyst,Vertex Software,Bengaluru,0-1,5.4,2026-05-11,Jira|Power BI|Requirements Gathering|SQL|Statistics
+JOB00905,Data Engineer,Pinnacle Cloud,Bengaluru,5-8,25.9,2026-07-19,Airflow|Docker|Excel|GenAI Tools|Kafka|Python|SQL|Spark
+JOB00906,ML Engineer,Ironclad Technologies,Remote,0-1,6.7,2026-08-13,AWS|Kubernetes|MLOps|Machine Learning|PyTorch|SQL|TypeScript
+JOB00907,Data Scientist,Arclight IT,Hyderabad,5-8,27.1,2026-06-04,AWS|Deep Learning|Kubernetes|MLOps|Machine Learning|Pandas|PyTorch|Python|Statistics
+JOB00908,Data Scientist,Arclight IT,Hyderabad,0-1,7.1,2026-03-10,AWS|GenAI Tools|Jenkins|MLOps|Pandas|PyTorch|Python|Scikit-learn
+JOB00909,Data Scientist,PixelForge,Kolkata,1-3,9.2,2026-07-16,GenAI Tools|Jenkins|MLOps|Machine Learning|Python|SQL|Scikit-learn
+JOB00910,ML Engineer,CloudPeak Technologies,Kolkata,5-8,21.6,2026-08-16,AWS|Deep Learning|Docker|Jenkins|Kubernetes|Machine Learning|PyTorch|Redux|TypeScript
+JOB00911,Data Engineer,PixelForge,Delhi NCR,0-1,6.2,2026-05-19,Airflow|Docker|ETL|Excel|GCP|GenAI Tools|Jenkins|Kubernetes|MLOps|Python|Redux|Spark|TypeScript
+JOB00912,Data Analyst,Ironclad Technologies,Hyderabad,1-3,9.7,2026-07-29,A/B Testing|AWS|Excel|Kubernetes|Looker|MLOps|Pandas|SQL|Statistics|Tableau|TypeScript
+JOB00913,ML Engineer,Ironclad Technologies,Delhi NCR,0-1,6.1,2026-08-19,AWS|Deep Learning|Docker|GenAI Tools|Kubernetes|Machine Learning|Python|SQL|TypeScript
+JOB00914,DevOps Engineer,ByteBloom,Bengaluru,3-5,18.7,2026-05-07,AWS|CI/CD|Docker|GCP|Jenkins|Kubernetes|Python|Redux
+JOB00915,MERN Stack Developer,GreenPath Analytics,Chennai,8+,43.8,2026-05-11,AWS|GenAI Tools|JavaScript|Kubernetes|Node.js|Redux|TypeScript
+JOB00916,Data Scientist,PixelForge,Delhi NCR,1-3,13.4,2026-07-22,Deep Learning|GenAI Tools|MLOps|PyTorch|SQL
+JOB00917,Product Analyst,Ironclad Technologies,Bengaluru,8+,46.7,2026-03-27,A/B Testing|AWS|GenAI Tools|Product Metrics|Python|SQL|Statistics
+JOB00918,Data Engineer,Quantify Labs,Remote,1-3,9.4,2026-04-12,AWS|Airflow|ETL|Kafka|MLOps|SQL
+JOB00919,ML Engineer,ByteBloom,Gurugram,8+,58.3,2026-06-11,AWS|Deep Learning|GenAI Tools|Kubernetes|MLOps|PyTorch|SQL
+JOB00920,MERN Stack Developer,Ironclad Technologies,Hyderabad,5-8,28.4,2026-05-09,Express.js|JWT|JavaScript|MLOps|Node.js
+JOB00921,MERN Stack Developer,Fintara,Pune,1-3,10.1,2026-05-12,AWS|JWT|Jenkins|Kubernetes|Node.js|REST API|React
+JOB00922,Data Scientist,ByteBloom,Delhi NCR,0-1,5.8,2026-07-27,AWS|Kubernetes|Machine Learning|Pandas|PyTorch|Scikit-learn|TypeScript
+JOB00923,Full Stack Developer,GreenPath Analytics,Delhi NCR,1-3,8.1,2026-08-22,AWS|GenAI Tools|Jenkins|Kubernetes|Node.js|React|SQL|TypeScript
+JOB00924,Data Engineer,Lumen Digital,Delhi NCR,5-8,31.0,2026-04-02,AWS|Airflow|Data Warehousing|GCP|GenAI Tools|Kafka|Python|SQL
+JOB00925,Business Analyst,GreenPath Analytics,Remote,3-5,13.6,2026-06-14,AWS|Excel|Jenkins|Jira|MLOps|Power BI|SQL|Stakeholder Management|Statistics|Tableau
+JOB00926,Data Analyst,Meridian Softworks,Remote,1-3,6.1,2026-06-03,AWS|Excel|GenAI Tools|Kubernetes|Looker|Power BI|Python|SQL|TypeScript
+JOB00927,MERN Stack Developer,Pinnacle Cloud,Delhi NCR,3-5,16.6,2026-03-23,AWS|Excel|Express.js|JWT|Node.js|Redux|TypeScript
+JOB00928,Product Analyst,Pinnacle Cloud,Chennai,5-8,19.7,2026-08-03,Excel|GenAI Tools|Power BI|Product Metrics|Statistics|Tableau
+JOB00929,Product Analyst,Arclight IT,Delhi NCR,3-5,14.4,2026-04-01,A/B Testing|Excel|GenAI Tools|MLOps|Power BI|Product Metrics|Python|SQL|TypeScript
+JOB00930,DevOps Engineer,Ironclad Technologies,Delhi NCR,3-5,17.7,2026-08-22,AWS|CI/CD|Jenkins|Linux|MLOps|Python|TypeScript
+JOB00931,Data Engineer,Novara Systems,Gurugram,3-5,21.1,2026-08-01,AWS|Airflow|Docker|ETL|GCP|Kafka|Kubernetes|MLOps|Python|TypeScript
+JOB00932,DevOps Engineer,Vertex Software,Bengaluru,5-8,27.5,2026-04-23,Docker|Excel|GCP|Jenkins|Kubernetes|Linux|MLOps
+JOB00933,Full Stack Developer,Novara Systems,Delhi NCR,5-8,27.8,2026-04-14,Kubernetes|MongoDB|REST API|React|Redux|SQL|TypeScript
+JOB00934,DevOps Engineer,Innotech Systems,Delhi NCR,5-8,23.4,2026-03-14,AWS|CI/CD|GCP|Jenkins|Kubernetes|Linux|Redux|Terraform
+JOB00935,MERN Stack Developer,DataNest,Mumbai,8+,46.9,2026-06-29,Express.js|JWT|JavaScript|Kubernetes|MongoDB|Redux|TypeScript
+JOB00936,Product Analyst,TrueNorth Data,Delhi NCR,3-5,16.1,2026-07-25,AWS|Excel|GenAI Tools|MLOps|Python|SQL|Tableau
+JOB00937,Data Engineer,CloudPeak Technologies,Delhi NCR,3-5,21.5,2026-07-15,AWS|Airflow|Data Warehousing|Docker|ETL|GCP|GenAI Tools|Kafka|Kubernetes|MLOps|TypeScript
+JOB00938,Data Engineer,ByteBloom,Bengaluru,3-5,13.1,2026-03-06,AWS|Airflow|Data Warehousing|Docker|ETL|Excel|GCP
+JOB00939,Data Scientist,ByteBloom,Mumbai,1-3,10.4,2026-04-04,AWS|GenAI Tools|MLOps|Machine Learning|Pandas|Python|SQL|Statistics
+JOB00940,MERN Stack Developer,Quantify Labs,Pune,0-1,4.6,2026-05-16,AWS|JWT|JavaScript|Node.js|REST API|Redux|TypeScript
+JOB00941,Data Analyst,Fintara,Delhi NCR,0-1,5.1,2026-05-14,A/B Testing|Excel|Jenkins|Pandas|Power BI|SQL|Tableau
+JOB00942,Data Engineer,ByteBloom,Mumbai,1-3,8.9,2026-04-07,Data Warehousing|ETL|Excel|GCP|Jenkins|MLOps|Python|Redux|SQL|Spark
+JOB00943,DevOps Engineer,TrueNorth Data,Mumbai,5-8,29.3,2026-07-17,CI/CD|Docker|GCP|GenAI Tools|Jenkins|Linux|Python|Terraform
+JOB00944,MERN Stack Developer,ByteBloom,Mumbai,3-5,15.2,2026-06-18,AWS|GenAI Tools|JavaScript|Node.js|React|Redux
+JOB00945,Data Engineer,Pinnacle Cloud,Delhi NCR,1-3,10.1,2026-05-16,AWS|Airflow|Docker|ETL|GenAI Tools|Kafka|Python|Redux|SQL
+JOB00946,MERN Stack Developer,Arclight IT,Remote,1-3,7.5,2026-04-22,AWS|Express.js|JWT|JavaScript|Jenkins|MLOps|REST API|Redux|TypeScript
+JOB00947,Data Analyst,PixelForge,Noida,5-8,24.1,2026-08-07,AWS|Excel|Kubernetes|Pandas|Power BI|Python|TypeScript
+JOB00948,ML Engineer,TrueNorth Data,Kolkata,8+,42.1,2026-08-24,AWS|Deep Learning|GenAI Tools|Kubernetes|MLOps|Machine Learning|Redux|TypeScript
+JOB00949,Business Analyst,DataNest,Delhi NCR,1-3,8.1,2026-05-14,AWS|Excel|GenAI Tools|Power BI|Redux|SQL|Statistics|Tableau
+JOB00950,Full Stack Developer,TrueNorth Data,Gurugram,5-8,18.1,2026-03-06,AWS|Docker|Excel|MongoDB|Node.js|React|Redux|SQL
+JOB00951,Business Analyst,Quantify Labs,Noida,1-3,10.4,2026-06-06,AWS|Excel|Jenkins|Power BI|Requirements Gathering|SQL|Statistics|Tableau
+JOB00952,Product Analyst,Innotech Systems,Noida,0-1,5.8,2026-03-25,Excel|GenAI Tools|MLOps|Power BI|Product Metrics|Python|SQL|Statistics|Tableau
+JOB00953,ML Engineer,PixelForge,Noida,5-8,28.4,2026-06-19,AWS|Deep Learning|MLOps|Machine Learning|Python|SQL|TypeScript
+JOB00954,Business Analyst,Lumen Digital,Bengaluru,5-8,26.1,2026-08-21,Excel|Jenkins|MLOps|Power BI|Requirements Gathering|SQL|Stakeholder Management
+JOB00955,Data Engineer,Meridian Softworks,Delhi NCR,0-1,5.3,2026-07-27,AWS|Airflow|Data Warehousing|Docker|ETL|Excel|GCP|MLOps|SQL|TypeScript
+JOB00956,DevOps Engineer,GreenPath Analytics,Delhi NCR,1-3,9.8,2026-07-02,Docker|GenAI Tools|Jenkins|Kubernetes|Linux|Python
+JOB00957,Data Engineer,Novara Systems,Remote,1-3,12.0,2026-04-04,AWS|GCP|GenAI Tools|MLOps|Python|SQL|Spark
+JOB00958,Product Analyst,Northbridge Analytics,Bengaluru,3-5,11.4,2026-03-10,A/B Testing|Excel|Product Metrics|Python|SQL|Statistics|Tableau
+JOB00959,Data Engineer,Novara Systems,Bengaluru,8+,51.1,2026-07-15,Airflow|Data Warehousing|Docker|GenAI Tools|Kafka|Kubernetes|MLOps|Python|TypeScript
+JOB00960,Full Stack Developer,CloudPeak Technologies,Noida,8+,34.8,2026-07-13,AWS|Kubernetes|MLOps|MongoDB|Node.js|REST API|SQL
+JOB00961,MERN Stack Developer,DataNest,Pune,0-1,4.5,2026-05-08,Express.js|JavaScript|Node.js|REST API|React|Redux|TypeScript
+JOB00962,Business Analyst,GreenPath Analytics,Delhi NCR,8+,41.4,2026-05-26,Excel|Jira|Kubernetes|Power BI|Redux|Requirements Gathering|SQL|TypeScript
+JOB00963,Data Engineer,Vertex Software,Mumbai,0-1,6.5,2026-08-16,AWS|Airflow|Data Warehousing|ETL|GCP|MLOps|SQL|Spark
+JOB00964,Data Engineer,ByteBloom,Bengaluru,0-1,6.3,2026-06-29,AWS|Data Warehousing|Docker|ETL|GenAI Tools|MLOps|Python
+JOB00965,Data Engineer,Northbridge Analytics,Bengaluru,1-3,12.6,2026-03-28,AWS|Data Warehousing|Docker|ETL|Kubernetes|Python
+JOB00966,Data Scientist,Vertex Software,Gurugram,3-5,18.9,2026-04-17,GenAI Tools|MLOps|PyTorch|Scikit-learn|Statistics|TypeScript
+JOB00967,ML Engineer,Fintara,Delhi NCR,3-5,13.8,2026-07-20,AWS|Deep Learning|Docker|Excel|GenAI Tools|Kubernetes|MLOps|PyTorch|Python|SQL|TypeScript
+JOB00968,Data Engineer,Northbridge Analytics,Bengaluru,0-1,6.7,2026-03-30,Airflow|Docker|ETL|GCP|Python|Redux|Spark
+JOB00969,Full Stack Developer,Ironclad Technologies,Mumbai,8+,27.6,2026-04-20,AWS|Excel|GenAI Tools|JavaScript|Jenkins|MongoDB|React|SQL
+JOB00970,Business Analyst,TrueNorth Data,Gurugram,1-3,10.1,2026-06-08,AWS|Excel|Power BI|Redux|SQL|Statistics|Tableau
+JOB00971,Product Analyst,Pinnacle Cloud,Delhi NCR,5-8,25.3,2026-03-12,A/B Testing|Excel|Power BI|Product Metrics|Python|Statistics|Tableau
+JOB00972,Business Analyst,Novara Systems,Delhi NCR,1-3,9.5,2026-07-14,AWS|Excel|GenAI Tools|Jira|MLOps|Requirements Gathering|Stakeholder Management|Statistics|Tableau
+JOB00973,Business Analyst,Ironclad Technologies,Remote,1-3,6.2,2026-07-01,AWS|Excel|Requirements Gathering|SQL|Stakeholder Management|Tableau
+JOB00974,Data Analyst,Meridian Softworks,Hyderabad,5-8,23.0,2026-03-31,Excel|Kubernetes|Looker|MLOps|Power BI|Tableau
+JOB00975,DevOps Engineer,TrueNorth Data,Chennai,3-5,14.5,2026-05-03,AWS|CI/CD|Docker|Excel|GenAI Tools|Jenkins|Kubernetes|Linux|Terraform
+JOB00976,Business Analyst,Arclight IT,Delhi NCR,3-5,11.5,2026-08-10,Excel|GenAI Tools|Kubernetes|Power BI|Requirements Gathering|Statistics|Tableau|TypeScript
+JOB00977,ML Engineer,Ironclad Technologies,Bengaluru,1-3,13.3,2026-06-16,AWS|Docker|GenAI Tools|MLOps|Machine Learning|PyTorch
+JOB00978,MERN Stack Developer,Northbridge Analytics,Hyderabad,8+,38.5,2026-04-05,AWS|Excel|Express.js|JWT|Node.js|React|Redux|TypeScript
+JOB00979,Data Analyst,Fintara,Delhi NCR,0-1,4.8,2026-06-19,Excel|Kubernetes|Looker|MLOps|Pandas|Power BI|Python|Redux|SQL|Statistics|TypeScript
+JOB00980,MERN Stack Developer,Vertex Software,Hyderabad,5-8,22.0,2026-03-01,MongoDB|REST API|React|Redux|TypeScript
+JOB00981,Business Analyst,GreenPath Analytics,Bengaluru,5-8,26.2,2026-08-14,Excel|Jira|Power BI|SQL|TypeScript
+JOB00982,Backend Developer,Vertex Software,Hyderabad,3-5,18.1,2026-07-18,AWS|Docker|Jenkins|MLOps|Microservices|MongoDB|Redis
+JOB00983,Data Analyst,CloudPeak Technologies,Bengaluru,1-3,8.8,2026-08-09,GenAI Tools|MLOps|Power BI|Python|SQL|Tableau|TypeScript
+JOB00984,Full Stack Developer,Meridian Softworks,Noida,1-3,11.7,2026-08-19,Docker|JavaScript|Jenkins|Kubernetes|MLOps|MongoDB|Node.js|REST API|React|SQL
+JOB00985,MERN Stack Developer,Innotech Systems,Pune,1-3,11.4,2026-04-25,AWS|Express.js|GenAI Tools|JWT|JavaScript|Jenkins|REST API|React|Redux|TypeScript
+JOB00986,MERN Stack Developer,Meridian Softworks,Delhi NCR,1-3,9.6,2026-03-31,Express.js|JWT|Kubernetes|MongoDB|Node.js
+JOB00987,ML Engineer,Skyline InfoTech,Pune,5-8,27.1,2026-06-06,AWS|Deep Learning|GenAI Tools|Kubernetes|PyTorch|SQL
+JOB00988,DevOps Engineer,Meridian Softworks,Delhi NCR,3-5,14.8,2026-05-21,AWS|GCP|GenAI Tools|Linux|MLOps|Terraform|TypeScript
+JOB00989,Data Engineer,Arclight IT,Delhi NCR,5-8,26.6,2026-08-03,AWS|Data Warehousing|GCP|Jenkins|Kafka|Kubernetes|Python|Spark|TypeScript
+JOB00990,Data Analyst,Vertex Software,Delhi NCR,3-5,14.3,2026-05-16,Excel|GenAI Tools|Looker|Power BI|Python
+JOB00991,Business Analyst,TrueNorth Data,Bengaluru,1-3,5.9,2026-04-27,Excel|Kubernetes|Redux|SQL|Stakeholder Management|Tableau
+JOB00992,DevOps Engineer,Vertex Software,Mumbai,1-3,8.2,2026-07-03,CI/CD|GCP|Jenkins|Linux|MLOps|Terraform
+JOB00993,Full Stack Developer,Ironclad Technologies,Bengaluru,3-5,17.0,2026-08-09,AWS|Docker|GenAI Tools|JavaScript|Kubernetes|MLOps|MongoDB|REST API|React|Redux|TypeScript
+JOB00994,Backend Developer,Northbridge Analytics,Delhi NCR,3-5,14.3,2026-05-14,AWS|Docker|Microservices|MongoDB|REST API|System Design
+JOB00995,Data Engineer,Meridian Softworks,Mumbai,5-8,31.4,2026-08-09,AWS|Docker|ETL|GCP|Kubernetes|SQL|Spark|TypeScript
+JOB00996,Data Scientist,Corestack,Noida,3-5,14.1,2026-04-04,Deep Learning|GenAI Tools|Kubernetes|Machine Learning|Python|SQL|Scikit-learn|Statistics
+JOB00997,Full Stack Developer,Vertex Software,Kolkata,0-1,6.4,2026-07-11,AWS|JavaScript|Kubernetes|REST API|SQL|TypeScript
+JOB00998,Product Analyst,Innotech Systems,Bengaluru,5-8,27.2,2026-06-21,A/B Testing|AWS|Excel|MLOps|Python|SQL|Statistics
+JOB00999,Backend Developer,TrueNorth Data,Gurugram,5-8,30.6,2026-07-16,AWS|Docker|GenAI Tools|Microservices|Node.js|REST API|Redis|SQL|System Design|TypeScript
+JOB01000,MERN Stack Developer,Fintara,Bengaluru,1-3,10.0,2026-04-14,AWS|JWT|JavaScript|Jenkins|MLOps|MongoDB|REST API|Redux|TypeScript
+JOB01001,DevOps Engineer,ByteBloom,Pune,5-8,28.8,2026-03-26,CI/CD|Docker|GenAI Tools|Jenkins|Kubernetes|Linux|Python|Redux|Terraform
+JOB01002,Full Stack Developer,Corestack,Bengaluru,3-5,18.4,2026-04-14,AWS|Docker|GenAI Tools|Node.js|REST API|SQL|TypeScript
+JOB01003,Business Analyst,DataNest,Pune,3-5,17.1,2026-08-03,AWS|Excel|Jenkins|Jira|Kubernetes|MLOps|Power BI|SQL|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB01004,ML Engineer,Fintara,Kolkata,3-5,14.4,2026-04-07,Deep Learning|Docker|Excel|GenAI Tools|MLOps|PyTorch|Python|Redux|SQL|TypeScript
+JOB01005,DevOps Engineer,Lumen Digital,Noida,3-5,20.4,2026-07-02,AWS|CI/CD|Docker|GCP|Kubernetes|Linux|MLOps|Terraform|TypeScript
+JOB01006,Data Analyst,DataNest,Mumbai,3-5,16.8,2026-07-17,A/B Testing|AWS|GenAI Tools|Kubernetes|Looker|Pandas|Python|Statistics
+JOB01007,Data Scientist,CloudPeak Technologies,Pune,0-1,5.0,2026-08-24,Machine Learning|PyTorch|Scikit-learn|Statistics|TypeScript
+JOB01008,ML Engineer,Meridian Softworks,Pune,8+,45.8,2026-04-10,AWS|Deep Learning|GenAI Tools|Kubernetes|MLOps|PyTorch|SQL|TypeScript
+JOB01009,Full Stack Developer,DataNest,Kolkata,3-5,13.5,2026-05-12,AWS|Docker|Excel|Jenkins|Kubernetes|MongoDB|Node.js|React|TypeScript
+JOB01010,Data Analyst,Novara Systems,Bengaluru,3-5,16.0,2026-07-31,A/B Testing|Excel|Kubernetes|Looker|Power BI|Python|Redux|Statistics|TypeScript
+JOB01011,DevOps Engineer,Innotech Systems,Kolkata,3-5,17.4,2026-07-12,AWS|CI/CD|Docker|GCP|GenAI Tools|Jenkins|Kubernetes|MLOps|Terraform
+JOB01012,Business Analyst,Vertex Software,Delhi NCR,0-1,3.5,2026-07-29,AWS|Excel|GenAI Tools|Kubernetes|Power BI|SQL|Stakeholder Management|TypeScript
+JOB01013,Data Engineer,Quantify Labs,Gurugram,3-5,16.8,2026-07-20,AWS|Excel|GCP|GenAI Tools|Kafka|Kubernetes|MLOps|SQL|Spark
+JOB01014,Data Engineer,Pinnacle Cloud,Hyderabad,8+,41.9,2026-03-05,AWS|Airflow|Data Warehousing|Docker|GCP|GenAI Tools|Kafka|Python|SQL
+JOB01015,Data Engineer,Lumen Digital,Bengaluru,1-3,8.1,2026-08-15,AWS|Data Warehousing|Docker|GenAI Tools|Kafka|MLOps|Python|SQL|TypeScript
+JOB01016,Business Analyst,Corestack,Gurugram,5-8,23.5,2026-08-17,AWS|Excel|Jira|MLOps|Power BI|SQL|Stakeholder Management|TypeScript
+JOB01017,Product Analyst,GreenPath Analytics,Delhi NCR,5-8,20.6,2026-05-26,Excel|GenAI Tools|Kubernetes|Python|SQL|Statistics|Tableau|TypeScript
+JOB01018,DevOps Engineer,PixelForge,Bengaluru,1-3,10.0,2026-05-02,AWS|CI/CD|Docker|GCP|Jenkins|Linux|MLOps|TypeScript
+JOB01019,Full Stack Developer,Corestack,Kolkata,5-8,20.6,2026-07-25,AWS|Docker|JavaScript|Kubernetes|MLOps|REST API|React|SQL|TypeScript
+JOB01020,DevOps Engineer,Pinnacle Cloud,Kolkata,0-1,6.1,2026-03-06,AWS|CI/CD|Docker|GCP|Jenkins|Kubernetes|Terraform
+JOB01021,Data Engineer,Fintara,Noida,8+,31.6,2026-04-20,AWS|Airflow|Data Warehousing|Docker|Excel|Kafka|MLOps|Redux|SQL
+JOB01022,Data Engineer,Novara Systems,Delhi NCR,3-5,16.4,2026-07-14,AWS|ETL|GCP|GenAI Tools|Python|SQL|TypeScript
+JOB01023,Product Analyst,Innotech Systems,Bengaluru,0-1,4.0,2026-06-03,A/B Testing|AWS|Excel|Power BI|SQL
+JOB01024,ML Engineer,GreenPath Analytics,Delhi NCR,5-8,21.6,2026-06-14,AWS|Deep Learning|Docker|MLOps|PyTorch|Python|SQL
+JOB01025,Product Analyst,Pinnacle Cloud,Noida,3-5,14.7,2026-07-03,A/B Testing|AWS|Excel|Kubernetes|MLOps|Python|SQL|Tableau
+JOB01026,Product Analyst,Corestack,Kolkata,1-3,7.7,2026-03-04,Excel|Jenkins|Power BI|Product Metrics|Python|SQL|Tableau
+JOB01027,Full Stack Developer,PixelForge,Hyderabad,5-8,17.6,2026-03-18,AWS|Excel|Kubernetes|Node.js|REST API|React|TypeScript
+JOB01028,Full Stack Developer,Arclight IT,Bengaluru,1-3,10.0,2026-08-09,AWS|Docker|Excel|GenAI Tools|JavaScript|Jenkins|MongoDB|Node.js|SQL|TypeScript
+JOB01029,DevOps Engineer,TrueNorth Data,Kolkata,5-8,24.8,2026-03-20,Docker|Excel|Jenkins|Kubernetes|Linux|Python
+JOB01030,Data Engineer,Lumen Digital,Delhi NCR,1-3,13.1,2026-03-05,AWS|Airflow|Docker|MLOps|Redux|Spark|TypeScript
+JOB01031,Full Stack Developer,Northbridge Analytics,Bengaluru,0-1,6.5,2026-06-28,AWS|Docker|JavaScript|REST API|React|SQL
+JOB01032,MERN Stack Developer,PixelForge,Chennai,8+,44.0,2026-05-16,AWS|JWT|JavaScript|MLOps|MongoDB|Redux
+JOB01033,MERN Stack Developer,TrueNorth Data,Delhi NCR,8+,45.8,2026-03-16,AWS|Express.js|Kubernetes|MongoDB|Node.js|React|Redux|TypeScript
+JOB01034,Full Stack Developer,PixelForge,Kolkata,1-3,11.0,2026-03-14,AWS|Docker|JavaScript|Kubernetes|MongoDB|Node.js|REST API|Redux|TypeScript
+JOB01035,MERN Stack Developer,Novara Systems,Pune,8+,42.9,2026-08-25,AWS|Excel|Express.js|GenAI Tools|JWT|JavaScript|MLOps|Node.js|REST API|TypeScript
+JOB01036,Full Stack Developer,Ironclad Technologies,Noida,5-8,19.5,2026-05-04,AWS|Docker|Excel|MongoDB|REST API|React|SQL|TypeScript
+JOB01037,Business Analyst,Skyline InfoTech,Bengaluru,1-3,10.4,2026-04-11,Jira|Power BI|Redux|Requirements Gathering|SQL|Stakeholder Management|Tableau
+JOB01038,Data Engineer,Meridian Softworks,Bengaluru,1-3,11.5,2026-06-28,AWS|Airflow|ETL|Excel|GenAI Tools|Kafka|Python|SQL|Spark
+JOB01039,DevOps Engineer,Quantify Labs,Hyderabad,1-3,11.6,2026-03-12,Docker|GenAI Tools|Jenkins|Linux|Python|Redux|Terraform|TypeScript
+JOB01040,Business Analyst,Novara Systems,Bengaluru,5-8,22.5,2026-06-16,Excel|Jira|Kubernetes|Redux|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB01041,DevOps Engineer,Meridian Softworks,Delhi NCR,8+,45.9,2026-06-23,AWS|CI/CD|Docker|GenAI Tools|Kubernetes|MLOps|Python|TypeScript
+JOB01042,ML Engineer,GreenPath Analytics,Bengaluru,3-5,22.1,2026-03-11,GenAI Tools|MLOps|Machine Learning|PyTorch|Python|Redux|TypeScript
+JOB01043,Product Analyst,ByteBloom,Chennai,1-3,10.1,2026-05-29,A/B Testing|Excel|Kubernetes|MLOps|Power BI|Redux|Tableau
+JOB01044,DevOps Engineer,Meridian Softworks,Hyderabad,3-5,15.1,2026-08-24,AWS|Kubernetes|Linux|Python
+JOB01045,Data Analyst,ByteBloom,Gurugram,3-5,17.5,2026-07-17,A/B Testing|AWS|Kubernetes|MLOps|Pandas|Power BI|Redux|SQL|Statistics|Tableau
+JOB01046,Data Engineer,Quantify Labs,Bengaluru,5-8,31.4,2026-07-31,AWS|Airflow|Docker|Kafka|MLOps|Python|SQL|Spark
+JOB01047,Data Scientist,BrightWave Solutions,Mumbai,3-5,16.2,2026-04-22,Excel|Jenkins|Machine Learning|Pandas|PyTorch|Python|SQL|Statistics
+JOB01048,Data Scientist,Meridian Softworks,Hyderabad,5-8,23.9,2026-07-09,Deep Learning|Kubernetes|MLOps|Machine Learning|Pandas|SQL|Scikit-learn|Statistics|TypeScript
+JOB01049,Data Engineer,Pinnacle Cloud,Pune,5-8,30.8,2026-08-03,AWS|Airflow|Data Warehousing|ETL|Kubernetes|MLOps|Redux
+JOB01050,Data Engineer,Meridian Softworks,Delhi NCR,5-8,23.5,2026-05-30,AWS|ETL|Excel|GCP|Python|Redux|TypeScript
+JOB01051,MERN Stack Developer,Meridian Softworks,Hyderabad,5-8,29.3,2026-05-16,AWS|MLOps|MongoDB|Node.js|REST API|React|Redux|TypeScript
+JOB01052,Business Analyst,Quantify Labs,Pune,1-3,7.3,2026-05-28,Excel|Jenkins|Jira|Kubernetes|Redux|Requirements Gathering|SQL|Stakeholder Management|Statistics
+JOB01053,Full Stack Developer,ByteBloom,Chennai,8+,43.0,2026-08-10,AWS|JavaScript|MLOps|REST API|React|SQL|TypeScript
+JOB01054,Backend Developer,TrueNorth Data,Delhi NCR,8+,49.4,2026-05-12,AWS|Docker|MongoDB|REST API|Redis|SQL|System Design|TypeScript
+JOB01055,Product Analyst,DataNest,Chennai,0-1,5.9,2026-04-30,A/B Testing|Power BI|Product Metrics|Python|SQL|Statistics
+JOB01056,Full Stack Developer,Innotech Systems,Kolkata,1-3,9.5,2026-07-03,AWS|Docker|GenAI Tools|JavaScript|Jenkins|Kubernetes|React|SQL|TypeScript
+JOB01057,Data Engineer,Novara Systems,Noida,1-3,10.1,2026-05-13,Airflow|Data Warehousing|ETL|Kubernetes|MLOps|SQL|Spark|TypeScript
+JOB01058,Product Analyst,Novara Systems,Bengaluru,0-1,3.7,2026-03-30,Excel|Power BI|Python|SQL|Statistics|Tableau
+JOB01059,Product Analyst,DataNest,Noida,1-3,10.5,2026-08-11,A/B Testing|AWS|Excel|GenAI Tools|Power BI|Product Metrics|SQL|Statistics|Tableau|TypeScript
+JOB01060,Data Scientist,CloudPeak Technologies,Hyderabad,1-3,8.5,2026-07-20,Deep Learning|GenAI Tools|Jenkins|MLOps|Machine Learning|Python|Scikit-learn|TypeScript
+JOB01061,MERN Stack Developer,Skyline InfoTech,Gurugram,8+,28.5,2026-08-14,GenAI Tools|Kubernetes|MLOps|MongoDB|Node.js|REST API|TypeScript
+JOB01062,Product Analyst,Ironclad Technologies,Delhi NCR,1-3,7.0,2026-05-24,AWS|Excel|GenAI Tools|Kubernetes|Python|SQL|Statistics|Tableau
+JOB01063,Full Stack Developer,GreenPath Analytics,Gurugram,1-3,11.3,2026-04-30,AWS|Docker|Excel|JavaScript|MongoDB|REST API
+JOB01064,Full Stack Developer,Innotech Systems,Delhi NCR,1-3,8.6,2026-05-30,AWS|Docker|Excel|GenAI Tools|JavaScript|Jenkins|Node.js|React|Redux|TypeScript
+JOB01065,MERN Stack Developer,BrightWave Solutions,Remote,3-5,18.1,2026-04-20,AWS|Express.js|GenAI Tools|Jenkins|Kubernetes|Node.js|React|TypeScript
+JOB01066,Backend Developer,Quantify Labs,Hyderabad,0-1,6.0,2026-08-09,AWS|MLOps|Node.js|REST API|Redis|System Design|TypeScript
+JOB01067,Business Analyst,Corestack,Noida,5-8,16.2,2026-05-11,Excel|GenAI Tools|Requirements Gathering|SQL|Statistics|Tableau
+JOB01068,Product Analyst,Fintara,Bengaluru,5-8,26.6,2026-05-11,A/B Testing|AWS|Excel|GenAI Tools|Jenkins|Product Metrics|Redux|SQL|Tableau
+JOB01069,MERN Stack Developer,Pinnacle Cloud,Chennai,1-3,8.8,2026-05-21,AWS|Node.js|React|Redux|TypeScript
+JOB01070,Data Engineer,Arclight IT,Chennai,3-5,13.3,2026-05-12,AWS|Airflow|Data Warehousing|ETL|Python|SQL|Spark|TypeScript
+JOB01071,Data Analyst,Vertex Software,Delhi NCR,0-1,5.8,2026-07-04,AWS|Excel|GenAI Tools|Kubernetes|Looker|Pandas|Python|SQL
+JOB01072,ML Engineer,Lumen Digital,Chennai,3-5,23.1,2026-08-25,AWS|Deep Learning|Docker|Kubernetes|Machine Learning|PyTorch|Python|SQL
+JOB01073,MERN Stack Developer,Novara Systems,Gurugram,3-5,12.8,2026-05-18,AWS|Express.js|GenAI Tools|JWT|JavaScript|Kubernetes|Node.js|Redux|TypeScript
+JOB01074,DevOps Engineer,Arclight IT,Hyderabad,5-8,29.1,2026-05-05,CI/CD|GCP|Jenkins|Kubernetes|Python|Redux
+JOB01075,Backend Developer,CloudPeak Technologies,Delhi NCR,5-8,26.0,2026-06-25,AWS|Docker|GenAI Tools|Kubernetes|Microservices|MongoDB|Redux|SQL|System Design
+JOB01076,Data Engineer,Corestack,Gurugram,1-3,11.9,2026-06-09,AWS|ETL|GCP|GenAI Tools|Kubernetes|MLOps|SQL|Spark
+JOB01077,Product Analyst,Skyline InfoTech,Gurugram,1-3,10.1,2026-07-30,A/B Testing|AWS|Excel|GenAI Tools|Kubernetes|Power BI|Product Metrics|Python|SQL|Tableau
+JOB01078,Product Analyst,Northbridge Analytics,Bengaluru,3-5,14.4,2026-04-14,A/B Testing|Excel|Jenkins|MLOps|Power BI|Python|Tableau|TypeScript
+JOB01079,Data Analyst,Lumen Digital,Delhi NCR,1-3,6.5,2026-08-16,A/B Testing|AWS|Excel|GenAI Tools|Kubernetes|MLOps|Power BI|Python|SQL|Statistics
+JOB01080,Full Stack Developer,BrightWave Solutions,Chennai,3-5,18.2,2026-04-07,AWS|Excel|JavaScript|Node.js|React|TypeScript
+JOB01081,Data Scientist,CloudPeak Technologies,Remote,3-5,21.1,2026-05-24,Deep Learning|GenAI Tools|Machine Learning|Pandas|PyTorch|Python|Statistics|TypeScript
+JOB01082,Data Scientist,GreenPath Analytics,Pune,0-1,5.5,2026-03-16,Deep Learning|Excel|GenAI Tools|MLOps|Machine Learning|Pandas|Python|Redux|SQL
+JOB01083,Backend Developer,Arclight IT,Noida,5-8,27.3,2026-06-13,AWS|Docker|GenAI Tools|Jenkins|MLOps|Microservices|MongoDB|Node.js|REST API|System Design|TypeScript
+JOB01084,MERN Stack Developer,Innotech Systems,Bengaluru,8+,26.9,2026-03-01,AWS|Node.js|REST API|React|Redux|TypeScript
+JOB01085,Business Analyst,Northbridge Analytics,Pune,1-3,9.3,2026-05-17,Excel|GenAI Tools|Jira|Kubernetes|MLOps|Redux|SQL|Stakeholder Management|Statistics|Tableau
+JOB01086,Backend Developer,Lumen Digital,Remote,5-8,19.6,2026-08-02,AWS|Docker|Kubernetes|MLOps|Microservices|MongoDB|Node.js
+JOB01087,ML Engineer,DataNest,Remote,3-5,17.6,2026-03-21,AWS|Docker|Jenkins|MLOps|PyTorch|Python|Redux|SQL
+JOB01088,Full Stack Developer,BrightWave Solutions,Mumbai,1-3,10.0,2026-05-12,AWS|Docker|JavaScript|MongoDB|REST API|React|SQL|TypeScript
+JOB01089,DevOps Engineer,Arclight IT,Pune,1-3,7.0,2026-04-09,AWS|CI/CD|Docker|Jenkins|MLOps|Python|Terraform|TypeScript
+JOB01090,Backend Developer,Fintara,Noida,5-8,23.0,2026-08-01,Docker|GenAI Tools|MLOps|Microservices|Node.js|REST API|Redis|System Design|TypeScript
+JOB01091,Business Analyst,Quantify Labs,Delhi NCR,5-8,17.0,2026-05-13,Excel|Jenkins|Requirements Gathering|SQL|Stakeholder Management|Tableau
+JOB01092,Backend Developer,CloudPeak Technologies,Kolkata,5-8,26.7,2026-04-12,AWS|Docker|MongoDB|Node.js|Redux
+JOB01093,Business Analyst,Northbridge Analytics,Kolkata,3-5,15.7,2026-04-13,GenAI Tools|Jenkins|Jira|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB01094,ML Engineer,Meridian Softworks,Delhi NCR,1-3,11.3,2026-06-19,AWS|Deep Learning|Docker|Kubernetes|MLOps|PyTorch|SQL|TypeScript
+JOB01095,Full Stack Developer,Innotech Systems,Pune,1-3,7.1,2026-05-08,AWS|JavaScript|MLOps|MongoDB|Node.js|React|SQL|TypeScript
+JOB01096,Data Analyst,GreenPath Analytics,Delhi NCR,5-8,26.3,2026-03-21,Kubernetes|Looker|Pandas|Python|Redux|Statistics|TypeScript
+JOB01097,ML Engineer,PixelForge,Delhi NCR,3-5,17.9,2026-06-18,AWS|Deep Learning|Docker|GenAI Tools|PyTorch|Python|SQL|TypeScript
+JOB01098,MERN Stack Developer,Skyline InfoTech,Bengaluru,3-5,11.0,2026-05-16,AWS|Excel|Express.js|JWT|Jenkins|Redux|TypeScript
+JOB01099,Data Engineer,Skyline InfoTech,Kolkata,1-3,7.3,2026-08-12,AWS|Airflow|Data Warehousing|Docker|Excel|GCP|Spark|TypeScript
+JOB01100,MERN Stack Developer,PixelForge,Noida,1-3,10.0,2026-06-28,Express.js|JWT|JavaScript|Kubernetes|MongoDB|Node.js|Redux|TypeScript
+JOB01101,Business Analyst,GreenPath Analytics,Mumbai,0-1,5.2,2026-08-15,AWS|Excel|Jira|Kubernetes|MLOps|Power BI|SQL|Stakeholder Management|Tableau
+JOB01102,MERN Stack Developer,BrightWave Solutions,Chennai,5-8,19.7,2026-07-29,AWS|JavaScript|Kubernetes|MLOps|MongoDB|React|Redux|TypeScript
+JOB01103,Data Analyst,GreenPath Analytics,Hyderabad,3-5,11.5,2026-06-22,A/B Testing|Excel|Jenkins|Kubernetes|Looker|Power BI|Python|Statistics|Tableau
+JOB01104,Full Stack Developer,PixelForge,Mumbai,0-1,5.5,2026-05-15,Docker|Jenkins|Node.js|REST API|TypeScript
+JOB01105,DevOps Engineer,Fintara,Delhi NCR,5-8,30.8,2026-07-12,AWS|CI/CD|Docker|GCP|Jenkins|Kubernetes|Linux|Python|Redux|Terraform|TypeScript
+JOB01106,Business Analyst,CloudPeak Technologies,Bengaluru,3-5,14.2,2026-07-14,Excel|Kubernetes|MLOps|Power BI|SQL|Stakeholder Management|TypeScript
+JOB01107,Data Scientist,Corestack,Kolkata,5-8,28.9,2026-06-29,AWS|Excel|GenAI Tools|MLOps|Machine Learning|Pandas|SQL|Scikit-learn
+JOB01108,DevOps Engineer,Fintara,Hyderabad,5-8,24.3,2026-05-09,AWS|GCP|Kubernetes|Python|Redux|Terraform|TypeScript
+JOB01109,Product Analyst,Vertex Software,Remote,3-5,14.9,2026-04-17,AWS|Excel|Kubernetes|Power BI|Product Metrics|Python|SQL|Statistics|Tableau
+JOB01110,Product Analyst,Novara Systems,Delhi NCR,1-3,6.4,2026-07-18,A/B Testing|AWS|Excel|GenAI Tools|Kubernetes|MLOps|Power BI|Product Metrics|Python|SQL|TypeScript
+JOB01111,ML Engineer,CloudPeak Technologies,Pune,3-5,18.0,2026-03-14,AWS|Docker|Excel|GenAI Tools|Jenkins|MLOps|Machine Learning|Python|SQL
+JOB01112,Business Analyst,CloudPeak Technologies,Pune,1-3,10.3,2026-04-03,AWS|Excel|Jenkins|Power BI|Requirements Gathering|SQL|Stakeholder Management|Statistics
+JOB01113,Data Analyst,Novara Systems,Chennai,1-3,7.3,2026-03-14,A/B Testing|Excel|GenAI Tools|Jenkins|Pandas|Redux|SQL
+JOB01114,Product Analyst,TrueNorth Data,Noida,5-8,21.8,2026-06-01,Excel|Product Metrics|Python|SQL|Statistics|Tableau|TypeScript
+JOB01115,ML Engineer,Innotech Systems,Noida,0-1,6.3,2026-03-03,Deep Learning|Docker|Excel|Jenkins|PyTorch|Python|SQL
+JOB01116,Business Analyst,ByteBloom,Mumbai,5-8,19.7,2026-07-18,Excel|Power BI|Requirements Gathering|Stakeholder Management|Statistics|TypeScript
+JOB01117,Data Engineer,Fintara,Mumbai,0-1,5.7,2026-08-12,AWS|Airflow|Docker|ETL|Kafka|Kubernetes|Python|Spark|TypeScript
+JOB01118,Data Analyst,Skyline InfoTech,Gurugram,3-5,17.3,2026-06-01,A/B Testing|GenAI Tools|Jenkins|Looker|Pandas|Python|Redux|SQL|Statistics|Tableau
+JOB01119,Full Stack Developer,Vertex Software,Hyderabad,1-3,7.4,2026-04-20,AWS|JavaScript|MLOps|MongoDB|Node.js|REST API|React|SQL
+JOB01120,Backend Developer,Novara Systems,Delhi NCR,3-5,17.4,2026-05-26,AWS|Docker|GenAI Tools|Node.js|REST API|SQL|System Design|TypeScript
+JOB01121,Product Analyst,Novara Systems,Delhi NCR,5-8,22.9,2026-08-29,A/B Testing|AWS|Excel|GenAI Tools|Kubernetes|Power BI|Python|Tableau
+JOB01122,DevOps Engineer,Innotech Systems,Remote,1-3,9.4,2026-05-10,AWS|CI/CD|Docker|GCP|GenAI Tools|Jenkins|Linux|Python
+JOB01123,Data Analyst,Pinnacle Cloud,Mumbai,0-1,5.9,2026-08-04,AWS|Excel|GenAI Tools|Kubernetes|Looker|Python|SQL|TypeScript
+JOB01124,Backend Developer,Ironclad Technologies,Mumbai,1-3,11.1,2026-08-04,AWS|Kubernetes|MLOps|Microservices|MongoDB|Node.js|System Design
+JOB01125,Product Analyst,Quantify Labs,Kolkata,1-3,10.7,2026-07-14,A/B Testing|Excel|GenAI Tools|Power BI|SQL|Statistics|Tableau|TypeScript
+JOB01126,MERN Stack Developer,ByteBloom,Gurugram,8+,29.2,2026-03-29,AWS|Jenkins|MongoDB|Node.js|REST API|React
+JOB01127,DevOps Engineer,GreenPath Analytics,Hyderabad,0-1,4.7,2026-05-21,AWS|Docker|Excel|GCP|GenAI Tools|Jenkins|Linux
+JOB01128,Data Scientist,Vertex Software,Hyderabad,1-3,9.8,2026-03-10,Deep Learning|MLOps|Machine Learning|Python|SQL|Scikit-learn|Statistics
+JOB01129,Data Scientist,Fintara,Chennai,3-5,18.3,2026-08-27,Deep Learning|GenAI Tools|Kubernetes|MLOps|Pandas|PyTorch|Python|Scikit-learn
+JOB01130,Full Stack Developer,Vertex Software,Delhi NCR,3-5,18.5,2026-04-05,AWS|Docker|JavaScript|REST API|SQL|TypeScript
+JOB01131,Data Scientist,BrightWave Solutions,Mumbai,5-8,31.8,2026-07-25,AWS|Kubernetes|MLOps|PyTorch|Python|SQL|TypeScript
+JOB01132,Data Engineer,ByteBloom,Delhi NCR,1-3,8.6,2026-03-08,Airflow|Docker|ETL|Jenkins|Kafka|Redux|Spark
+JOB01133,Data Engineer,TrueNorth Data,Delhi NCR,5-8,23.4,2026-06-27,AWS|Airflow|GCP|Kubernetes|SQL|Spark
+JOB01134,Business Analyst,Novara Systems,Kolkata,3-5,12.0,2026-06-19,GenAI Tools|Jenkins|Kubernetes|Power BI|SQL|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB01135,Product Analyst,Ironclad Technologies,Chennai,0-1,5.0,2026-06-09,A/B Testing|AWS|Excel|Power BI|Python|SQL|TypeScript
+JOB01136,ML Engineer,CloudPeak Technologies,Pune,8+,40.6,2026-05-15,AWS|Deep Learning|Kubernetes|PyTorch|Redux|SQL
+JOB01137,Product Analyst,Corestack,Pune,0-1,4.1,2026-04-22,AWS|Kubernetes|Power BI|Product Metrics|Python|Tableau
+JOB01138,ML Engineer,Meridian Softworks,Hyderabad,3-5,17.3,2026-03-01,AWS|Deep Learning|Excel|GenAI Tools|MLOps|Machine Learning|PyTorch|Python
+JOB01139,Data Scientist,GreenPath Analytics,Delhi NCR,1-3,11.2,2026-06-17,Deep Learning|Excel|Machine Learning|Pandas|PyTorch|Scikit-learn
+JOB01140,DevOps Engineer,Pinnacle Cloud,Hyderabad,5-8,19.8,2026-08-09,AWS|Docker|GenAI Tools|Jenkins|Kubernetes|Linux|Python|Terraform|TypeScript
+JOB01141,Data Scientist,TrueNorth Data,Bengaluru,3-5,21.3,2026-08-18,AWS|Deep Learning|GenAI Tools|Machine Learning|Scikit-learn|TypeScript
+JOB01142,Data Engineer,Pinnacle Cloud,Remote,8+,53.2,2026-07-06,AWS|Data Warehousing|ETL|Excel|GenAI Tools|Kafka|MLOps|Python|Spark
+JOB01143,Business Analyst,TrueNorth Data,Pune,3-5,14.1,2026-03-11,Excel|MLOps|Power BI|Requirements Gathering|SQL|Stakeholder Management|Statistics
+JOB01144,MERN Stack Developer,Fintara,Hyderabad,3-5,15.3,2026-07-03,AWS|Express.js|GenAI Tools|JWT|JavaScript|Jenkins|Kubernetes|Node.js|REST API
+JOB01145,Data Engineer,ByteBloom,Hyderabad,1-3,9.3,2026-03-02,AWS|Airflow|Data Warehousing|Docker|ETL|GCP|Kafka|Redux
+JOB01146,Data Engineer,Skyline InfoTech,Delhi NCR,1-3,9.0,2026-03-02,AWS|Airflow|Data Warehousing|Docker|ETL|Excel|Jenkins|Kafka|Python|Redux|TypeScript
+JOB01147,Data Scientist,Pinnacle Cloud,Gurugram,3-5,13.1,2026-08-17,AWS|Excel|GenAI Tools|Kubernetes|MLOps|Pandas|PyTorch|SQL|Scikit-learn|TypeScript
+JOB01148,Data Analyst,Skyline InfoTech,Kolkata,1-3,9.9,2026-08-08,A/B Testing|AWS|GenAI Tools|Looker|MLOps|Pandas|Power BI|Python|Tableau
+JOB01149,MERN Stack Developer,CloudPeak Technologies,Gurugram,1-3,8.0,2026-06-14,AWS|Excel|Express.js|GenAI Tools|JWT|JavaScript|Kubernetes|Node.js|Redux|TypeScript
+JOB01150,Data Analyst,Meridian Softworks,Pune,5-8,16.0,2026-05-08,Excel|GenAI Tools|Jenkins|Looker|Power BI|Python|SQL|Tableau
+JOB01151,Product Analyst,PixelForge,Delhi NCR,3-5,10.8,2026-07-26,A/B Testing|Kubernetes|Power BI|Redux|SQL|Statistics|TypeScript
+JOB01152,Data Scientist,GreenPath Analytics,Mumbai,3-5,19.7,2026-05-25,Deep Learning|GenAI Tools|Jenkins|MLOps|PyTorch|Python|Redux|SQL|Statistics|TypeScript
+JOB01153,Product Analyst,Arclight IT,Delhi NCR,5-8,20.3,2026-07-05,A/B Testing|AWS|Excel|Kubernetes|Power BI|Python|Statistics|Tableau
+JOB01154,ML Engineer,Novara Systems,Hyderabad,1-3,11.2,2026-06-02,AWS|GenAI Tools|MLOps|Python
+JOB01155,Data Scientist,Arclight IT,Pune,0-1,7.3,2026-07-20,Deep Learning|GenAI Tools|Jenkins|Kubernetes|MLOps|Pandas|PyTorch|Python|Scikit-learn|TypeScript
+JOB01156,Data Analyst,DataNest,Kolkata,1-3,8.2,2026-07-02,GenAI Tools|MLOps|Pandas|SQL|Statistics
+JOB01157,Backend Developer,Northbridge Analytics,Gurugram,3-5,16.3,2026-05-21,AWS|MongoDB|Node.js|REST API|Redis|Redux|SQL|System Design
+JOB01158,DevOps Engineer,Meridian Softworks,Mumbai,3-5,17.0,2026-06-19,AWS|CI/CD|Docker|Excel|GCP|Jenkins|Kubernetes|Python|Terraform
+JOB01159,Data Scientist,Ironclad Technologies,Delhi NCR,0-1,6.9,2026-08-02,GenAI Tools|Jenkins|MLOps|Machine Learning|PyTorch
+JOB01160,Data Analyst,Novara Systems,Chennai,0-1,5.3,2026-05-13,A/B Testing|Excel|Jenkins|MLOps|SQL|Tableau|TypeScript
+JOB01161,Full Stack Developer,Ironclad Technologies,Chennai,8+,37.3,2026-08-15,JavaScript|MLOps|MongoDB|React|SQL|TypeScript
+JOB01162,ML Engineer,Vertex Software,Pune,5-8,31.3,2026-07-31,AWS|Deep Learning|GenAI Tools|Machine Learning|PyTorch|Python|TypeScript
+JOB01163,Business Analyst,Lumen Digital,Pune,1-3,9.7,2026-04-26,Excel|Power BI|SQL|Statistics|Tableau
+JOB01164,Business Analyst,GreenPath Analytics,Hyderabad,0-1,4.0,2026-06-23,Excel|GenAI Tools|Jira|Power BI|Requirements Gathering|SQL|Stakeholder Management|Tableau|TypeScript
+JOB01165,Full Stack Developer,Pinnacle Cloud,Kolkata,5-8,25.3,2026-03-05,Excel|JavaScript|Jenkins|MongoDB|REST API|React|TypeScript
+JOB01166,ML Engineer,DataNest,Hyderabad,3-5,19.9,2026-07-07,Docker|GenAI Tools|Kubernetes|MLOps|Python|Redux|SQL|TypeScript
+JOB01167,Data Engineer,BrightWave Solutions,Kolkata,1-3,8.7,2026-04-24,Data Warehousing|Docker|ETL|GCP|GenAI Tools|Kafka|Python|Redux|Spark|TypeScript
+JOB01168,Data Engineer,Meridian Softworks,Gurugram,5-8,27.1,2026-06-13,AWS|Data Warehousing|Docker|ETL|Python|Redux|SQL|TypeScript
+JOB01169,MERN Stack Developer,Vertex Software,Remote,1-3,7.0,2026-07-17,AWS|GenAI Tools|JWT|JavaScript|Kubernetes|MongoDB|REST API|React|Redux|TypeScript
+JOB01170,Full Stack Developer,BrightWave Solutions,Delhi NCR,8+,31.6,2026-07-19,Docker|JavaScript|MLOps|MongoDB|TypeScript
+JOB01171,Full Stack Developer,Vertex Software,Pune,3-5,17.2,2026-05-08,AWS|Docker|Excel|GenAI Tools|MongoDB|Node.js|REST API|React|SQL|TypeScript
+JOB01172,Business Analyst,Pinnacle Cloud,Delhi NCR,3-5,15.7,2026-03-14,Excel|Jenkins|Jira|Redux|Requirements Gathering|Stakeholder Management|Statistics|TypeScript
+JOB01173,Data Scientist,Innotech Systems,Delhi NCR,3-5,16.3,2026-04-08,GenAI Tools|Jenkins|Machine Learning|Pandas|SQL|Scikit-learn|Statistics
+JOB01174,Data Scientist,Meridian Softworks,Mumbai,5-8,32.2,2026-06-25,Deep Learning|GenAI Tools|Kubernetes|MLOps|Pandas|PyTorch|SQL|Statistics
+JOB01175,Backend Developer,DataNest,Bengaluru,5-8,23.8,2026-04-30,AWS|Docker|Excel|GenAI Tools|Jenkins|Microservices|REST API
+JOB01176,Business Analyst,Northbridge Analytics,Kolkata,1-3,6.0,2026-05-05,AWS|Excel|MLOps|Power BI|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB01177,Data Analyst,Pinnacle Cloud,Delhi NCR,1-3,6.5,2026-04-14,A/B Testing|AWS|Excel|Jenkins|Looker|Python|Redux|SQL|Statistics|Tableau
+JOB01178,Data Scientist,Skyline InfoTech,Delhi NCR,3-5,13.0,2026-05-15,AWS|GenAI Tools|Machine Learning|Python|Scikit-learn
+JOB01179,DevOps Engineer,Innotech Systems,Chennai,0-1,6.8,2026-05-17,AWS|CI/CD|Docker|GenAI Tools|Jenkins|Kubernetes|Python|Redux
+JOB01180,Backend Developer,Innotech Systems,Remote,3-5,12.2,2026-08-14,AWS|GenAI Tools|Kubernetes|MLOps|Microservices|Node.js|REST API|Redux|System Design|TypeScript
+JOB01181,Data Scientist,ByteBloom,Kolkata,1-3,7.7,2026-04-15,Excel|GenAI Tools|MLOps|PyTorch|Python|Redux|SQL
+JOB01182,Product Analyst,Northbridge Analytics,Gurugram,0-1,4.6,2026-04-07,A/B Testing|Excel|GenAI Tools|Jenkins|Product Metrics|Python|Redux|SQL|Statistics
+JOB01183,Full Stack Developer,Fintara,Chennai,0-1,5.1,2026-04-25,AWS|Docker|JavaScript|Kubernetes|MLOps|REST API|React|SQL|TypeScript
+JOB01184,ML Engineer,Novara Systems,Chennai,3-5,21.5,2026-08-05,AWS|Docker|Kubernetes|MLOps|Machine Learning|SQL
+JOB01185,Product Analyst,Lumen Digital,Noida,3-5,16.4,2026-08-11,AWS|Excel|Kubernetes|Product Metrics|Python|SQL|Statistics|TypeScript
+JOB01186,Data Engineer,GreenPath Analytics,Delhi NCR,5-8,29.4,2026-08-20,AWS|Airflow|Data Warehousing|ETL|GenAI Tools|Kafka|Kubernetes|MLOps|Python|Spark
+JOB01187,Full Stack Developer,Pinnacle Cloud,Pune,1-3,8.0,2026-03-19,Docker|JavaScript|Jenkins|MongoDB|Node.js|REST API|SQL|TypeScript
+JOB01188,Product Analyst,Vertex Software,Bengaluru,1-3,8.7,2026-06-06,Excel|GenAI Tools|MLOps|Product Metrics|Python|SQL|Statistics|Tableau
+JOB01189,Data Analyst,Novara Systems,Delhi NCR,5-8,22.9,2026-05-26,A/B Testing|GenAI Tools|Jenkins|Looker|Pandas|Python|SQL|Statistics
+JOB01190,Data Scientist,Vertex Software,Bengaluru,8+,50.0,2026-05-12,AWS|GenAI Tools|MLOps|Machine Learning|Pandas|Redux|Scikit-learn|TypeScript
+JOB01191,Business Analyst,CloudPeak Technologies,Remote,3-5,10.2,2026-05-23,AWS|Excel|Kubernetes|Power BI|Requirements Gathering|SQL|Stakeholder Management|Tableau
+JOB01192,Full Stack Developer,Innotech Systems,Pune,1-3,9.7,2026-08-09,AWS|JavaScript|Kubernetes|MLOps|Node.js|React|Redux|SQL|TypeScript
+JOB01193,MERN Stack Developer,Quantify Labs,Gurugram,5-8,27.2,2026-03-15,AWS|Excel|Express.js|JavaScript|Node.js|Redux|TypeScript
+JOB01194,DevOps Engineer,Lumen Digital,Noida,0-1,5.9,2026-03-12,Docker|Jenkins|Kubernetes|MLOps|Python|Terraform
+JOB01195,Data Scientist,Quantify Labs,Gurugram,5-8,22.2,2026-06-28,AWS|GenAI Tools|Kubernetes|Pandas|Python|SQL|Statistics
+JOB01196,Business Analyst,Fintara,Delhi NCR,1-3,8.3,2026-04-17,Excel|Jira|Power BI|SQL|Statistics
+JOB01197,Data Analyst,Novara Systems,Bengaluru,0-1,5.7,2026-07-06,A/B Testing|AWS|Excel|GenAI Tools|Power BI
+JOB01198,Data Engineer,Arclight IT,Kolkata,3-5,16.6,2026-06-28,AWS|Airflow|GCP|Kafka|Python|Spark|TypeScript
+JOB01199,DevOps Engineer,ByteBloom,Hyderabad,1-3,7.8,2026-05-18,AWS|CI/CD|Docker|Excel|GenAI Tools|Linux|TypeScript
+JOB01200,Backend Developer,Quantify Labs,Delhi NCR,0-1,5.7,2026-04-13,AWS|Docker|Excel|MongoDB|Node.js|Redis|System Design|TypeScript
+JOB01201,MERN Stack Developer,Innotech Systems,Remote,0-1,5.3,2026-05-06,AWS|Express.js|GenAI Tools|JWT|JavaScript|Node.js|React|Redux|TypeScript
+JOB01202,Backend Developer,Meridian Softworks,Hyderabad,8+,35.5,2026-08-14,AWS|GenAI Tools|Microservices|REST API|Redis|System Design|TypeScript
+JOB01203,Backend Developer,ByteBloom,Bengaluru,5-8,21.0,2026-05-26,AWS|Microservices|SQL|System Design|TypeScript
+JOB01204,DevOps Engineer,Vertex Software,Pune,5-8,20.3,2026-03-01,AWS|CI/CD|Jenkins|Kubernetes|Linux|Python|Redux|Terraform
+JOB01205,Data Engineer,DataNest,Mumbai,1-3,11.7,2026-03-29,AWS|Data Warehousing|Docker|Excel|Jenkins|Redux|Spark
+JOB01206,MERN Stack Developer,Vertex Software,Pune,1-3,9.7,2026-08-09,Express.js|Kubernetes|MLOps|Node.js|REST API|Redux
+JOB01207,Product Analyst,Innotech Systems,Bengaluru,5-8,24.6,2026-05-19,A/B Testing|Jenkins|Kubernetes|Product Metrics|SQL|Statistics|TypeScript
+JOB01208,Backend Developer,Northbridge Analytics,Delhi NCR,3-5,16.9,2026-08-06,AWS|MLOps|Microservices|REST API|Redis|SQL|System Design|TypeScript
+JOB01209,Product Analyst,ByteBloom,Delhi NCR,1-3,11.0,2026-05-02,A/B Testing|Product Metrics|Statistics|Tableau|TypeScript
+JOB01210,Full Stack Developer,Innotech Systems,Mumbai,1-3,9.7,2026-04-30,AWS|Docker|JavaScript|Kubernetes|MongoDB|REST API|Redux|TypeScript
+JOB01211,Data Analyst,Meridian Softworks,Chennai,5-8,21.0,2026-06-03,AWS|Excel|Kubernetes|Looker|Pandas|Power BI|Python|Redux|SQL|Statistics
+JOB01212,Business Analyst,TrueNorth Data,Hyderabad,0-1,4.4,2026-06-15,AWS|Excel|GenAI Tools|Jira|Power BI|SQL
+JOB01213,ML Engineer,DataNest,Noida,1-3,8.6,2026-08-07,AWS|Docker|GenAI Tools|Kubernetes|MLOps|Machine Learning|SQL|TypeScript
+JOB01214,Data Scientist,Fintara,Gurugram,1-3,9.2,2026-08-06,Deep Learning|Excel|GenAI Tools|Kubernetes|MLOps|PyTorch|SQL
+JOB01215,Backend Developer,BrightWave Solutions,Pune,8+,30.6,2026-04-08,AWS|Jenkins|REST API|Redis|Redux|SQL|System Design
+JOB01216,Full Stack Developer,Ironclad Technologies,Hyderabad,3-5,13.1,2026-05-20,AWS|Docker|MLOps|Node.js|REST API|TypeScript
+JOB01217,Data Engineer,ByteBloom,Remote,3-5,19.9,2026-05-26,AWS|Airflow|GCP|Kafka|MLOps|Spark|TypeScript
+JOB01218,Data Analyst,Quantify Labs,Delhi NCR,1-3,9.2,2026-07-01,AWS|Excel|GenAI Tools|Jenkins|Kubernetes|Looker|MLOps|Power BI|Redux
+JOB01219,Full Stack Developer,PixelForge,Bengaluru,1-3,10.9,2026-05-01,AWS|Docker|Excel|JavaScript|Jenkins|MongoDB|Node.js|TypeScript
+JOB01220,Business Analyst,BrightWave Solutions,Bengaluru,0-1,3.8,2026-05-10,Excel|Jira|MLOps|Power BI|Redux|Requirements Gathering|SQL|Stakeholder Management|Statistics
+JOB01221,Product Analyst,Vertex Software,Chennai,8+,41.0,2026-06-30,A/B Testing|Excel|GenAI Tools|Jenkins|Kubernetes|MLOps|Power BI|Product Metrics|Python|SQL|Tableau
+JOB01222,Backend Developer,Quantify Labs,Pune,1-3,7.7,2026-03-14,Node.js|REST API|Redis|SQL
+JOB01223,Business Analyst,CloudPeak Technologies,Bengaluru,3-5,9.7,2026-03-23,Excel|Jenkins|Jira|Kubernetes|Power BI|Redux|Requirements Gathering|SQL|Stakeholder Management
+JOB01224,Business Analyst,Fintara,Pune,5-8,23.8,2026-04-14,Excel|Jenkins|MLOps|SQL|Stakeholder Management|Statistics|Tableau
+JOB01225,DevOps Engineer,Vertex Software,Gurugram,3-5,15.1,2026-06-09,AWS|Docker|GCP|GenAI Tools|Jenkins|Kubernetes|Linux|MLOps|Terraform
+JOB01226,Data Engineer,BrightWave Solutions,Hyderabad,5-8,26.0,2026-05-07,AWS|Data Warehousing|Docker|Kafka|MLOps|Spark|TypeScript
+JOB01227,Full Stack Developer,GreenPath Analytics,Delhi NCR,3-5,16.0,2026-06-16,AWS|Docker|Excel|GenAI Tools|Kubernetes|MongoDB|REST API|Redux|TypeScript
+JOB01228,Backend Developer,Fintara,Hyderabad,5-8,20.4,2026-03-27,Docker|Microservices|REST API|Redis|TypeScript
+JOB01229,MERN Stack Developer,Northbridge Analytics,Noida,0-1,5.0,2026-03-21,Excel|Express.js|JWT|Jenkins|MongoDB|Node.js|REST API|React|Redux
+JOB01230,Product Analyst,PixelForge,Pune,1-3,7.3,2026-08-05,A/B Testing|AWS|Excel|Power BI|SQL|Statistics|Tableau|TypeScript
+JOB01231,Data Engineer,Pinnacle Cloud,Chennai,3-5,16.1,2026-04-19,AWS|Data Warehousing|Docker|GCP|Kafka|TypeScript
+JOB01232,Data Analyst,PixelForge,Bengaluru,5-8,26.2,2026-07-29,A/B Testing|AWS|GenAI Tools|SQL|Tableau
+JOB01233,Product Analyst,Arclight IT,Hyderabad,1-3,11.5,2026-08-25,A/B Testing|Excel|Product Metrics|Python|SQL|Statistics|Tableau|TypeScript
+JOB01234,Full Stack Developer,Quantify Labs,Delhi NCR,0-1,6.3,2026-04-04,AWS|Docker|JavaScript|Jenkins|Kubernetes|MongoDB|Node.js|React|Redux
+JOB01235,Data Analyst,Quantify Labs,Mumbai,1-3,7.0,2026-06-04,AWS|Excel|Looker|MLOps|SQL|Tableau|TypeScript
+JOB01236,Data Scientist,CloudPeak Technologies,Delhi NCR,3-5,12.9,2026-05-23,MLOps|Pandas|PyTorch|Python|Scikit-learn|Statistics
+JOB01237,Product Analyst,GreenPath Analytics,Bengaluru,5-8,27.3,2026-06-28,A/B Testing|MLOps|Power BI|Product Metrics|Python|Redux|SQL|Statistics|Tableau|TypeScript
+JOB01238,ML Engineer,Arclight IT,Hyderabad,1-3,12.4,2026-04-06,AWS|Deep Learning|Excel|GenAI Tools|Machine Learning|PyTorch|Python|Redux|SQL
+JOB01239,DevOps Engineer,Meridian Softworks,Hyderabad,8+,38.5,2026-08-27,CI/CD|Docker|GenAI Tools|Jenkins|Kubernetes|MLOps|Terraform
+JOB01240,DevOps Engineer,CloudPeak Technologies,Pune,0-1,4.9,2026-08-07,AWS|GenAI Tools|Jenkins|Kubernetes|MLOps|Python|Terraform|TypeScript
+JOB01241,Backend Developer,Quantify Labs,Noida,1-3,9.1,2026-03-23,AWS|Docker|Excel|Microservices|MongoDB|Node.js|Redux|SQL|TypeScript
+JOB01242,Business Analyst,DataNest,Mumbai,8+,25.3,2026-07-23,Excel|GenAI Tools|Jenkins|Jira|MLOps|Power BI|Requirements Gathering|SQL|Statistics|Tableau
+JOB01243,Data Scientist,PixelForge,Bengaluru,5-8,32.5,2026-04-20,Deep Learning|GenAI Tools|MLOps|Machine Learning|Scikit-learn
+JOB01244,Full Stack Developer,Pinnacle Cloud,Remote,3-5,16.4,2026-05-26,AWS|Excel|JavaScript|MLOps|MongoDB|Node.js|REST API|Redux|SQL|TypeScript
+JOB01245,Backend Developer,Corestack,Bengaluru,8+,42.8,2026-08-27,AWS|Docker|Excel|GenAI Tools|Jenkins|MLOps|Microservices|MongoDB|REST API|SQL|System Design|TypeScript
+JOB01246,ML Engineer,Skyline InfoTech,Chennai,0-1,5.2,2026-03-21,AWS|Deep Learning|Docker|Jenkins|Kubernetes|MLOps|Machine Learning|Python|Redux|SQL|TypeScript
+JOB01247,MERN Stack Developer,Fintara,Noida,3-5,12.6,2026-08-05,AWS|Excel|GenAI Tools|JWT|JavaScript|Node.js|REST API|Redux
+JOB01248,Business Analyst,Arclight IT,Kolkata,8+,31.2,2026-08-27,Excel|GenAI Tools|Power BI|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB01249,Backend Developer,Pinnacle Cloud,Delhi NCR,8+,44.3,2026-08-27,AWS|Excel|GenAI Tools|Jenkins|MLOps|Microservices|MongoDB|Node.js|REST API|Redux|SQL|System Design|TypeScript
+JOB01250,MERN Stack Developer,PixelForge,Delhi NCR,3-5,11.0,2026-03-21,Jenkins|MongoDB|Node.js|React|Redux|TypeScript
+JOB01251,Data Analyst,Arclight IT,Mumbai,5-8,24.4,2026-06-16,A/B Testing|Excel|GenAI Tools|MLOps|Pandas
+JOB01252,MERN Stack Developer,TrueNorth Data,Bengaluru,5-8,23.2,2026-06-18,AWS|Kubernetes|MongoDB|Node.js|React|TypeScript
+JOB01253,Data Scientist,PixelForge,Bengaluru,3-5,13.4,2026-05-18,Deep Learning|GenAI Tools|MLOps|Redux|Scikit-learn
+JOB01254,Backend Developer,CloudPeak Technologies,Chennai,3-5,16.3,2026-07-13,AWS|Kubernetes|MLOps|Microservices|MongoDB|Redux|SQL
+JOB01255,ML Engineer,Meridian Softworks,Kolkata,3-5,17.3,2026-07-16,AWS|GenAI Tools|Kubernetes|MLOps|PyTorch|SQL
+JOB01256,Business Analyst,Arclight IT,Hyderabad,8+,33.5,2026-06-30,Excel|GenAI Tools|Redux|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB01257,DevOps Engineer,CloudPeak Technologies,Bengaluru,1-3,7.8,2026-05-12,AWS|Docker|GCP|GenAI Tools|Jenkins|Kubernetes|Linux|MLOps|Terraform
+JOB01258,Backend Developer,Novara Systems,Kolkata,1-3,8.7,2026-03-05,AWS|Jenkins|MongoDB|Node.js|Redis|System Design
+JOB01259,ML Engineer,CloudPeak Technologies,Mumbai,3-5,13.5,2026-08-21,AWS|Deep Learning|Docker|GenAI Tools|MLOps|PyTorch|Python|Redux|TypeScript
+JOB01260,Product Analyst,Lumen Digital,Delhi NCR,3-5,15.9,2026-06-25,A/B Testing|Excel|GenAI Tools|Kubernetes|Power BI|Product Metrics|Python|SQL|Statistics|Tableau
+JOB01261,Full Stack Developer,Quantify Labs,Noida,3-5,11.1,2026-04-01,GenAI Tools|JavaScript|Kubernetes|MLOps|Node.js|REST API|TypeScript
+JOB01262,ML Engineer,Innotech Systems,Chennai,8+,52.8,2026-07-26,AWS|Deep Learning|Docker|GenAI Tools|MLOps|Machine Learning|PyTorch|Redux|SQL
+JOB01263,Data Scientist,Lumen Digital,Noida,1-3,9.3,2026-08-20,AWS|Deep Learning|GenAI Tools|MLOps|Pandas|Python|Scikit-learn|Statistics|TypeScript
+JOB01264,Full Stack Developer,TrueNorth Data,Remote,3-5,15.4,2026-05-16,AWS|Jenkins|MongoDB|REST API|SQL|TypeScript
+JOB01265,Full Stack Developer,Corestack,Kolkata,3-5,15.9,2026-04-13,AWS|Docker|GenAI Tools|MongoDB|REST API
+JOB01266,MERN Stack Developer,Skyline InfoTech,Delhi NCR,8+,27.3,2026-07-04,AWS|JavaScript|Jenkins|MongoDB|REST API|React
+JOB01267,Business Analyst,Ironclad Technologies,Delhi NCR,5-8,16.8,2026-06-12,Excel|Jira|MLOps|Power BI|Requirements Gathering|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB01268,DevOps Engineer,Vertex Software,Kolkata,1-3,10.8,2026-07-02,AWS|Kubernetes|Linux|MLOps|Python|Redux|Terraform|TypeScript
+JOB01269,Business Analyst,Novara Systems,Noida,3-5,10.6,2026-07-30,AWS|GenAI Tools|Jira|MLOps|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB01270,Full Stack Developer,ByteBloom,Noida,8+,28.4,2026-07-25,AWS|GenAI Tools|Kubernetes|MongoDB|Node.js|REST API|React|Redux|SQL
+JOB01271,Product Analyst,Northbridge Analytics,Noida,3-5,15.1,2026-04-29,Power BI|Product Metrics|Python|Tableau
+JOB01272,Data Scientist,CloudPeak Technologies,Hyderabad,1-3,12.2,2026-04-15,Deep Learning|Excel|Jenkins|Machine Learning|SQL|Statistics
+JOB01273,Data Analyst,Arclight IT,Pune,0-1,3.7,2026-08-25,A/B Testing|AWS|Kubernetes|Looker|MLOps|Power BI|Python|SQL|Statistics|Tableau
+JOB01274,ML Engineer,Corestack,Remote,1-3,9.8,2026-07-08,Deep Learning|MLOps|Machine Learning|PyTorch|Python|TypeScript
+JOB01275,Backend Developer,Northbridge Analytics,Noida,3-5,15.1,2026-06-27,AWS|GenAI Tools|Jenkins|Kubernetes|MLOps|REST API|SQL|System Design
+JOB01276,Backend Developer,GreenPath Analytics,Pune,1-3,10.0,2026-06-19,AWS|Kubernetes|MongoDB|Node.js|Redux|System Design|TypeScript
+JOB01277,Business Analyst,Northbridge Analytics,Remote,5-8,19.1,2026-07-03,AWS|Jira|MLOps|Power BI|SQL|Stakeholder Management|Tableau
+JOB01278,Data Scientist,CloudPeak Technologies,Remote,5-8,30.2,2026-06-01,AWS|Deep Learning|Machine Learning|Pandas|PyTorch|Python|SQL|Scikit-learn|TypeScript
+JOB01279,Full Stack Developer,Vertex Software,Gurugram,5-8,19.9,2026-05-05,AWS|Docker|GenAI Tools|JavaScript|Jenkins|MongoDB|React|Redux|SQL|TypeScript
+JOB01280,Data Engineer,ByteBloom,Gurugram,5-8,30.4,2026-06-03,AWS|Airflow|Docker|ETL|Excel|GCP|GenAI Tools|Jenkins|Kafka|MLOps|SQL|Spark
+JOB01281,Business Analyst,GreenPath Analytics,Delhi NCR,3-5,11.9,2026-04-24,AWS|Excel|Jenkins|Power BI|Requirements Gathering|Stakeholder Management
+JOB01282,Business Analyst,ByteBloom,Delhi NCR,0-1,4.6,2026-06-08,AWS|Excel|GenAI Tools|MLOps|Power BI|Requirements Gathering|SQL|Statistics|TypeScript
+JOB01283,Full Stack Developer,Innotech Systems,Delhi NCR,1-3,8.5,2026-06-11,Docker|Excel|JavaScript|Jenkins|REST API|SQL
+JOB01284,Data Scientist,Vertex Software,Delhi NCR,5-8,26.9,2026-08-23,AWS|GenAI Tools|MLOps|Machine Learning|PyTorch|Statistics
+JOB01285,DevOps Engineer,Vertex Software,Hyderabad,5-8,24.3,2026-06-15,Excel|GCP|GenAI Tools|Jenkins|Kubernetes|Terraform
+JOB01286,Data Scientist,GreenPath Analytics,Delhi NCR,5-8,23.1,2026-07-26,AWS|GenAI Tools|Jenkins|MLOps|Pandas|Python|SQL|Scikit-learn|Statistics
+JOB01287,Data Scientist,Arclight IT,Delhi NCR,3-5,14.3,2026-04-22,Deep Learning|MLOps|Pandas|Redux|SQL
+JOB01288,Full Stack Developer,CloudPeak Technologies,Delhi NCR,0-1,5.9,2026-08-21,AWS|Docker|GenAI Tools|Kubernetes|Node.js|React|SQL
+JOB01289,Business Analyst,Skyline InfoTech,Remote,1-3,6.7,2026-03-05,Excel|Jenkins|Jira|Power BI|Requirements Gathering|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB01290,Product Analyst,BrightWave Solutions,Remote,1-3,7.5,2026-04-11,Excel|Jenkins|Kubernetes|Product Metrics|Statistics|Tableau
+JOB01291,Data Scientist,Lumen Digital,Bengaluru,0-1,6.8,2026-07-14,GenAI Tools|Jenkins|Kubernetes|MLOps|Machine Learning|Pandas|PyTorch|Redux|Scikit-learn|TypeScript
+JOB01292,Full Stack Developer,Novara Systems,Chennai,1-3,8.9,2026-05-21,AWS|Docker|GenAI Tools|MLOps|REST API|React|SQL|TypeScript
+JOB01293,DevOps Engineer,TrueNorth Data,Gurugram,3-5,12.4,2026-06-29,CI/CD|Docker|Excel|GenAI Tools|Jenkins|Python
+JOB01294,Product Analyst,Meridian Softworks,Pune,5-8,25.8,2026-05-21,A/B Testing|AWS|GenAI Tools|Jenkins|Power BI|Python|SQL|Statistics
+JOB01295,Product Analyst,Quantify Labs,Remote,1-3,7.3,2026-08-26,A/B Testing|Excel|MLOps|Python|SQL|Tableau|TypeScript
+JOB01296,Data Scientist,BrightWave Solutions,Noida,0-1,5.4,2026-06-20,AWS|Deep Learning|MLOps|PyTorch|Python|SQL|Scikit-learn
+JOB01297,Full Stack Developer,BrightWave Solutions,Remote,3-5,13.4,2026-08-14,AWS|Docker|GenAI Tools|Kubernetes|MongoDB|REST API|TypeScript
+JOB01298,Product Analyst,DataNest,Chennai,1-3,9.1,2026-08-08,A/B Testing|Excel|GenAI Tools|Product Metrics|Python|Statistics|TypeScript
+JOB01299,Business Analyst,Lumen Digital,Mumbai,1-3,7.3,2026-03-18,Excel|Kubernetes|Power BI|Requirements Gathering|SQL|Statistics
+JOB01300,Product Analyst,Pinnacle Cloud,Bengaluru,1-3,11.3,2026-06-29,Excel|Power BI|Product Metrics|SQL|Statistics|Tableau
+JOB01301,Data Scientist,Arclight IT,Hyderabad,0-1,4.8,2026-08-07,GenAI Tools|MLOps|Pandas|PyTorch|Statistics|TypeScript
+JOB01302,Data Engineer,Lumen Digital,Chennai,0-1,5.1,2026-06-21,AWS|Airflow|ETL|Kafka|Kubernetes|MLOps|Python|SQL
+JOB01303,DevOps Engineer,Lumen Digital,Noida,1-3,10.7,2026-08-27,Docker|GCP|Kubernetes|MLOps|Redux|Terraform|TypeScript
+JOB01304,Backend Developer,Lumen Digital,Hyderabad,0-1,5.6,2026-07-25,AWS|Docker|GenAI Tools|Node.js|REST API|Redis|SQL|TypeScript
+JOB01305,DevOps Engineer,DataNest,Remote,1-3,11.0,2026-03-14,AWS|CI/CD|GenAI Tools|Jenkins|Kubernetes|Python
+JOB01306,Full Stack Developer,Skyline InfoTech,Mumbai,3-5,17.9,2026-07-20,AWS|Docker|GenAI Tools|MLOps|MongoDB|REST API|React|SQL
+JOB01307,MERN Stack Developer,PixelForge,Bengaluru,1-3,11.3,2026-05-08,AWS|Excel|Express.js|JavaScript|MLOps|Node.js|Redux|TypeScript
+JOB01308,DevOps Engineer,Ironclad Technologies,Hyderabad,1-3,11.9,2026-03-07,CI/CD|Docker|Excel|Jenkins|Kubernetes|Linux|Python|Redux|Terraform
+JOB01309,Data Engineer,TrueNorth Data,Kolkata,3-5,20.3,2026-08-18,AWS|Data Warehousing|ETL|Excel|GCP|GenAI Tools|Kafka|MLOps|SQL
+JOB01310,Full Stack Developer,Lumen Digital,Delhi NCR,3-5,14.5,2026-07-25,AWS|JavaScript|Kubernetes|MLOps|REST API|React|TypeScript
+JOB01311,Full Stack Developer,Skyline InfoTech,Pune,1-3,9.0,2026-06-16,Docker|JavaScript|Jenkins|REST API|React|SQL|TypeScript
+JOB01312,Data Scientist,CloudPeak Technologies,Bengaluru,5-8,29.9,2026-04-17,AWS|Deep Learning|GenAI Tools|Machine Learning|Pandas|SQL|Scikit-learn|Statistics
+JOB01313,MERN Stack Developer,DataNest,Mumbai,1-3,7.9,2026-07-05,AWS|JWT|Kubernetes|MongoDB|REST API|React|Redux|TypeScript
+JOB01314,Data Engineer,Lumen Digital,Noida,8+,41.8,2026-07-23,Airflow|Data Warehousing|Docker|Kafka|Python|SQL|Spark|TypeScript
+JOB01315,Data Engineer,Corestack,Gurugram,3-5,13.4,2026-07-22,AWS|Airflow|Data Warehousing|Docker|GCP|Kubernetes|Python|Redux|SQL
+JOB01316,DevOps Engineer,Ironclad Technologies,Mumbai,1-3,8.8,2026-08-23,AWS|GenAI Tools|Jenkins|Kubernetes|Linux|MLOps|Python|Terraform
+JOB01317,Data Engineer,CloudPeak Technologies,Bengaluru,5-8,29.0,2026-04-09,AWS|Airflow|Data Warehousing|Docker|ETL|GCP|GenAI Tools|Jenkins|Kubernetes|TypeScript
+JOB01318,Data Scientist,Quantify Labs,Pune,1-3,9.5,2026-04-10,GenAI Tools|PyTorch|Scikit-learn|Statistics
+JOB01319,Data Analyst,TrueNorth Data,Pune,8+,42.6,2026-06-19,A/B Testing|Excel|GenAI Tools|Kubernetes|Looker|Pandas|Python|Redux|Tableau
+JOB01320,Data Analyst,BrightWave Solutions,Kolkata,3-5,11.7,2026-05-24,AWS|Excel|GenAI Tools|Looker|Power BI|Redux|SQL|Statistics|Tableau|TypeScript
+JOB01321,Business Analyst,Pinnacle Cloud,Bengaluru,0-1,5.2,2026-03-06,Jenkins|Redux|Requirements Gathering|SQL|Stakeholder Management|Tableau
+JOB01322,Full Stack Developer,Fintara,Hyderabad,8+,34.3,2026-08-14,AWS|Docker|JavaScript|Jenkins|REST API|React|Redux|TypeScript
+JOB01323,Backend Developer,Northbridge Analytics,Noida,0-1,6.4,2026-07-04,AWS|Docker|GenAI Tools|Kubernetes|MLOps|Microservices|Node.js|REST API|SQL|System Design
+JOB01324,DevOps Engineer,Skyline InfoTech,Chennai,3-5,17.4,2026-06-30,AWS|CI/CD|Docker|Excel|GCP|GenAI Tools|Jenkins|Kubernetes|Linux|Python|TypeScript
+JOB01325,Data Scientist,DataNest,Delhi NCR,5-8,21.0,2026-07-04,GenAI Tools|MLOps|Pandas|SQL|TypeScript
+JOB01326,Data Analyst,CloudPeak Technologies,Hyderabad,5-8,25.9,2026-06-05,A/B Testing|Excel|GenAI Tools|Power BI|Python|Redux|SQL|Tableau|TypeScript
+JOB01327,Data Analyst,Ironclad Technologies,Delhi NCR,1-3,10.3,2026-03-19,A/B Testing|Excel|GenAI Tools|Pandas|Power BI
+JOB01328,ML Engineer,CloudPeak Technologies,Delhi NCR,0-1,6.3,2026-04-07,Deep Learning|Docker|Jenkins|MLOps|Machine Learning|Python|Redux|SQL
+JOB01329,DevOps Engineer,DataNest,Hyderabad,3-5,16.3,2026-05-28,AWS|GCP|Jenkins|Kubernetes|Linux|Terraform
+JOB01330,Data Scientist,Meridian Softworks,Hyderabad,5-8,25.8,2026-04-02,Excel|GenAI Tools|Jenkins|MLOps|Machine Learning|Pandas|Scikit-learn|Statistics
+JOB01331,MERN Stack Developer,Ironclad Technologies,Bengaluru,8+,30.3,2026-04-01,AWS|Express.js|GenAI Tools|Jenkins|REST API|Redux|TypeScript
+JOB01332,Data Scientist,Corestack,Kolkata,5-8,21.3,2026-03-17,Deep Learning|GenAI Tools|Jenkins|Kubernetes|MLOps|Machine Learning|PyTorch|Redux|SQL
+JOB01333,Data Scientist,Ironclad Technologies,Remote,8+,45.2,2026-07-13,Deep Learning|Excel|Kubernetes|MLOps|PyTorch|SQL|Scikit-learn|Statistics
+JOB01334,Data Engineer,Vertex Software,Mumbai,0-1,5.3,2026-08-18,Airflow|Data Warehousing|Docker|ETL|Kubernetes|SQL|Spark
+JOB01335,Product Analyst,Quantify Labs,Bengaluru,5-8,24.8,2026-08-09,AWS|Excel|GenAI Tools|MLOps|Power BI|Product Metrics|Redux|SQL|Tableau
+JOB01336,Data Engineer,ByteBloom,Chennai,5-8,26.3,2026-06-12,AWS|Airflow|Data Warehousing|Docker|ETL|GCP|Kubernetes|SQL|Spark
+JOB01337,Data Engineer,GreenPath Analytics,Mumbai,0-1,4.5,2026-04-06,Data Warehousing|GCP|GenAI Tools|Jenkins|Kafka|SQL|Spark
+JOB01338,Backend Developer,Quantify Labs,Delhi NCR,1-3,11.5,2026-08-29,AWS|Docker|GenAI Tools|MLOps|Microservices|Node.js|REST API|Redux|TypeScript
+JOB01339,MERN Stack Developer,ByteBloom,Pune,3-5,15.8,2026-06-19,AWS|JWT|JavaScript|Jenkins|Kubernetes|MongoDB|Redux|TypeScript
+JOB01340,Backend Developer,PixelForge,Hyderabad,1-3,12.1,2026-06-10,AWS|Docker|MLOps|Microservices|MongoDB|Node.js|Redux|SQL|System Design|TypeScript
+JOB01341,Business Analyst,Innotech Systems,Mumbai,8+,29.9,2026-05-27,AWS|GenAI Tools|Jira|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB01342,Business Analyst,Pinnacle Cloud,Mumbai,1-3,6.7,2026-03-14,Jira|Requirements Gathering|SQL|Stakeholder Management
+JOB01343,Data Analyst,Fintara,Noida,5-8,20.4,2026-03-23,A/B Testing|Jenkins|Looker|Pandas|Power BI|SQL|Statistics|Tableau
+JOB01344,DevOps Engineer,DataNest,Chennai,3-5,16.0,2026-03-30,AWS|CI/CD|Docker|GCP|Jenkins
+JOB01345,Full Stack Developer,Arclight IT,Chennai,0-1,5.7,2026-08-20,AWS|Docker|JavaScript|Kubernetes|MongoDB|REST API|Redux|SQL|TypeScript
+JOB01346,Backend Developer,DataNest,Mumbai,8+,41.1,2026-07-06,AWS|Docker|Excel|GenAI Tools|Kubernetes|MLOps|Microservices|MongoDB|Node.js|REST API|Redux|System Design
+JOB01347,ML Engineer,Fintara,Hyderabad,1-3,14.0,2026-06-20,AWS|Deep Learning|Excel|GenAI Tools|MLOps|Machine Learning|PyTorch|SQL
+JOB01348,Backend Developer,DataNest,Gurugram,0-1,4.4,2026-03-21,GenAI Tools|Microservices|Node.js|REST API|SQL|System Design|TypeScript
+JOB01349,Product Analyst,ByteBloom,Delhi NCR,1-3,8.1,2026-03-09,Jenkins|Power BI|Product Metrics|Python|Redux|SQL|Statistics|Tableau
+JOB01350,Business Analyst,BrightWave Solutions,Pune,1-3,7.0,2026-08-08,Excel|Jira|MLOps|Power BI|Redux|SQL|Stakeholder Management|Statistics|Tableau|TypeScript
+JOB01351,Full Stack Developer,PixelForge,Chennai,3-5,18.1,2026-03-09,AWS|JavaScript|MLOps|MongoDB|React|SQL|TypeScript
+JOB01352,Backend Developer,DataNest,Gurugram,8+,35.7,2026-08-08,AWS|Docker|GenAI Tools|Kubernetes|MLOps|MongoDB|Node.js|SQL|System Design
+JOB01353,ML Engineer,Lumen Digital,Chennai,1-3,11.5,2026-05-11,Deep Learning|Docker|Excel|GenAI Tools|Kubernetes|MLOps|PyTorch|Python|SQL
+JOB01354,MERN Stack Developer,Corestack,Delhi NCR,3-5,14.1,2026-03-31,Express.js|JWT|JavaScript|MLOps|Redux|TypeScript
+JOB01355,Full Stack Developer,Pinnacle Cloud,Gurugram,5-8,25.0,2026-05-27,AWS|Docker|JavaScript|MongoDB|Node.js|REST API
+JOB01356,Data Engineer,Pinnacle Cloud,Gurugram,1-3,9.2,2026-06-20,AWS|Airflow|Data Warehousing|Excel|GenAI Tools|Jenkins|Kafka|Redux|Spark|TypeScript
+JOB01357,MERN Stack Developer,BrightWave Solutions,Pune,5-8,29.0,2026-06-20,AWS|Express.js|GenAI Tools|JavaScript|MLOps|Node.js|REST API|Redux|TypeScript
+JOB01358,ML Engineer,ByteBloom,Delhi NCR,3-5,23.1,2026-08-07,AWS|Deep Learning|Docker|GenAI Tools|Kubernetes|MLOps|Machine Learning|TypeScript
+JOB01359,Backend Developer,Ironclad Technologies,Pune,1-3,10.7,2026-05-28,Excel|Kubernetes|Microservices|Node.js|Redis|SQL
+JOB01360,MERN Stack Developer,Corestack,Pune,0-1,3.8,2026-03-19,AWS|Excel|Express.js|GenAI Tools|JavaScript|Jenkins|Node.js|REST API|React|Redux
+JOB01361,Business Analyst,Corestack,Pune,1-3,7.8,2026-07-18,AWS|Excel|Jira|Kubernetes|Redux|SQL|Stakeholder Management|TypeScript
+JOB01362,Data Analyst,GreenPath Analytics,Remote,3-5,14.6,2026-06-26,A/B Testing|GenAI Tools|Jenkins|Pandas|Statistics|TypeScript
+JOB01363,Business Analyst,Pinnacle Cloud,Chennai,1-3,8.3,2026-05-13,Excel|Jira|Stakeholder Management|Statistics|Tableau
+JOB01364,MERN Stack Developer,CloudPeak Technologies,Gurugram,1-3,10.8,2026-05-02,Express.js|MLOps|MongoDB|Node.js|React
+JOB01365,Business Analyst,Pinnacle Cloud,Delhi NCR,1-3,9.4,2026-07-18,Excel|GenAI Tools|Jira|Kubernetes|Requirements Gathering|SQL
+JOB01366,Full Stack Developer,TrueNorth Data,Noida,5-8,18.5,2026-05-10,Docker|Jenkins|MLOps|MongoDB|REST API|TypeScript
+JOB01367,DevOps Engineer,Arclight IT,Noida,1-3,12.2,2026-08-18,Docker|GCP|Kubernetes|Linux|TypeScript
+JOB01368,Product Analyst,TrueNorth Data,Pune,3-5,11.4,2026-08-26,A/B Testing|AWS|GenAI Tools|Kubernetes|Power BI|Product Metrics|Python|Statistics|Tableau|TypeScript
+JOB01369,Data Scientist,TrueNorth Data,Noida,3-5,16.9,2026-07-18,Jenkins|Kubernetes|MLOps|Machine Learning|Pandas|PyTorch|Scikit-learn|Statistics|TypeScript
+JOB01370,Full Stack Developer,Vertex Software,Pune,3-5,14.9,2026-08-11,AWS|Docker|Excel|GenAI Tools|JavaScript|Kubernetes|Node.js|REST API|React|SQL|TypeScript
+JOB01371,DevOps Engineer,ByteBloom,Delhi NCR,0-1,5.4,2026-03-01,AWS|CI/CD|Docker|Excel|GCP|Jenkins|Python|Redux|Terraform|TypeScript
+JOB01372,ML Engineer,Northbridge Analytics,Chennai,3-5,15.4,2026-04-03,Deep Learning|Excel|GenAI Tools|Kubernetes|Python|SQL
+JOB01373,Data Engineer,Corestack,Hyderabad,3-5,14.4,2026-07-23,AWS|Data Warehousing|GCP|Jenkins|Kafka|SQL|Spark|TypeScript
+JOB01374,Product Analyst,Pinnacle Cloud,Bengaluru,5-8,23.8,2026-07-15,A/B Testing|Excel|Jenkins|Power BI|Python|Redux
+JOB01375,Data Scientist,TrueNorth Data,Delhi NCR,0-1,4.9,2026-05-11,GenAI Tools|Kubernetes|Python|SQL|Scikit-learn|TypeScript
+JOB01376,Data Analyst,Vertex Software,Bengaluru,1-3,9.8,2026-07-12,A/B Testing|GenAI Tools|Looker|Python|TypeScript
+JOB01377,MERN Stack Developer,Ironclad Technologies,Delhi NCR,3-5,11.2,2026-03-01,Excel|JWT|Jenkins|MongoDB|Node.js|REST API|Redux|TypeScript
+JOB01378,Data Analyst,Northbridge Analytics,Remote,1-3,10.6,2026-06-07,A/B Testing|Excel|GenAI Tools|Pandas|Tableau
+JOB01379,Data Scientist,Innotech Systems,Noida,1-3,10.3,2026-05-02,Excel|GenAI Tools|MLOps|Machine Learning|Pandas|Python|SQL|Scikit-learn|TypeScript
+JOB01380,DevOps Engineer,TrueNorth Data,Delhi NCR,3-5,19.2,2026-07-30,AWS|CI/CD|Docker|GCP|Jenkins|Linux|MLOps|Python
+JOB01381,Data Scientist,Novara Systems,Chennai,5-8,24.5,2026-03-09,Deep Learning|GenAI Tools|Jenkins|SQL|Scikit-learn|Statistics
+JOB01382,MERN Stack Developer,Quantify Labs,Remote,3-5,18.0,2026-07-06,AWS|Express.js|JWT|MongoDB|Node.js|React|TypeScript
+JOB01383,ML Engineer,Vertex Software,Hyderabad,0-1,5.4,2026-03-10,AWS|Deep Learning|Docker|GenAI Tools|Jenkins|MLOps|Machine Learning|PyTorch
+JOB01384,Data Analyst,Pinnacle Cloud,Gurugram,0-1,3.6,2026-06-01,Excel|GenAI Tools|Looker|Pandas|Power BI|Redux|SQL|Statistics
+JOB01385,ML Engineer,GreenPath Analytics,Remote,1-3,14.0,2026-05-08,Excel|MLOps|Machine Learning|PyTorch|SQL|TypeScript
+JOB01386,Business Analyst,Vertex Software,Kolkata,0-1,3.9,2026-06-17,AWS|Excel|GenAI Tools|Jenkins|MLOps|Power BI|SQL|Stakeholder Management|Tableau|TypeScript
+JOB01387,MERN Stack Developer,ByteBloom,Hyderabad,5-8,21.1,2026-08-09,AWS|GenAI Tools|JavaScript|MongoDB|Node.js|REST API|React|Redux|TypeScript
+JOB01388,ML Engineer,Quantify Labs,Gurugram,0-1,7.7,2026-05-09,AWS|Deep Learning|Docker|Jenkins|MLOps|PyTorch|SQL
+JOB01389,Data Engineer,Innotech Systems,Mumbai,1-3,8.2,2026-08-25,AWS|Airflow|Docker|ETL|GCP|Kubernetes|MLOps|Redux|SQL|Spark|TypeScript
+JOB01390,Business Analyst,Novara Systems,Remote,0-1,3.9,2026-08-11,Excel|Kubernetes|Power BI|Requirements Gathering|Stakeholder Management|Statistics|Tableau
+JOB01391,Data Engineer,Pinnacle Cloud,Noida,1-3,11.4,2026-05-14,AWS|Data Warehousing|Jenkins|Kafka|Kubernetes|MLOps|Redux|Spark|TypeScript
+JOB01392,Data Engineer,Corestack,Mumbai,1-3,12.4,2026-03-15,Data Warehousing|Excel|GCP|GenAI Tools|Redux|SQL|Spark
+JOB01393,Data Scientist,Lumen Digital,Bengaluru,1-3,12.1,2026-03-24,AWS|Deep Learning|Excel|GenAI Tools|Machine Learning|Pandas|Python|SQL|Scikit-learn|TypeScript
+JOB01394,Business Analyst,Pinnacle Cloud,Delhi NCR,8+,28.8,2026-06-01,Excel|Jenkins|Kubernetes|Power BI|Redux|Requirements Gathering|SQL|Stakeholder Management|Statistics|Tableau
+JOB01395,DevOps Engineer,Vertex Software,Hyderabad,3-5,12.7,2026-05-23,AWS|Excel|GCP|Jenkins|Linux|Python|Redux
+JOB01396,Data Scientist,PixelForge,Noida,3-5,13.5,2026-07-10,MLOps|Pandas|PyTorch|SQL|Scikit-learn
+JOB01397,DevOps Engineer,Meridian Softworks,Kolkata,8+,44.8,2026-07-26,AWS|CI/CD|GCP|Jenkins|Terraform
+JOB01398,Data Scientist,Corestack,Kolkata,8+,49.4,2026-04-24,GenAI Tools|Kubernetes|MLOps|Machine Learning|Pandas|Python|SQL|Statistics
+JOB01399,Business Analyst,Skyline InfoTech,Gurugram,5-8,20.6,2026-05-23,AWS|Excel|Power BI|Redux|Requirements Gathering|Statistics|Tableau|TypeScript
+JOB01400,Backend Developer,Corestack,Remote,1-3,6.8,2026-06-03,Excel|GenAI Tools|Kubernetes|MLOps|Microservices|Node.js|REST API|SQL|TypeScript
