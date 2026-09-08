@@ -21,7 +21,7 @@ backend/                Node.js + Express REST API reading from job_market.db
 
 frontend/                React + Recharts dashboard, calls the API
     src/App.jsx
-    src/components/          TrendingSkills, MonthlyVolume, RoleLeaderboard, SkillGapTool
+    src/components/          TrendingSkills, MonthlyVolume, RoleLeaderboard, SalaryBands, SkillsByLocation, SkillCooccurrence, SkillGapTool, PricingModalj
 
 docs/
     genai_integration.md     how the real Claude API call works & how to enable it
@@ -96,6 +96,7 @@ The frontend dev server proxies `/api/*` to `http://localhost:5000`
 | `/api/analytics/trending-skills` | GET | Fastest-growing skills, last 30 vs prior 30 days |
 | `/api/analytics/salary-bands?role=X` | GET | Avg/min/max salary by role & experience band |
 | `/api/analytics/skills-by-location` | GET | Top 5 skills per location |
+| `/api/analytics/skill-cooccurrence?skill=X` | GET | Skills that most often appear alongside skill X (self-join) |
 | `/api/analytics/monthly-volume` | GET | Posting volume trend over time |
 | `/api/analytics/role-salary-leaderboard` | GET | Avg salary ranked by role |
 | `/api/analytics/roles` | GET | Distinct role list |
@@ -103,7 +104,7 @@ The frontend dev server proxies `/api/*` to `http://localhost:5000`
 | `/api/usage/:deviceId` | GET | Current plan, checks used, remaining |
 | `/api/usage/upgrade` | POST | `{deviceId, plan}` → switch plan (demo — see `docs/payments_integration.md` for real billing) |
 
-## Why this project is interview-worthy
+## Technical Highlights
 
 Most portfolio "data analyst" projects stop at a static chart on a CSV.
 This one shows the full chain a working analyst/analytics-engineer is
@@ -116,8 +117,4 @@ actually expected to reason about:
 - **Freemium usage limiting**: 3 free skill-gap checks per device, then a paywall — Pro plan unlocks unlimited checks + a detailed multi-week roadmap (demo billing, with a documented path to real Stripe/Razorpay integration in `docs/payments_integration.md`)
 - **Deployable**: step-by-step guides to push to GitHub and deploy live for free (`docs/github_setup.md`, `docs/deployment.md`)
 
-## Talking points for interviews
 
-- "I built a normalized schema instead of dumping everything in one table because skills are many-to-many with jobs — that's the kind of decision I'd make on a real analytics team."
-- "The trending-skills query uses a rolling 30-day window comparison, not just a raw count, so it surfaces *momentum*, not just popularity."
-- "I separated data generation from the rest of the pipeline on purpose — swapping in a real scraper touches one file, nothing downstream."

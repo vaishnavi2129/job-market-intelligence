@@ -188,4 +188,24 @@ Write a short, encouraging, prioritized 3-step learning plan (a few sentences ea
   }
 });
 
+// GET /api/analytics/skill-cooccurrence?skill=SQL
+// Self-join: for a given "anchor" skill, which other skills most often
+// appear together in the same job posting. Useful for "what pairs well
+// with what I already know".
+router.get("/skill-cooccurrence", (req, res) => {
+  const skill = req.query.skill || "SQL";
+  const rows = db.prepare(`
+    SELECT s2.skill_name AS coSkill, COUNT(*) AS coOccurrences
+    FROM job_skills js1
+    JOIN job_skills js2 ON js1.job_id = js2.job_id AND js1.skill_id != js2.skill_id
+    JOIN skills s1 ON s1.skill_id = js1.skill_id
+    JOIN skills s2 ON s2.skill_id = js2.skill_id
+    WHERE s1.skill_name = ?
+    GROUP BY s2.skill_name
+    ORDER BY coOccurrences DESC
+    LIMIT 10
+  `).all(skill);
+  res.json(rows);
+});
+
 module.exports = router;

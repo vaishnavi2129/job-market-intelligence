@@ -4,6 +4,7 @@ import MonthlyVolume from "./components/MonthlyVolume.jsx";
 import RoleLeaderboard from "./components/RoleLeaderboard.jsx";
 import SalaryBands from "./components/SalaryBands.jsx";
 import SkillsByLocation from "./components/SkillsByLocation.jsx";
+import SkillCooccurrence from "./components/SkillCooccurrence.jsx";
 import SkillGapTool from "./components/SkillGapTool.jsx";
 
 export default function App() {
@@ -51,6 +52,14 @@ export default function App() {
           <SkillsByLocation />
         </div>
 
+        <div className="panel">
+          <h2>Skill Co-occurrence</h2>
+          <p className="sub">What pairs with a skill you already know</p>
+          <SkillCooccurrence />
+        </div>
+      </div>
+
+      <div className="grid">
         <div className="panel">
           <h2>Skill Gap Analysis</h2>
           <p className="sub">Pick a role & your known skills to see what to learn next</p>
